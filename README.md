@@ -5,17 +5,9 @@ Welcome to my fansubs repository! Here you can find all of the fansubs I've crea
 **Fan-made subtitles**, or *fan-subs* for short, are unofficial subtitles for a movie or TV show created by fans (in this case, mostly anime). Often, fansubs will preserve cultural naunces that official subtitles sometimes don't preserve. For example, the sentences "ヒナタくん" (hinatakun) and "お兄ちゃん" (onīchan) might be translated as "Mr. Hinata" (or just "Hinata") and "big bro" by the official subtitles, fansubs might leave them as "Hinata-kun" and "onii-chan."
 
 ## How to watch my fansubs
-### Netflix
-> [!CAUTION]
-> Instructions to be done.
-
-### Hulu
-> [!CAUTION]
-> Instructions to be done.
-
-### CrunchyRoll
-> [!CAUTION]
-> Instructions to be done.
+### Streaming online
+> [!TIP]
+> O
 
 ### iTunes
 > [!CAUTION]
