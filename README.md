@@ -6,13 +6,13 @@ Welcome to my fansubs repository! Here you can find all of the fansubs I've crea
 
 ## How to watch my fansubs
 ### Streaming online
-> [!TIP]
-> O
+> [!CAUTION]
+> Instructions to be done.
 
 ### iTunes
 > [!CAUTION]
 > Instructions to be done.
 
 ### DVD
-> [!CAUTION]
+> [!IMPORTANT]
 > Instructions to be done.
