@@ -6,8 +6,23 @@ Welcome to my fansubs repository! Here you can find all of the fansubs I've crea
 
 ## How to watch my fansubs
 ### Streaming online
-> [!CAUTION]
-> Instructions to be done.
+> [!TIP]
+> On Netflix, Substital may move the video to the very top of the screen; this bug can simply be fixed by zooming all the way out (Ctrl+Equals or Cmd+Equals) and then resetting the zoom to normal (Ctrl+0 or Cmd+0).
+
+> [!IMPORTANT]
+> Substital only supports .SRT files. If the fansubs does not include a .SRT version, it won't work with Substital.
+
+#### Step 1. Install Substital
+If you haven't already, ownload Substital from their official website: https://www.substital.com/
+
+#### Step 2. Open your favorite streaming service
+Popular services supported by Substital are Netflix, Hulu, Prime Video, Disney+, and YouTube.
+
+#### Step 3. Select the video
+Go to the movie or show you want to watch, open the Substital menu, and select the video that appears.
+
+#### Step 4. Drop the .SRT file onto the page
+Drop the .SRT file onto the page, and enjoy watching!
 
 ### iTunes
 > [!CAUTION]
