@@ -16,5 +16,6 @@ Welcome to my fansubs repository! Here you can find all of the fansubs I've crea
 ### Watch on DVDs
 > [!IMPORTANT]
 > This method requires a compatible DVD.
+
 > [!CAUTION]
 > Make sure the DVD was purchased from a trusted source. DVDs on places like eBay and Temu can really be illegal pirate copies of the media.
