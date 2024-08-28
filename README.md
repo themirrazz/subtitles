@@ -10,10 +10,10 @@ Welcome to my fansubs repository! Here you can find all of the fansubs I've crea
 > On Netflix, Substital may move the video to the very top of the screen; this bug can simply be fixed by zooming all the way out (Ctrl+Equals or Cmd+Equals) and then resetting the zoom to normal (Ctrl+0 or Cmd+0).
 
 > [!IMPORTANT]
-> Substital only supports .SRT files. If the fansubs does not include a .SRT version, it won't work with Substital.
+> Substital only supports .srt files. Make sure you download the correct format.
 
 #### Step 1. Install Substital
-If you haven't already, ownload Substital from their official website: https://www.substital.com/
+If you haven't already, download Substital from their official website: https://www.substital.com/
 
 #### Step 2. Open your favorite streaming service
 Popular services supported by Substital are Netflix, Hulu, Prime Video, Disney+, and YouTube.
@@ -21,16 +21,24 @@ Popular services supported by Substital are Netflix, Hulu, Prime Video, Disney+,
 #### Step 3. Select the video
 Go to the movie or show you want to watch, open the Substital menu, and select the video that appears.
 
-#### Step 4. Drop the .SRT file onto the page
-Drop the .SRT file onto the page, and enjoy watching!
-
-### iTunes
-> [!CAUTION]
-> Instructions to be done.
+#### Step 4. Drop the .srt file onto the page
+Drop the .srt file onto the page, and boom, you're done!
 
 ### Watch on DVDs
 > [!IMPORTANT]
-> This method requires a compatible DVD drive.
+> This method requires a compatible Blu-Ray/DVD drive.
 
 > [!CAUTION]
 > Make sure the DVD was purchased from a trusted source. DVDs on places like eBay and Temu can really be illegal pirate copies of the media.
+
+#### Step 1. Install VLC Media Player
+If you haven't already, download the VLC Media Player from VideoLAN's official website: https://www.videolan.org/vlc/
+
+#### Step 2. Insert the disc
+Insert the Blu-Ray or DVD disc into the optical disk drive on your computer.
+
+#### Step 3. Open the disc in VLC
+Go to `File > Open Disc`, or press `Ctrl+D` and select the drive on your computer.
+
+#### Step 4. Add the subtitle file
+Go to `Subtitle > Add Subtitle File...`, select the subtitle file you downloaded, and enjoy the show!
