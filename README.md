@@ -13,6 +13,8 @@ Welcome to my fansubs repository! Here you can find all of the fansubs I've crea
 > [!CAUTION]
 > Instructions to be done.
 
-### DVD
+### Watch on DVDs
 > [!IMPORTANT]
-> Instructions to be done.
+> This method requires a compatible DVD.
+> [!CAUTION]
+> Make sure the DVD was purchased from a trusted source. DVDs on places like eBay and Temu can really be illegal pirate copies of the media.
