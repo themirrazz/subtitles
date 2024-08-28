@@ -30,7 +30,7 @@ Drop the .SRT file onto the page, and enjoy watching!
 
 ### Watch on DVDs
 > [!IMPORTANT]
-> This method requires a compatible DVD.
+> This method requires a compatible DVD drive.
 
 > [!CAUTION]
 > Make sure the DVD was purchased from a trusted source. DVDs on places like eBay and Temu can really be illegal pirate copies of the media.
