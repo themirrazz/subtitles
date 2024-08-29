@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="83.584s" xml:id="p0" end="84.751s">Let&#039;s go!</p>
+      <p begin="84.835s" xml:id="p1" end="86.003s">Ready, go!</p>
+      <p begin="88.255s" xml:id="p2" end="89.715s">No abnormalities were detected in the engine.</p>
+      <p begin="89.798s" xml:id="p3" end="90.799s">Copy that.</p>
+      <p begin="90.882s" xml:id="p4" end="92.259s">No abnormalities were detected in the fuel system.</p>
+      <p begin="92.342s" xml:id="p5" end="93.218s">Copy that.</p>
+      <p begin="101.56s" xml:id="p6" end="102.978s">You&#039;re Lieutenant Shikishima, right?</p>
+      <p begin="104.73s" xml:id="p7" end="107.899s">I&#039;m Tachibana, from the Tsukuba Naval Air Group&#039;s maintenance squadron.</p>
+      <p begin="107.983s" xml:id="p8" end="109.067s">Do you remember me?</p>
+      <p begin="109.151s" xml:id="p9" end="110.485s">Tachibana-san!</p>
+      <p begin="111.111s" xml:id="p10" end="113.113s">Of course! Thank you for your help during that time.</p>
+      <p begin="113.196s" xml:id="p11" end="114.031s">Yes.</p>
+      <p begin="114.615s" xml:id="p12" end="121.663s">Wow, you managed to land that low-quality aircraft<br />on this hole-filled runway.</p>
+      <p begin="121.747s" xml:id="p13" end="124.207s">As usual, your skills appear to be reliable.</p>
+      <p begin="124.291s" xml:id="p14" end="127.502s">Even though my results in mock ariel combat are good,</p>
+      <p begin="127.586s" xml:id="p15" end="130.047s">going into a real battle with no experience is different.</p>
+      <p begin="131.757s" xml:id="p16" end="135.552s">Lukcily, a malfunction in the aircraft gave you some extra time.</p>
+      <p begin="138.263s" xml:id="p17" end="139.681s">Actually...</p>
+      <p begin="140.307s" xml:id="p18" end="144.311s">No matter how hard I try, I can&#039;t find the<br />error you&#039;re talking about.</p>
+      <p begin="147.773s" xml:id="p19" end="149.65s">What are you saying?</p>
+      <p begin="173.34s" xml:id="p20" end="177.094s">Isn&#039;t it a good thing to have people like you?</p>
+      <p begin="184.393s" xml:id="p21" end="187.437s">Even if you obey an order like &quot;go die,&quot;</p>
+      <p begin="187.521s" xml:id="p22" end="190.19s">the outcome of this war is already clear.</p>
+      <p begin="245.954s" xml:id="p23" end="248.165s">- Give me a gun!<br />- Yes!</p>
+      <p begin="249.082s" xml:id="p24" end="249.916s">An enemy attack?</p>
+      <p begin="250.0s" xml:id="p25" end="251.585s">- I&#039;m not sure.<br />- What is it?</p>
+      <p begin="252.169s" xml:id="p26" end="253.587s">Something big!</p>
+      <p begin="253.67s" xml:id="p27" end="255.172s">Is it a new weapon for the US military?</p>
+      <p begin="260.594s" xml:id="p28" end="261.803s">Taki!</p>
+      <p begin="261.887s" xml:id="p29" end="264.139s">Taki! It&#039;s on the coast!</p>
+      <p begin="264.723s" xml:id="p30" end="266.767s">Copy that!</p>
+      <p begin="273.19s" xml:id="p31" end="274.524s">Wahh!!</p>
+      <p begin="278.653s" xml:id="p32" end="279.988s">Taki! Taki-san!</p>
+      <p begin="280.071s" xml:id="p33" end="281.698s">What is this thing?</p>
+      <p begin="281.782s" xml:id="p34" end="284.201s">- It&#039;s Godzilla...<br />- It&#039;s what?</p>
+      <p begin="284.284s" xml:id="p35" end="285.994s">That&#039;s what the guy on the island said.</p>
+      <p begin="286.077s" xml:id="p36" end="288.955s">He said that on days like today, when the deep-sea<br />fish float to the surface, it means Godzilla is coming.</p>
+      <p begin="289.623s" xml:id="p37" end="290.957s">Go... Godzilla?</p>
+      <p begin="297.214s" xml:id="p38" end="298.632s">It&#039;s no good.</p>
+      <p begin="298.715s" xml:id="p39" end="299.8s">Let&#039;s get out of here!</p>
+      <p begin="299.883s" xml:id="p40" end="300.717s">Run!</p>
+      <p begin="300.801s" xml:id="p41" end="302.344s">Run!</p>
+      <p begin="303.804s" xml:id="p42" end="305.388s">Hey, hurry up!</p>
+      <p begin="308.141s" xml:id="p43" end="310.936s">Hurry! Run, quickly!</p>
+      <p begin="313.063s" xml:id="p44" end="315.106s">What is that thing?</p>
+      <p begin="315.19s" xml:id="p45" end="316.608s">We&#039;re not sure either.</p>
+      <p begin="318.276s" xml:id="p46" end="319.486s">Lieutenant Shikishima!</p>
+      <p begin="319.569s" xml:id="p47" end="320.403s">What is it?</p>
+      <p begin="321.571s" xml:id="p48" end="323.657s">Can you go over there and shoot it with a 20mm?</p>
+      <p begin="324.533s" xml:id="p49" end="326.076s">You&#039;re the only person who can shoot it.</p>
+      <p begin="326.159s" xml:id="p50" end="327.994s">We&#039;re all just from maintenance squadron.</p>
+      <p begin="328.078s" xml:id="p51" end="331.498s">But wouldn&#039;t it be bad if it just gets injured?</p>
+      <p begin="331.581s" xml:id="p52" end="334.376s">No living being can survive being hit by a 20mm!</p>
+      <p begin="334.876s" xml:id="p53" end="337.212s">Hurry up!<br />Before it gets within attack range!</p>
+      <p begin="337.712s" xml:id="p54" end="339.548s">Hurry, hurry!</p>
+      <p begin="340.34s" xml:id="p55" end="341.341s">Go!</p>
+      <p begin="342.509s" xml:id="p56" end="343.343s">Hurry!</p>
+      <p begin="356.982s" xml:id="p57" end="357.983s">Go!</p>
+      <p begin="372.747s" xml:id="p58" end="374.124s">What is he doing?</p>
+      <p begin="382.173s" xml:id="p59" end="383.216s">Now! Shoot!</p>
+      <p begin="396.98s" xml:id="p60" end="399.107s">It&#039;s coming this way!</p>
+      <p begin="399.691s" xml:id="p61" end="401.192s">What should we do, Tachibana-san?</p>
+      <p begin="401.276s" xml:id="p62" end="403.57s">Ammo!<br />Get some bullets!</p>
+      <p begin="410.66s" xml:id="p63" end="412.287s">Idiot! Don&#039;t shoot it!</p>
+      <p begin="413.413s" xml:id="p64" end="416.082s">Stop, you idiot! Stop!</p>
+      <p begin="419.336s" xml:id="p65" end="421.129s">Ah!</p>
+      <p begin="421.212s" xml:id="p66" end="423.798s">Get out! Get out! Get out!</p>
+      <p begin="423.882s" xml:id="p67" end="425.133s">Hurry and get out of there!</p>
+      <p begin="430.472s" xml:id="p68" end="431.765s">Tachibana-san!</p>
+      <p begin="438.647s" xml:id="p69" end="439.898s">Shoot!</p>
+      <p begin="439.981s" xml:id="p70" end="441.608s">Ah...</p>
+      <p begin="457.707s" xml:id="p71" end="459.0s">Tomita!</p>
+      <p begin="462.837s" xml:id="p72" end="464.839s">Ahh... Ah... Ah...</p>
+      <p begin="466.257s" xml:id="p73" end="467.217s">Ah...</p>
+      <p begin="471.137s" xml:id="p74" end="472.514s">I&#039;ll draw it to the front!</p>
+      <p begin="472.597s" xml:id="p75" end="473.473s">Shoot to kill!</p>
+      <p begin="548.131s" xml:id="p76" end="550.133s">Why are you guys like this?</p>
+      <p begin="561.436s" xml:id="p77" end="562.27s">Hey!</p>
+      <p begin="565.315s" xml:id="p78" end="566.149s">Hey!</p>
+      <p begin="571.196s" xml:id="p79" end="572.781s">Everyone is dead!</p>
+      <p begin="574.866s" xml:id="p80" end="576.534s">They&#039;re dead!</p>
+      <p begin="578.661s" xml:id="p81" end="581.372s">Hey! It&#039;s because you didn&#039;t shoot it!</p>
+      <p begin="585.919s" xml:id="p82" end="587.378s">Damn you!</p>
+      <p begin="626.167s" xml:id="p83" end="627.001s">Hey!</p>
+      <p begin="628.002s" xml:id="p84" end="629.003s">Hey!</p>
+      <p begin="649.566s" xml:id="p85" end="650.775s">Move.</p>
+      <p begin="670.587s" xml:id="p86" end="672.38s">Isn&#039;t that loose?</p>
+      <p begin="672.463s" xml:id="p87" end="673.298s">Yes.</p>
+      <p begin="673.381s" xml:id="p88" end="674.674s">Pay attention carefully.</p>
+      <p begin="674.757s" xml:id="p89" end="676.259s">It&#039;s going to be a pain if things keep dragging on.</p>
+      <p begin="676.759s" xml:id="p90" end="677.594s">Yes.</p>
+      <p begin="685.143s" xml:id="p91" end="687.312s">Kōichi-san, is that you?</p>
+      <p begin="690.773s" xml:id="p92" end="692.317s">Ōta-neesan!</p>
+      <p begin="692.4s" xml:id="p93" end="694.569s">Didn&#039;t you go on a suicide attack?</p>
+      <p begin="695.278s" xml:id="p94" end="697.488s">Eh? Is that not the case?</p>
+      <p begin="705.163s" xml:id="p95" end="707.707s">And you came back with a calm face?</p>
+      <p begin="708.708s" xml:id="p96" end="710.335s">Shame on you!</p>
+      <p begin="711.753s" xml:id="p97" end="716.049s">It&#039;s because of all the soldiers are cowards that things<br />are the way they are!</p>
+      <p begin="718.384s" xml:id="p98" end="720.386s">If you guys had stayed strong...</p>
+      <p begin="721.888s" xml:id="p99" end="724.182s">...my children wouldn&#039;t have died.</p>
+      <p begin="733.691s" xml:id="p100" end="736.653s">Do you know what happened to my parents?</p>
+      <p begin="743.952s" xml:id="p101" end="745.954s">Everyone died.</p>
+      <p begin="748.248s" xml:id="p102" end="752.043s">This area was surrounded by fire.</p>
+      <p begin="754.921s" xml:id="p103" end="757.006s">Your parents too...</p>
+      <p begin="759.884s" xml:id="p104" end="762.971s">Same fate as my children.</p>
+      <p begin="780.905s" xml:id="p105" end="782.74s">&quot;Come back alive.&quot;</p>
+      <p begin="786.286s" xml:id="p106" end="787.912s">That&#039;s what you said, right?</p>
+      <p begin="804.22s" xml:id="p107" end="806.014s">You thief!</p>
+      <p begin="806.764s" xml:id="p108" end="809.1s">Move! Move, move!</p>
+      <p begin="810.31s" xml:id="p109" end="811.811s">Get her!<br />Move! Move!</p>
+      <p begin="812.937s" xml:id="p110" end="814.063s">Huh?</p>
+      <p begin="815.189s" xml:id="p111" end="816.566s">- Please!<br />- Eh?</p>
+      <p begin="816.649s" xml:id="p112" end="818.401s">Stop! Stop! Stop right there!</p>
+      <p begin="818.484s" xml:id="p113" end="819.569s">Stop right there!</p>
+      <p begin="819.652s" xml:id="p114" end="820.987s">Hey, that&#039;s her, that&#039;s her!</p>
+      <p begin="823.114s" xml:id="p115" end="824.032s">Eh...</p>
+      <p begin="852.894s" xml:id="p116" end="854.02s">Onii-san!</p>
+      <p begin="857.982s" xml:id="p117" end="859.984s">Finally.</p>
+      <p begin="861.361s" xml:id="p118" end="862.82s">It&#039;s your fault, onii-san.</p>
+      <p begin="862.904s" xml:id="p119" end="865.782s">I can&#039;t come pick up the baby when you&#039;re hanging in an area like that.</p>
+      <p begin="866.616s" xml:id="p120" end="868.618s">Have you been here watching this entire time?</p>
+      <p begin="869.786s" xml:id="p121" end="874.207s">I was getting impatient waiting for you to move, ok?</p>
+      <p begin="875.124s" xml:id="p122" end="878.169s">You&#039;re hungry, aren&#039;t you?</p>
+      <p begin="880.171s" xml:id="p123" end="882.34s">Why didn&#039;t you just leave this kid behind?</p>
+      <p begin="883.508s" xml:id="p124" end="884.509s">Hey!</p>
+      <p begin="886.302s" xml:id="p125" end="889.639s">There&#039;s no way I could leave her behind in that place!</p>
+      <p begin="892.058s" xml:id="p126" end="893.017s">Eh?</p>
+      <p begin="894.811s" xml:id="p127" end="896.354s">Eh...</p>
+      <p begin="899.857s" xml:id="p128" end="901.651s">Please don&#039;t follow me.</p>
+      <p begin="902.151s" xml:id="p129" end="904.821s">If you leave us here like this, both me and the child will die.</p>
+      <p begin="904.904s" xml:id="p130" end="906.28s">I don&#039;t know you!</p>
+      <p begin="912.036s" xml:id="p131" end="914.705s">Once you&#039;re done, you&#039;re going home, all right.</p>
+      <p begin="915.206s" xml:id="p132" end="918.501s">Scary, isn&#039;t he? Onii-san is heartless.</p>
+      <p begin="922.004s" xml:id="p133" end="924.173s">What happened to your husband?</p>
+      <p begin="924.257s" xml:id="p134" end="926.008s">Was he taken into the army?</p>
+      <p begin="927.135s" xml:id="p135" end="929.72s">Do I look like I have a husband?</p>
+      <p begin="930.221s" xml:id="p136" end="932.974s">Eh? Then whose kid is that?</p>
+      <p begin="934.559s" xml:id="p137" end="937.562s">- Who cares?<br />- That&#039;s not a good thing!</p>
+      <p begin="941.482s" xml:id="p138" end="943.443s">During the air raids...</p>
+      <p begin="944.944s" xml:id="p139" end="946.946s">...this child&#039;s dying okaa-san asked me to.</p>
+      <p begin="949.157s" xml:id="p140" end="949.991s">So then...</p>
+      <p begin="950.908s" xml:id="p141" end="953.494s">you&#039;re not related to that child?</p>
+      <p begin="954.704s" xml:id="p142" end="955.788s">So what?</p>
+      <p begin="959.0s" xml:id="p143" end="960.501s">Are you an idiot?</p>
+      <p begin="961.294s" xml:id="p144" end="964.464s">You&#039;re not in a position to take in a baby<br />like that and live peacefully!</p>
+      <p begin="964.547s" xml:id="p145" end="966.299s">Even you couldn&#039;t abandon it, could you, onii-san?</p>
+      <p begin="966.382s" xml:id="p146" end="967.508s">Hey!</p>
+      <p begin="973.89s" xml:id="p147" end="974.724s">Name?</p>
+      <p begin="978.603s" xml:id="p148" end="980.48s">&quot;Akiko&quot;</p>
+      <p begin="980.563s" xml:id="p149" end="983.316s">No, your name.</p>
+      <p begin="985.902s" xml:id="p150" end="986.736s">Noriko.</p>
+      <p begin="989.864s" xml:id="p151" end="992.033s">Why do you act like that?</p>
+      <p begin="992.116s" xml:id="p152" end="994.577s">If you&#039;re acting like you&#039;re a vagrant,<br />it means you&#039;re probably poor.</p>
+      <p begin="995.328s" xml:id="p153" end="996.829s">Are you telling me to become a whore?</p>
+      <p begin="996.913s" xml:id="p154" end="998.623s">Don&#039;t give me that look.</p>
+      <p begin="1000.124s" xml:id="p155" end="1003.753s">In this day and age, it can&#039;t be helped if you<br />don&#039;t have any other options.</p>
+      <p begin="1010.009s" xml:id="p156" end="1011.052s">What about your parents and siblings?</p>
+      <p begin="1021.395s" xml:id="p157" end="1022.688s">Your parents?</p>
+      <p begin="1027.068s" xml:id="p158" end="1028.069s">Yeah.</p>
+      <p begin="1029.779s" xml:id="p159" end="1032.74s">They both died in the air raid.</p>
+      <p begin="1037.453s" xml:id="p160" end="1039.455s">You and me are the same, aren&#039;t we, onii-san?</p>
+      <p begin="1058.849s" xml:id="p161" end="1059.684s">Eh?</p>
+      <p begin="1059.767s" xml:id="p162" end="1061.811s">Hey, hey! Wait...</p>
+      <p begin="1063.813s" xml:id="p163" end="1065.273s">You...</p>
+      <p begin="1079.203s" xml:id="p164" end="1080.329s">Hey!</p>
+      <p begin="1082.707s" xml:id="p165" end="1084.25s">What&#039;s with that?</p>
+      <p begin="1085.835s" xml:id="p166" end="1086.919s">With what?</p>
+      <p begin="1087.003s" xml:id="p167" end="1088.754s">Don&#039;t play dumb.</p>
+      <p begin="1089.589s" xml:id="p168" end="1091.674s">The parent and the child you picked up.</p>
+      <p begin="1092.216s" xml:id="p169" end="1094.844s">Who do you think you are, picking up people like that?</p>
+      <p begin="1094.927s" xml:id="p170" end="1098.848s">No. They just showed up and settled down without permission.</p>
+      <p begin="1099.557s" xml:id="p171" end="1102.476s">If you haven&#039;t kicked them out, then you picked them up.</p>
+      <p begin="1106.814s" xml:id="p172" end="1108.816s">Hypocrite...</p>
+      <p begin="1110.818s" xml:id="p173" end="1114.739s">I&#039;m not dealing with this, sorry to bother you.</p>
+      <p begin="1119.827s" xml:id="p174" end="1120.661s">Ah...</p>
+      <p begin="1122.455s" xml:id="p175" end="1125.124s">The baby... is she breastfeeding it properly?</p>
+      <p begin="1127.043s" xml:id="p176" end="1128.419s">Ah, no...</p>
+      <p begin="1128.502s" xml:id="p177" end="1131.589s">She&#039;s not the child&#039;s mother.</p>
+      <p begin="1132.965s" xml:id="p178" end="1134.175s">What is that supposed to mean?</p>
+      <p begin="1146.854s" xml:id="p179" end="1149.649s">If things continue like this, she&#039;ll die of malnutrition.</p>
+      <p begin="1150.358s" xml:id="p180" end="1151.359s">Right?</p>
+      <p begin="1152.234s" xml:id="p181" end="1153.653s">Ah...</p>
+      <p begin="1153.736s" xml:id="p182" end="1156.906s">Picking up a child you&#039;re not capable of raising...</p>
+      <p begin="1157.448s" xml:id="p183" end="1159.283s">What on earth is that all about?</p>
+      <p begin="1160.451s" xml:id="p184" end="1161.535s">I&#039;m sorry.</p>
+      <p begin="1170.169s" xml:id="p185" end="1171.796s">It&#039;s not for you to eat.</p>
+      <p begin="1173.214s" xml:id="p186" end="1175.341s">Adults can survive no matter what they eat.</p>
+      <p begin="1180.971s" xml:id="p187" end="1182.973s">Use this to make gruel for the child.</p>
+      <p begin="1184.016s" xml:id="p188" end="1188.312s">Ah, there goes my white rice...</p>
+      <p begin="1189.689s" xml:id="p189" end="1191.649s">It&#039;s annoying, seriously...</p>
+      <p begin="1201.867s" xml:id="p190" end="1203.16s">1946年３月</p>
+      <p begin="1203.244s" xml:id="p191" end="1205.287s">Ah, damn it!</p>
+      <p begin="1205.371s" xml:id="p192" end="1206.872s">I&#039;m soaking wet!</p>
+      <p begin="1207.415s" xml:id="p193" end="1209.375s">Damn it...</p>
+      <p begin="1213.796s" xml:id="p194" end="1215.256s">Did you get a job?</p>
+      <p begin="1216.674s" xml:id="p195" end="1219.26s">I did find something, but...</p>
+      <p begin="1219.76s" xml:id="p196" end="1221.178s">Eh? What&#039;s the problem?</p>
+      <p begin="1221.262s" xml:id="p197" end="1222.096s">Ah...</p>
+      <p begin="1222.93s" xml:id="p198" end="1224.724s">The pay isn&#039;t bad either.</p>
+      <p begin="1225.224s" xml:id="p199" end="1226.308s">Check this out..</p>
+      <p begin="1226.392s" xml:id="p200" end="1229.311s">It seems that just the preperation money is ¥3000 alone!</p>
+      <p begin="1229.395s" xml:id="p201" end="1231.272s">That&#039;s awesome!</p>
+      <p begin="1235.86s" xml:id="p202" end="1237.111s">It has to be a scam.</p>
+      <p begin="1237.695s" xml:id="p203" end="1240.406s">Just the other day, all the rice that you brought in was stolen.</p>
+      <p begin="1240.906s" xml:id="p204" end="1243.284s">That&#039;s not the case with this.</p>
+      <p begin="1243.367s" xml:id="p205" end="1245.494s">What&#039;s different about it?</p>
+      <p begin="1245.578s" xml:id="p206" end="1248.205s">It has a stamp of approval from none other than<br />the Ministry of Demobilization.</p>
+      <p begin="1248.706s" xml:id="p207" end="1251.0s">There&#039;s a reason that it pays so well.</p>
+      <p begin="1251.584s" xml:id="p208" end="1252.418s">The reason?</p>
+      <p begin="1252.501s" xml:id="p209" end="1258.466s">During the war, both the US military and Imperial Navy<br />secretly laid down mines, right?</p>
+      <p begin="1259.467s" xml:id="p210" end="1260.634s">It&#039;s a job to clean that up.</p>
+      <p begin="1262.595s" xml:id="p211" end="1264.346s">But the pay is insanely good, because...</p>
+      <p begin="1265.222s" xml:id="p212" end="1266.098s">Well...</p>
+      <p begin="1269.059s" xml:id="p213" end="1273.105s">There&#039;s no guarantee that I&#039;ll come back alive, is there?</p>
+      <p begin="1275.024s" xml:id="p214" end="1276.525s">What are you talking about?!</p>
+      <p begin="1276.609s" xml:id="p215" end="1278.402s">You just made it back alive!</p>
+      <p begin="1278.486s" xml:id="p216" end="1280.446s">There&#039;s nothinng else we can do!</p>
+      <p begin="1280.529s" xml:id="p217" end="1282.907s">At this rate, the three of us are going to starve to death!</p>
+      <p begin="1282.99s" xml:id="p218" end="1284.45s">Even Akiko will die if it keeps going on like this...</p>
+      <p begin="1286.16s" xml:id="p219" end="1289.205s">I understand that, but...</p>
+      <p begin="1291.54s" xml:id="p220" end="1293.0s">If we have the money...</p>
+      <p begin="1293.709s" xml:id="p221" end="1297.713s">If we have the money, we can even buy powdered milk from America!</p>
+      <p begin="1297.797s" xml:id="p222" end="1298.672s">For that reason, I&#039;d...</p>
+      <p begin="1299.715s" xml:id="p223" end="1301.342s">It&#039;s no good if you die!</p>
+      <p begin="1305.93s" xml:id="p224" end="1306.931s">It&#039;s okay.</p>
+      <p begin="1308.057s" xml:id="p225" end="1311.018s">Just becaus it&#039;s dangerous doesn&#039;t mean I&#039;m going to die.</p>
+      <p begin="1312.436s" xml:id="p226" end="1314.73s">It&#039;s different from the suicide attacks of 10 deaths and no lives.</p>
+      <p begin="1319.735s" xml:id="p227" end="1324.865s">And besides, I&#039;ll be on a special ship so the<br />magnetic mines won&#039;t be able to detect us.</p>
+      <p begin="1329.62s" xml:id="p228" end="1332.54s">This is... the special ship?</p>
+      <p begin="1346.971s" xml:id="p229" end="1349.64s">Hey, you! Are you the one who&#039;s going to be our next gunner?</p>
+      <p begin="1349.723s" xml:id="p230" end="1350.641s">I&#039;m Shikishima.</p>
+      <p begin="1350.724s" xml:id="p231" end="1351.559s">Are you a boat gunner?</p>
+      <p begin="1351.642s" xml:id="p232" end="1352.893s">I used to be a fighter pilot.</p>
+      <p begin="1352.977s" xml:id="p233" end="1355.354s">What? What&#039;s this guy for?</p>
+      <p begin="1355.437s" xml:id="p234" end="1356.856s">You&#039;re a former fighter pilot?</p>
+      <p begin="1356.939s" xml:id="p235" end="1359.9s">I don&#039;t want to be with this wreck of a military shōnen!</p>
+      <p begin="1359.984s" xml:id="p236" end="1362.111s">Were you disappointed?</p>
+      <p begin="1362.194s" xml:id="p237" end="1363.404s">That this is what the ship is like?</p>
+      <p begin="1364.947s" xml:id="p238" end="1366.323s">The US military and Japan&#039;s Imperial Navy laid down<br />around 60,000 mines along the coast.</p>
+      <p begin="1369.368s" xml:id="p239" end="1374.081s">Well, there are many different types, but the most<br />difficult ones are the US&#039;s magnetic mines.</p>
+      <p begin="1374.582s" xml:id="p240" end="1378.502s">If a ship made out of metal passed by, it would react and detonate.</p>
+      <p begin="1380.337s" xml:id="p241" end="1382.464s">Ah, so that&#039;s why...</p>
+      <p begin="1382.548s" xml:id="p242" end="1385.05s">Yep. He catches on quickly.</p>
+      <p begin="1385.551s" xml:id="p243" end="1388.053s">Our main responsibility is to clean up moored mines.</p>
+      <p begin="1388.137s" xml:id="p244" end="1391.599s">This wooden boat is the best solution to counter magnetic mines.</p>
+      <p begin="1394.435s" xml:id="p245" end="1395.477s">I&#039;m Noda.</p>
+      <p begin="1396.228s" xml:id="p246" end="1400.107s">I developed weapons at the Navy Arsenal during the war.</p>
+      <p begin="1400.19s" xml:id="p247" end="1402.735s">This is Captain Akitsu and Mizushima-kun.</p>
+      <p begin="1402.818s" xml:id="p248" end="1404.361s">You can call this guy &quot;The Kid&quot; and that one &quot;The Academic.&quot;</p>
+      <p begin="1404.445s" xml:id="p249" end="1406.739s">How do you feel about addressing me like that, chou-san?</p>
+      <p begin="1406.822s" xml:id="p250" end="1408.657s">And I&#039;m not a kid anymore!</p>
+      <p begin="1408.741s" xml:id="p251" end="1411.16s">You&#039;re still only a beginner, so being called a kid is more than enough.</p>
+      <p begin="1411.243s" xml:id="p252" end="1414.538s">Yeah, yeah, I haven&#039;t gone to war anyway.</p>
+      <p begin="1414.622s" xml:id="p253" end="1416.957s">This is the special minesweeper Shinseimaru.</p>
+      <p begin="1417.041s" xml:id="p254" end="1419.001s">Paired up with the Kaishinmaru right next to it.</p>
+      <p begin="1419.501s" xml:id="p255" end="1424.089s">Mines are like balloons that rise from the ocean floor.</p>
+      <p begin="1424.59s" xml:id="p256" end="1430.596s">We attached cutters to the cables between the<br />2 ships to cut the mines&#039; wires.</p>
+      <p begin="1430.679s" xml:id="p257" end="1433.14s">That will cause the mines to float to the surface.</p>
+      <p begin="1433.641s" xml:id="p258" end="1435.351s">So that using this...</p>
+      <p begin="1436.518s" xml:id="p259" end="1438.145s">it goes DADADADADA!</p>
+      <p begin="1439.104s" xml:id="p260" end="1440.105s">Watch us.</p>
+      <p begin="1450.699s" xml:id="p261" end="1453.41s">Wow, this one&#039;s quite difficult to hit.</p>
+      <p begin="1453.911s" xml:id="p262" end="1455.496s">Can I do it?</p>
+      <p begin="1456.372s" xml:id="p263" end="1457.539s">Are you sure?</p>
+      <p begin="1462.628s" xml:id="p264" end="1464.004s">Because it&#039;s shaking...</p>
+      <p begin="1464.505s" xml:id="p265" end="1468.133s">...you have to predict where the bullet will<br />land before firing, and...</p>
+      <p begin="1474.89s" xml:id="p266" end="1476.183s">Woah!</p>
+      <p begin="1477.768s" xml:id="p267" end="1479.019s">Good job!</p>
+      <p begin="1479.561s" xml:id="p268" end="1481.313s">It&#039;s the same as shooting down an enemy plane.</p>
+      <p begin="1481.397s" xml:id="p269" end="1483.899s">Except, well, I was never in an actual battle.</p>
+      <p begin="1483.983s" xml:id="p270" end="1484.984s">Eh?</p>
+      <p begin="1485.859s" xml:id="p271" end="1487.653s">You have no experience in practical combat?</p>
+      <p begin="1488.153s" xml:id="p272" end="1490.28s">That means Shikishima and I are pretty much the same.</p>
+      <p begin="1490.364s" xml:id="p273" end="1491.281s">Idiot. You&#039;re completely different.</p>
+      <p begin="1491.365s" xml:id="p274" end="1492.992s">You can&#039;t fly a plane, can you?</p>
+      <p begin="1493.075s" xml:id="p275" end="1495.995s">If I had gone to war, I would&#039;ve been a great help!</p>
+      <p begin="1496.495s" xml:id="p276" end="1498.956s">Ah, if only it lasted a little bit longer...</p>
+      <p begin="1501.917s" xml:id="p277" end="1503.752s">Are you seriously saying that?</p>
+      <p begin="1506.13s" xml:id="p278" end="1508.173s">I&#039;m sorry.</p>
+      <p begin="1512.469s" xml:id="p279" end="1513.637s">Idiot.</p>
+      <p begin="1539.329s" xml:id="p280" end="1540.664s">Ah! Stop it!</p>
+      <p begin="1543.709s" xml:id="p281" end="1546.754s">Shoot it! Run away!<br />Evacuate! Evacuate!</p>
+      <p begin="1546.837s" xml:id="p282" end="1548.213s">Ah!</p>
+      <p begin="1557.723s" xml:id="p283" end="1559.892s">Ah... ah... ahhhh!!</p>
+      <p begin="1564.313s" xml:id="p284" end="1565.272s">Are you okay?</p>
+      <p begin="1572.863s" xml:id="p285" end="1574.239s">A bad dream again?</p>
+      <p begin="1580.996s" xml:id="p286" end="1583.165s">Dr... dream.</p>
+      <p begin="1587.211s" xml:id="p287" end="1588.212s">I see...</p>
+      <p begin="1589.88s" xml:id="p288" end="1591.882s">It&#039;s a dream...</p>
+      <p begin="1599.139s" xml:id="p289" end="1600.14s">Or maybe...</p>
+      <p begin="1601.892s" xml:id="p290" end="1603.894s">...you&#039;re a dream.</p>
+      <p begin="1604.603s" xml:id="p291" end="1606.188s">What are you talking about? Are you okay?</p>
+      <p begin="1606.271s" xml:id="p292" end="1608.732s">This is Japan, right?</p>
+      <p begin="1608.816s" xml:id="p293" end="1611.36s">Isn&#039;t it? I&#039;m actually back, right?</p>
+      <p begin="1611.443s" xml:id="p294" end="1612.361s">Right?</p>
+      <p begin="1612.444s" xml:id="p295" end="1613.32s">I came back, didn&#039;t I?</p>
+      <p begin="1613.403s" xml:id="p296" end="1614.446s">Stop it!</p>
+      <p begin="1635.551s" xml:id="p297" end="1636.593s">I understand...</p>
+      <p begin="1637.386s" xml:id="p298" end="1638.47s">I know.</p>
+      <p begin="1640.389s" xml:id="p299" end="1641.723s">I know.</p>
+      <p begin="1708.415s" xml:id="p300" end="1712.878s">Nice place you built here. It&#039;s worth all of the money you saved up.</p>
+      <p begin="1718.091s" xml:id="p301" end="1719.176s">Please help yourself.</p>
+      <p begin="1719.676s" xml:id="p302" end="1721.678s">Ah, this is, this is...</p>
+      <p begin="1723.972s" xml:id="p303" end="1725.974s">May I take one?</p>
+      <p begin="1726.6s" xml:id="p304" end="1727.935s">Eh? That&#039;s...</p>
+      <p begin="1728.018s" xml:id="p305" end="1729.269s">That would be a waste of film!</p>
+      <p begin="1729.353s" xml:id="p306" end="1731.021s">Ah, that smile!</p>
+      <p begin="1731.104s" xml:id="p307" end="1732.981s">Just like that, just like that...</p>
+      <p begin="1733.774s" xml:id="p308" end="1734.524s">Yes!</p>
+      <p begin="1736.109s" xml:id="p309" end="1737.736s">Thank you.</p>
+      <p begin="1737.819s" xml:id="p310" end="1740.072s">Hey, Academic, don&#039;t go falling in love with Nori-chan.</p>
+      <p begin="1741.156s" xml:id="p311" end="1744.576s">What are you talking about? Noriko-san is a married woman!</p>
+      <p begin="1744.66s" xml:id="p312" end="1747.996s">Please stop! I&#039;m not his wife!</p>
+      <p begin="1751.458s" xml:id="p313" end="1752.626s">What does that mean?</p>
+      <p begin="1753.168s" xml:id="p314" end="1755.337s">She settled down here without my permission.</p>
+      <p begin="1755.963s" xml:id="p315" end="1759.424s">I just let her stay because there was nowhere else for her to go...</p>
+      <p begin="1760.05s" xml:id="p316" end="1761.343s">Then whose kid is this?</p>
+      <p begin="1761.426s" xml:id="p317" end="1765.222s">It&#039;s her stepchild, though they aren&#039;t blood-related.</p>
+      <p begin="1765.722s" xml:id="p318" end="1768.85s">She&#039;s an orphan that was entrusted to her during the air raids.</p>
+      <p begin="1768.934s" xml:id="p319" end="1770.143s">Eh?</p>
+      <p begin="1770.894s" xml:id="p320" end="1772.771s">Isn&#039;t that a touching story in this day and age?</p>
+      <p begin="1772.854s" xml:id="p321" end="1775.941s">No, I&#039;m just not thinking ahead.</p>
+      <p begin="1778.485s" xml:id="p322" end="1779.945s">Otō-chan.</p>
+      <p begin="1782.072s" xml:id="p323" end="1784.074s">- Akiko.<br />- Yes?</p>
+      <p begin="1785.117s" xml:id="p324" end="1787.744s">I told you. I&#039;m not your tō-chan.</p>
+      <p begin="1790.289s" xml:id="p325" end="1793.375s">Shikishima, isn&#039;t it a bad idea to say that?</p>
+      <p begin="1793.458s" xml:id="p326" end="1794.835s">It&#039;s really unhealthy.</p>
+      <p begin="1795.961s" xml:id="p327" end="1801.883s">Both of you were brought into a family by fate, so<br />you guys need to be prepared for it.</p>
+      <p begin="1801.967s" xml:id="p328" end="1804.344s">Make them happy!</p>
+      <p begin="1805.679s" xml:id="p329" end="1806.68s">Shut up!</p>
+      <p begin="1807.431s" xml:id="p330" end="1809.433s">I&#039;m not interested in that kind of thing.</p>
+      <p begin="1815.022s" xml:id="p331" end="1816.273s">Why?</p>
+      <p begin="1831.788s" xml:id="p332" end="1834.666s">Welcome back. I also just returned myself.</p>
+      <p begin="1835.375s" xml:id="p333" end="1836.585s">What&#039;s with your appearance?</p>
+      <p begin="1840.464s" xml:id="p334" end="1841.381s">How does it look?</p>
+      <p begin="1842.174s" xml:id="p335" end="1844.217s">I started working as an office worker in Ginza.</p>
+      <p begin="1844.301s" xml:id="p336" end="1845.719s">Eh... no...</p>
+      <p begin="1845.802s" xml:id="p337" end="1847.471s">I&#039;ve given you enough money though, right?</p>
+      <p begin="1853.602s" xml:id="p338" end="1856.396s">I was thinking that I finally wanted to become<br />independent from you.</p>
+      <p begin="1857.689s" xml:id="p339" end="1861.151s">At this rate, Kou-san, you&#039;ll never find a wife.</p>
+      <p begin="1865.072s" xml:id="p340" end="1866.239s">Did you know?</p>
+      <p begin="1866.323s" xml:id="p341" end="1868.492s">Ginza&#039;s also recovering very quickly.</p>
+      <p begin="1869.701s" xml:id="p342" end="1870.66s">Isn&#039;t this a bit soon?</p>
+      <p begin="1871.828s" xml:id="p343" end="1873.288s">I&#039;ve been thinking about this for a while now.</p>
+      <p begin="1874.623s" xml:id="p344" end="1876.208s">Ah... what about Akiko?</p>
+      <p begin="1877.209s" xml:id="p345" end="1883.382s">What will Akiko do when you leave for work, Noriko-san?</p>
+      <p begin="1883.465s" xml:id="p346" end="1886.218s">Sumiko-san will take care of her when I&#039;m at work.</p>
+      <p begin="1886.718s" xml:id="p347" end="1887.969s">Eh... ah...</p>
+      <p begin="1888.053s" xml:id="p348" end="1889.971s">Sumiko-san is very enthusiastic about it.</p>
+      <p begin="1890.055s" xml:id="p349" end="1892.766s">She said, &quot;I&#039;ve raised 3 children myself.&quot;</p>
+      <p begin="1895.519s" xml:id="p350" end="1898.438s">Well if that&#039;s the case, it&#039;s fine then.</p>
+      <p begin="1900.065s" xml:id="p351" end="1902.651s">Well then, I&#039;m gonna go get Akiko.</p>
+      <p begin="1943.859s" xml:id="p352" end="1952.2s">It is estimated that these large aquatic creatures will reach the Kantō<br />region of Japan within a few weeks at the latest.</p>
+      <p begin="1954.369s" xml:id="p353" end="1963.67s">Supreme Commander Douglas McAurthur has regrettably announced that<br />due to the situation with the Soviet Union, military involvement is not possible.</p>
+      <p begin="1963.753s" xml:id="p354" end="1970.302s">At the same time, they requested Japan to<br />strengthen all of it&#039;s security agencies.</p>
+      <p begin="1983.523s" xml:id="p355" end="1984.9s">This...</p>
+      <p begin="1986.026s" xml:id="p356" end="1987.986s">Was it a giant shark?</p>
+      <p begin="1989.196s" xml:id="p357" end="1990.322s">A whale?</p>
+      <p begin="1990.405s" xml:id="p358" end="1993.492s">Sharks and whales can&#039;t do this type of damage.</p>
+      <p begin="1994.493s" xml:id="p359" end="1996.036s">A new Soviet weapon?</p>
+      <p begin="1996.119s" xml:id="p360" end="1998.079s">Does that look like weapon damage to you?</p>
+      <p begin="1998.163s" xml:id="p361" end="1999.623s">Then what are you saying?</p>
+      <p begin="2000.499s" xml:id="p362" end="2002.417s">I can only assume it was something large like a mountain.</p>
+      <p begin="2002.501s" xml:id="p363" end="2003.627s">Like what?</p>
+      <p begin="2003.71s" xml:id="p364" end="2006.171s">You&#039;re just acting arrogant even though you don&#039;t<br />understand any of it either.</p>
+      <p begin="2006.254s" xml:id="p365" end="2009.299s">I was being skeptical until I saw this.</p>
+      <p begin="2011.927s" xml:id="p366" end="2012.761s">Godzilla.</p>
+      <p begin="2014.721s" xml:id="p367" end="2016.681s">Please look at that!</p>
+      <p begin="2016.765s" xml:id="p368" end="2018.058s">Ah?</p>
+      <p begin="2020.393s" xml:id="p369" end="2024.523s">On the day Godzilla came to the island, deep-sea fish were floating to the top.</p>
+      <p begin="2025.232s" xml:id="p370" end="2027.192s">You saw that thing?</p>
+      <p begin="2027.275s" xml:id="p371" end="2031.53s">It was a monster that looked like a dinosaur that had survived.</p>
+      <p begin="2032.03s" xml:id="p372" end="2035.909s">The locals call him Godzilla.</p>
+      <p begin="2036.618s" xml:id="p373" end="2037.452s">Godzilla?</p>
+      <p begin="2038.036s" xml:id="p374" end="2040.288s">Foolishness.<br />Does that type of thing even exist?</p>
+      <p begin="2040.372s" xml:id="p375" end="2041.623s">You were half-asleep and probably saw an enemy tank-</p>
+      <p begin="2041.706s" xml:id="p376" end="2048.505s">You probably won&#039;t believe me, but that Godzilla wiped out<br />the entire garrison on Ōdo Island!</p>
+      <p begin="2049.089s" xml:id="p377" end="2050.507s">Wait a second...</p>
+      <p begin="2051.174s" xml:id="p378" end="2053.343s">I thought unit that got wiped out by the US military?</p>
+      <p begin="2055.262s" xml:id="p379" end="2059.182s">Ōdo Island was ignored by the US during Operation Jumping Stone.</p>
+      <p begin="2059.266s" xml:id="p380" end="2063.228s">During that time, it was an emergency landing site<br />for malfunctioning suicide attack planes.</p>
+      <p begin="2064.312s" xml:id="p381" end="2065.605s">So then, Shikishima...</p>
+      <p begin="2066.815s" xml:id="p382" end="2068.441s">Are you a former suicide attack pilot?</p>
+      <p begin="2074.531s" xml:id="p383" end="2077.409s">If this is the same Godzilla as the one from the island...</p>
+      <p begin="2078.368s" xml:id="p384" end="2081.871s">...it will have grown bigger and more powerful.</p>
+      <p begin="2087.877s" xml:id="p385" end="2089.337s">Please give me a moment...</p>
+      <p begin="2090.005s" xml:id="p386" end="2093.383s">Why were we called out here in the first place?</p>
+      <p begin="2094.342s" xml:id="p387" end="2097.554s">You&#039;re not saying we have to fight that type of thing, right?</p>
+      <p begin="2097.637s" xml:id="p388" end="2098.471s">On this type of ship?</p>
+      <p begin="2098.555s" xml:id="p389" end="2100.223s">That&#039;s the case.</p>
+      <p begin="2100.307s" xml:id="p390" end="2103.602s">Eh? That type of thing&#039;s impossible!</p>
+      <p begin="2103.685s" xml:id="p391" end="2108.398s">What are we supposed to do with this kind of petty ship against<br />an opponent the US military can&#039;t even take down?</p>
+      <p begin="2108.481s" xml:id="p392" end="2110.442s">They told us to stall it.</p>
+      <p begin="2111.443s" xml:id="p393" end="2112.944s">Stall?</p>
+      <p begin="2113.028s" xml:id="p394" end="2115.739s">The Takao is coming from Singapore.</p>
+      <p begin="2116.489s" xml:id="p395" end="2118.45s">Eh? Heavy Crusier Takao? That one?</p>
+      <p begin="2118.533s" xml:id="p396" end="2121.953s">It was awaiting scuttling, but it appears that<br />they decided to bring it back.</p>
+      <p begin="2122.746s" xml:id="p397" end="2125.415s">Isn&#039;t that awesome! The Takao!</p>
+      <p begin="2125.498s" xml:id="p398" end="2129.21s">I was ordered to buy time until the Takao arrives.</p>
+      <p begin="2129.294s" xml:id="p399" end="2132.589s">This ship is from America-san, right?<br />Can&#039;t they deal with it themselves?</p>
+      <p begin="2133.715s" xml:id="p400" end="2136.843s">Things are getting weirder between America<br />and the Soviet Union right now.</p>
+      <p begin="2136.926s" xml:id="p401" end="2140.388s">They can&#039;t carelessly take military action.</p>
+      <p begin="2140.472s" xml:id="p402" end="2143.683s">They prefer we handle these types of trivial matters.</p>
+      <p begin="2143.767s" xml:id="p403" end="2144.976s">Is this a trival matter?</p>
+      <p begin="2145.06s" xml:id="p404" end="2147.562s">The only weapons we have is a 13mm gun.</p>
+      <p begin="2147.646s" xml:id="p405" end="2151.191s">They said we could use recovered mines for that purpose.</p>
+      <p begin="2151.858s" xml:id="p406" end="2156.112s">Haha! So that&#039;s why they called us out here.</p>
+      <p begin="2156.196s" xml:id="p407" end="2160.45s">The most important weapons are &quot;locally sourced.&quot;</p>
+      <p begin="2160.533s" xml:id="p408" end="2164.621s">And regarding this, you are not allowed to tell anyone about it.</p>
+      <p begin="2164.704s" xml:id="p409" end="2167.916s">There it is. The usual gag order.</p>
+      <p begin="2169.25s" xml:id="p410" end="2171.294s">This country never changes!</p>
+      <p begin="2172.671s" xml:id="p411" end="2174.047s">Can it even change?</p>
+      <p begin="2183.473s" xml:id="p412" end="2184.849s">Let&#039;s swap places.</p>
+      <p begin="2185.975s" xml:id="p413" end="2188.687s">Ah, thank you.</p>
+      <p begin="2189.729s" xml:id="p414" end="2191.564s">You&#039;re too stuck in your seat, Shiki-san.</p>
+      <p begin="2192.691s" xml:id="p415" end="2195.235s">To think that the other opponent could be Godzilla...</p>
+      <p begin="2196.444s" xml:id="p416" end="2198.613s">I know how you feel.</p>
+      <p begin="2199.447s" xml:id="p417" end="2205.787s">When I think back to the war, sometimes I also have trouble sleeping.</p>
+      <p begin="2206.663s" xml:id="p418" end="2208.123s">I want to defeat the enemy.</p>
+      <p begin="2208.832s" xml:id="p419" end="2213.545s">But at the same time, I find it incredibly frightening.</p>
+      <p begin="2219.801s" xml:id="p420" end="2223.555s">There are only 2 of those, including a spare.</p>
+      <p begin="2229.853s" xml:id="p421" end="2230.937s">What&#039;s wrong?</p>
+      <p begin="2249.08s" xml:id="p422" end="2253.585s">The amount of fish on Ōdo Island is nothing compared to<br />what&#039;s happening right now...</p>
+      <p begin="2256.755s" xml:id="p423" end="2259.007s">Stay on gaurd! Stay on gaurd!</p>
+      <p begin="2259.09s" xml:id="p424" end="2261.134s">Godzilla is coming!</p>
+      <p begin="2261.217s" xml:id="p425" end="2262.761s">Stay on gaurd!</p>
+      <p begin="2264.554s" xml:id="p426" end="2266.556s">Here he comes!</p>
+      <p begin="2267.182s" xml:id="p427" end="2269.684s">Kid, keep your mines read to drop them whenever you want.</p>
+      <p begin="2269.768s" xml:id="p428" end="2271.478s">- Yes!<br />- Shikishima, prepare the machine guns.</p>
+      <p begin="2271.561s" xml:id="p429" end="2274.189s">Let&#039;s run away! We can&#039;t fight it on a ship like this!</p>
+      <p begin="2274.272s" xml:id="p430" end="2275.315s">There&#039;s still time!</p>
+      <p begin="2275.398s" xml:id="p431" end="2276.775s">Let&#039;s see how that works out, chou-san!</p>
+      <p begin="2276.858s" xml:id="p432" end="2278.735s">Academic, keep your eyes peeled and report back to me.</p>
+      <p begin="2278.818s" xml:id="p433" end="2279.652s">Chou-san!</p>
+      <p begin="2279.736s" xml:id="p434" end="2281.529s">Shinseimaru to Kaishinmaru!</p>
+      <p begin="2282.197s" xml:id="p435" end="2284.991s">It looks like he&#039;s about to make an appearance. Get ready!</p>
+      <p begin="2285.074s" xml:id="p436" end="2288.286s">We&#039;re taking all the credit for defeating the monster.</p>
+      <p begin="2288.369s" xml:id="p437" end="2289.579s">- Those bastards!<br />- Captain!</p>
+      <p begin="2289.662s" xml:id="p438" end="2295.168s">If we run away now, the Takao won&#039;t make it in time,<br />so where will the monster head for?</p>
+      <p begin="2296.336s" xml:id="p439" end="2299.047s">I don&#039;t want to see Tōkyō engulfed in flames again.</p>
+      <p begin="2299.13s" xml:id="p440" end="2301.549s">But this ship is no match for it.</p>
+      <p begin="2301.633s" xml:id="p441" end="2304.219s">Chou-san, I thought you hated government orders, right?</p>
+      <p begin="2304.302s" xml:id="p442" end="2306.596s">Ah, I do hate them!</p>
+      <p begin="2306.679s" xml:id="p443" end="2307.722s">However...</p>
+      <p begin="2308.473s" xml:id="p444" end="2310.558s">Someone has to draw the short straw.</p>
+      <p begin="2327.575s" xml:id="p445" end="2330.078s">This is just impossible.</p>
+      <p begin="2334.374s" xml:id="p446" end="2335.625s">Academic, engine!</p>
+      <p begin="2335.708s" xml:id="p447" end="2337.126s">Working on it now!</p>
+      <p begin="2337.71s" xml:id="p448" end="2338.878s">Shikishima!</p>
+      <p begin="2340.463s" xml:id="p449" end="2341.339s">Shikishima!</p>
+      <p begin="2342.006s" xml:id="p450" end="2344.175s">Hurry up! Hurry over here!</p>
+      <p begin="2345.885s" xml:id="p451" end="2346.886s">Captain!</p>
+      <p begin="2346.97s" xml:id="p452" end="2348.346s">Got it!</p>
+      <p begin="2348.429s" xml:id="p453" end="2349.43s">Increase the throttle!</p>
+      <p begin="2349.514s" xml:id="p454" end="2350.348s">All right!</p>
+      <p begin="2371.244s" xml:id="p455" end="2372.37s">Drop the mines!</p>
+      <p begin="2374.122s" xml:id="p456" end="2375.999s">He&#039;s almost here! It&#039;s too late!</p>
+      <p begin="2376.082s" xml:id="p457" end="2378.209s">Even so, we still have to do something!</p>
+      <p begin="2397.812s" xml:id="p458" end="2399.188s">Now, kid!</p>
+      <p begin="2399.272s" xml:id="p459" end="2400.69s">Here it goes!!</p>
+      <p begin="2404.485s" xml:id="p460" end="2405.778s">Ahh!!</p>
+      <p begin="2406.946s" xml:id="p461" end="2408.072s">Did it do it?</p>
+      <p begin="2414.329s" xml:id="p462" end="2415.496s">It&#039;s not working!</p>
+      <p begin="2415.997s" xml:id="p463" end="2418.166s">Oh crap, oh crap, oh crap, oh crap, oh crap, oh crap!</p>
+      <p begin="2418.249s" xml:id="p464" end="2420.001s">Shikishima! Machine gun!</p>
+      <p begin="2420.084s" xml:id="p465" end="2421.21s">Yes!</p>
+      <p begin="2429.344s" xml:id="p466" end="2430.219s">Shikishima!</p>
+      <p begin="2440.063s" xml:id="p467" end="2441.189s">Ah... ah...</p>
+      <p begin="2441.272s" xml:id="p468" end="2443.274s">No good! It&#039;s useless!</p>
+      <p begin="2447.195s" xml:id="p469" end="2450.448s">Inside it&#039;s mouth! How about inside it&#039;s mouth!</p>
+      <p begin="2452.367s" xml:id="p470" end="2454.077s">Reel it in, reel it in!</p>
+      <p begin="2454.16s" xml:id="p471" end="2456.663s">Reel, reel, reel, reel!</p>
+      <p begin="2456.746s" xml:id="p472" end="2457.83s">Drop it!</p>
+      <p begin="2465.129s" xml:id="p473" end="2467.59s">Mizushima, ignition!</p>
+      <p begin="2467.674s" xml:id="p474" end="2468.508s">Yes!</p>
+      <p begin="2470.468s" xml:id="p475" end="2471.386s">Eh?</p>
+      <p begin="2477.475s" xml:id="p476" end="2478.601s">Eh?</p>
+      <p begin="2478.685s" xml:id="p477" end="2479.894s">No way...</p>
+      <p begin="2480.687s" xml:id="p478" end="2481.562s">No way!</p>
+      <p begin="2490.071s" xml:id="p479" end="2490.905s">Ah?!</p>
+      <p begin="2493.741s" xml:id="p480" end="2496.035s">Get down!</p>
+      <p begin="2510.591s" xml:id="p481" end="2511.426s">Ahh!!</p>
+      <p begin="2519.267s" xml:id="p482" end="2520.601s">Did we kill it?</p>
+      <p begin="2527.567s" xml:id="p483" end="2529.61s">No!</p>
+      <p begin="2539.537s" xml:id="p484" end="2542.957s">Ah... ah... ahh...</p>
+      <p begin="2554.802s" xml:id="p485" end="2556.596s">The Takao!</p>
+      <p begin="2556.679s" xml:id="p486" end="2557.722s">Ahh, just in time.</p>
+      <p begin="2585.792s" xml:id="p487" end="2587.251s">Crap...</p>
+      <p begin="2607.939s" xml:id="p488" end="2609.774s">Can you shoot it again?</p>
+      <p begin="2624.831s" xml:id="p489" end="2626.29s">Did they do it?</p>
+      <p begin="2637.385s" xml:id="p490" end="2638.219s">What&#039;s that?</p>
+      <p begin="2645.852s" xml:id="p491" end="2646.769s">Ah...</p>
+      <p begin="2699.28s" xml:id="p492" end="2700.74s">Have you finally woken up?</p>
+      <p begin="2703.034s" xml:id="p493" end="2703.993s">Where am I?</p>
+      <p begin="2705.036s" xml:id="p494" end="2706.412s">This is the Yokosuka Hospital.</p>
+      <p begin="2706.495s" xml:id="p495" end="2708.164s">You were immediately transported here after words.</p>
+      <p begin="2708.664s" xml:id="p496" end="2712.71s">Ah... What about the people abord the Kaishinmaru and Takao?</p>
+      <p begin="2718.174s" xml:id="p497" end="2720.092s">Godzilla...</p>
+      <p begin="2721.302s" xml:id="p498" end="2723.971s">I see. Where did it go?</p>
+      <p begin="2724.055s" xml:id="p499" end="2726.641s">It&#039;s whereabouts are unknown.</p>
+      <p begin="2726.724s" xml:id="p500" end="2728.768s">Godzilla was heading towards Tōkyō.</p>
+      <p begin="2728.851s" xml:id="p501" end="2730.937s">If we don&#039;t hurry and issue the evacuation orders,<br />something bad will happen.</p>
+      <p begin="2731.02s" xml:id="p502" end="2734.565s">The government will be hiding this information from the public.</p>
+      <p begin="2735.149s" xml:id="p503" end="2736.901s">Why aren&#039;t they letting everyone know immediately?</p>
+      <p begin="2736.984s" xml:id="p504" end="2739.737s">Likely due to the fear of causing confusion.</p>
+      <p begin="2739.82s" xml:id="p505" end="2741.948s">Now isn&#039;t the time to say things like that!</p>
+      <p begin="2742.031s" xml:id="p506" end="2743.699s">If we don&#039;t evacuate, terrible things will happen...</p>
+      <p begin="2743.783s" xml:id="p507" end="2748.663s">Nobody wants to be held responsible for the chaos<br />that will inevitably be caused.</p>
+      <p begin="2748.746s" xml:id="p508" end="2751.582s">Information control is this country&#039;s specialty.</p>
+      <p begin="2760.549s" xml:id="p509" end="2762.635s">What on earth happened?</p>
+      <p begin="2764.178s" xml:id="p510" end="2766.889s">It has nothing to do with you, Noriko-san.</p>
+      <p begin="2768.975s" xml:id="p511" end="2771.519s">What&#039;s bothering you so much, Shikishima-san?</p>
+      <p begin="2774.146s" xml:id="p512" end="2778.025s">With your help, we&#039;ve been living together to this day.</p>
+      <p begin="2778.818s" xml:id="p513" end="2782.53s">And yet I have no part of your life whatsoever?</p>
+      <p begin="2789.954s" xml:id="p514" end="2795.71s">If you&#039;re carrying a burden, I&#039;d like you to share it with me.</p>
+      <p begin="2807.763s" xml:id="p515" end="2808.764s">I&#039;m...</p>
+      <p begin="2811.142s" xml:id="p516" end="2812.143s">I&#039;m...</p>
+      <p begin="2822.57s" xml:id="p517" end="2823.738s">...one of the suicide attackers...</p>
+      <p begin="2828.492s" xml:id="p518" end="2829.827s">...who ran away.</p>
+      <p begin="2831.62s" xml:id="p519" end="2832.455s">Eh?</p>
+      <p begin="2833.164s" xml:id="p520" end="2845.217s">On the day of the attack, I pretended that<br />my plane was malfunction and landed...</p>
+      <p begin="2845.217s" xml:id="p521" end="2846.886s">...at a landing site on Ōdo Island.</p>
+      <p begin="2860.232s" xml:id="p522" end="2861.067s">These...</p>
+      <p begin="2862.985s" xml:id="p523" end="2866.655s">belonged to the maintenance crew there.</p>
+      <p begin="2869.617s" xml:id="p524" end="2872.286s">All of them died.</p>
+      <p begin="2886.675s" xml:id="p525" end="2892.681s">On that night, a giant dinosaur-like monster appeared.</p>
+      <p begin="2896.644s" xml:id="p526" end="2901.44s">They asked me to shoot it down with the machine gun<br />from a Fighter Zero.</p>
+      <p begin="2904.527s" xml:id="p527" end="2905.528s">But I...</p>
+      <p begin="2911.242s" xml:id="p528" end="2912.868s">I ran away again.</p>
+      <p begin="2914.703s" xml:id="p529" end="2920.709s">As a result, all of them were killed by the monster.</p>
+      <p begin="2920.793s" xml:id="p530" end="2923.212s">They all have should been able to see their families!</p>
+      <p begin="2928.384s" xml:id="p531" end="2934.056s">The monster was called &quot;Godzilla.&quot;</p>
+      <p begin="2938.769s" xml:id="p532" end="2941.73s">And it appeared again.</p>
+      <p begin="2944.567s" xml:id="p533" end="2945.985s">But...</p>
+      <p begin="2948.737s" xml:id="p534" end="2950.739s">Once again, I couldn&#039;t do anything.</p>
+      <p begin="2960.458s" xml:id="p535" end="2966.005s">I&#039;m really a person who doesn&#039;t deserve<br />to be alive!</p>
+      <p begin="2973.012s" xml:id="p536" end="2974.013s">Kou-san...</p>
+      <p begin="2976.682s" xml:id="p537" end="2980.853s">Survivors are supposed to live proper lives.</p>
+      <p begin="2980.936s" xml:id="p538" end="2982.813s">What do you understand, Noriko-san?!</p>
+      <p begin="2982.897s" xml:id="p539" end="2983.981s">I understand!</p>
+      <p begin="2985.107s" xml:id="p540" end="2988.777s">My parents said &quot;Live!&quot; to me as they were being<br />burned inside of the fire.</p>
+      <p begin="2989.862s" xml:id="p541" end="2993.699s">So because of that, no matter what, I cannot die!</p>
+      <p begin="2995.284s" xml:id="p542" end="2996.577s">That&#039;s what I&#039;ve been feeling.</p>
+      <p begin="3009.423s" xml:id="p543" end="3010.674s">It&#039;s impossible.</p>
+      <p begin="3013.636s" xml:id="p544" end="3017.431s">Every night, every night, I have dreams about them!</p>
+      <p begin="3017.973s" xml:id="p545" end="3019.85s">&quot;Come up here quickly,&quot; they say.</p>
+      <p begin="3020.851s" xml:id="p546" end="3024.104s">&quot;How are you living your life so proudly?&quot;</p>
+      <p begin="3024.188s" xml:id="p547" end="3028.484s">Those are dreams; just illusions created by you, Kou-san.</p>
+      <p begin="3028.567s" xml:id="p548" end="3030.027s">First of all... first of all...</p>
+      <p begin="3031.654s" xml:id="p549" end="3034.156s">Am I even alive?</p>
+      <p begin="3036.617s" xml:id="p550" end="3038.619s">I died on that island a long time ago...</p>
+      <p begin="3039.37s" xml:id="p551" end="3040.454s">Decaying...</p>
+      <p begin="3041.455s" xml:id="p552" end="3047.795s">Noriko-san and Akiko are looking at the corpse...</p>
+      <p begin="3047.878s" xml:id="p553" end="3050.339s">That&#039;s definently! it!</p>
+      <p begin="3050.422s" xml:id="p554" end="3052.132s">You are alive!</p>
+      <p begin="3056.554s" xml:id="p555" end="3058.556s">Kou-san is alive!</p>
+      <p begin="3062.685s" xml:id="p556" end="3063.852s">Don&#039;t you understand?</p>
+      <p begin="3078.117s" xml:id="p557" end="3080.828s">Yes, hold the spoon.</p>
+      <p begin="3081.579s" xml:id="p558" end="3084.456s">Yes, gently, gently.</p>
+      <p begin="3085.04s" xml:id="p559" end="3086.166s">Wait, wait...</p>
+      <p begin="3086.25s" xml:id="p560" end="3087.251s">Hm?</p>
+      <p begin="3088.043s" xml:id="p561" end="3090.004s">Yes, now stir the miso soup.</p>
+      <p begin="3090.087s" xml:id="p562" end="3091.005s">Yep.</p>
+      <p begin="3091.088s" xml:id="p563" end="3092.84s">Good, good.</p>
+      <p begin="3093.465s" xml:id="p564" end="3095.426s">Yes, we did it!</p>
+      <p begin="3095.509s" xml:id="p565" end="3096.343s">Yep!</p>
+      <p begin="3097.636s" xml:id="p566" end="3100.18s">Raddish. Akiko&#039;s favorite raddish.</p>
+      <p begin="3100.264s" xml:id="p567" end="3101.181s">Raddish.</p>
+      <p begin="3101.265s" xml:id="p568" end="3102.474s">Please give it a taste.</p>
+      <p begin="3102.558s" xml:id="p569" end="3103.392s">Yes.</p>
+      <p begin="3103.475s" xml:id="p570" end="3104.81s">Yes, please.</p>
+      <p begin="3107.479s" xml:id="p571" end="3108.647s">Drink the soup...</p>
+      <p begin="3108.731s" xml:id="p572" end="3109.732s">Yes, the raddish.</p>
+      <p begin="3111.442s" xml:id="p573" end="3112.484s">Delicious.</p>
+      <p begin="3112.568s" xml:id="p574" end="3114.528s">Hot? Is it hot?</p>
+      <p begin="3114.612s" xml:id="p575" end="3115.696s">Yep!</p>
+      <p begin="3116.822s" xml:id="p576" end="3118.741s">Hey, aren&#039;t the raddishes delicious?</p>
+      <p begin="3118.824s" xml:id="p577" end="3120.951s">Yep, delicious!</p>
+      <p begin="3122.536s" xml:id="p578" end="3123.537s">More!</p>
+      <p begin="3125.831s" xml:id="p579" end="3127.708s">Is it okay if we end this?</p>
+      <p begin="3134.923s" xml:id="p580" end="3136.842s">I&#039;d like to live again.</p>
+      <p begin="3155.944s" xml:id="p581" end="3158.53s">Is this an example of...</p>
+      <p begin="3159.615s" xml:id="p582" end="3161.617s">Hurry up and report it!</p>
+      <p begin="3162.576s" xml:id="p583" end="3163.619s">Hurry!</p>
+      <p begin="3164.119s" xml:id="p584" end="3165.12s">Yes!</p>
+      <p begin="3186.016s" xml:id="p585" end="3190.979s">A costal defense ship from offshore partrol has reported<br />a giant creature heading towards Tōkyō bay!</p>
+      <p begin="3191.063s" xml:id="p586" end="3192.898s">So, it&#039;ll be here soon, won&#039;t it?</p>
+      <p begin="3194.024s" xml:id="p587" end="3195.651s">What&#039;s up?</p>
+      <p begin="3195.734s" xml:id="p588" end="3197.069s">Is this even possible?</p>
+      <p begin="3197.152s" xml:id="p589" end="3198.278s">Is it here?</p>
+      <p begin="3198.862s" xml:id="p590" end="3201.156s">Is this really a living thing?</p>
+      <p begin="3203.742s" xml:id="p591" end="3208.747s">Tōkyō Bay Defense Line, should we blow up the 4th district<br />to stop the unidentified creature from intruding?</p>
+      <p begin="3209.289s" xml:id="p592" end="3211.208s">Just a little bit more.</p>
+      <p begin="3215.379s" xml:id="p593" end="3217.089s">It will soon enter the 4th district!</p>
+      <p begin="3218.09s" xml:id="p594" end="3218.924s">Now!</p>
+      <p begin="3219.007s" xml:id="p595" end="3220.3s">Detonate it!</p>
+      <p begin="3222.761s" xml:id="p596" end="3223.595s">Did we do it?</p>
+      <p begin="3224.847s" xml:id="p597" end="3225.681s">No good.</p>
+      <p begin="3225.764s" xml:id="p598" end="3227.391s">It didn&#039;t seem to work.</p>
+      <p begin="3227.975s" xml:id="p599" end="3231.437s">The blockade of Tōkyō Bay is a failure! The monster<br />is now heading towards Shinagawa</p>
+      <p begin="3232.02s" xml:id="p600" end="3233.856s">It&#039;s extremely big!</p>
+      <p begin="3239.361s" xml:id="p601" end="3240.904s">Tha- thanks.</p>
+      <p begin="3253.333s" xml:id="p602" end="3257.212s">Breaking news, breaking news!</p>
+      <p begin="3257.296s" xml:id="p603" end="3261.759s">A giant creature in the Tōkyō Bay is heading towards Ginza.</p>
+      <p begin="3261.842s" xml:id="p604" end="3266.472s">If you are in Ginza, please follow instructions from<br />the police and begin evacuating immediately.</p>
+      <p begin="3267.139s" xml:id="p605" end="3268.015s">This is real.</p>
+      <p begin="3268.098s" xml:id="p606" end="3269.349s">Ginza...</p>
+      <p begin="3276.732s" xml:id="p607" end="3278.65s">Are you injured? Are you okay? Over here!</p>
+      <p begin="3312.059s" xml:id="p608" end="3313.101s">Ah...</p>
+      <p begin="3313.185s" xml:id="p609" end="3314.186s">Hey, what is that?</p>
+      <p begin="3314.269s" xml:id="p610" end="3315.562s">- What happened?<br />- What&#039;s up?</p>
+      <p begin="3333.831s" xml:id="p611" end="3334.79s">That&#039;s...</p>
+      <p begin="3335.791s" xml:id="p612" end="3336.75s">...Godzilla?</p>
+      <p begin="3359.481s" xml:id="p613" end="3361.149s">Woah!</p>
+      <p begin="3369.7s" xml:id="p614" end="3370.868s">Ah...</p>
+      <p begin="3372.035s" xml:id="p615" end="3374.955s">Ah... Ah... Ah...</p>
+      <p begin="3385.841s" xml:id="p616" end="3387.175s">Ahh...</p>
+      <p begin="3394.474s" xml:id="p617" end="3396.476s">Ah... Ah...</p>
+      <p begin="3414.828s" xml:id="p618" end="3417.331s">An unbelievable sight is unfolding!</p>
+      <p begin="3417.414s" xml:id="p619" end="3423.128s">An incredibly large creature is rampaging<br />through Ginza!</p>
+      <p begin="3424.212s" xml:id="p620" end="3427.215s">The Nichigeki is beying destroyed right now.</p>
+      <p begin="3427.299s" xml:id="p621" end="3434.097s">All those memories and plays, the Nichigeki...<br />that Nippon Gekijō is now crumbling before our eyes!</p>
+      <p begin="3435.057s" xml:id="p622" end="3437.309s">Ah, what a thing to say!</p>
+      <p begin="3437.392s" xml:id="p623" end="3440.27s">The town of Ginza, which survived the air rads<br />from the last war,</p>
+      <p begin="3440.354s" xml:id="p624" end="3442.606s">is now reduced to a pile of rubble!</p>
+      <p begin="3442.689s" xml:id="p625" end="3446.443s">Ah, what? The monster is approaching this<br />direction.</p>
+      <p begin="3446.526s" xml:id="p626" end="3451.782s">Right now, the face of a giant monster is passing before<br />our very eyes.</p>
+      <p begin="3452.366s" xml:id="p627" end="3454.66s">It has become very dangerous here as well.</p>
+      <p begin="3456.286s" xml:id="p628" end="3458.08s">Woah!</p>
+      <p begin="3467.923s" xml:id="p629" end="3469.049s">Hurry and run away!</p>
+      <p begin="3478.6s" xml:id="p630" end="3479.476s">You&#039;re in the way!</p>
+      <p begin="3488.819s" xml:id="p631" end="3489.82s">Stand up!</p>
+      <p begin="3490.32s" xml:id="p632" end="3493.365s">- Kou-san!<br />- It&#039;s no good if you die, hurry!</p>
+      <p begin="3535.907s" xml:id="p633" end="3538.618s">- Oh!<br />- We did it!</p>
+      <p begin="3539.536s" xml:id="p634" end="3541.496s">- Ahhh...<br />- Ah?</p>
+      <p begin="3581.495s" xml:id="p635" end="3582.871s">This is...</p>
+      <p begin="3584.081s" xml:id="p636" end="3585.248s">...the same as that time.</p>
+      <p begin="3639.386s" xml:id="p637" end="3640.303s">Noriko?</p>
+      <p begin="3643.056s" xml:id="p638" end="3643.89s">Noriko?</p>
+      <p begin="3646.643s" xml:id="p639" end="3648.061s">No... Nori... ko...</p>
+      <p begin="3649.896s" xml:id="p640" end="3650.897s">Ah..</p>
+      <p begin="3654.109s" xml:id="p641" end="3655.986s">Ah... Ahh.. Ahh..</p>
+      <p begin="3662.909s" xml:id="p642" end="3664.911s">Ahh... Ahh...</p>
+      <p begin="3729.267s" xml:id="p643" end="3731.978s">Ah!</p>
+      <p begin="3732.562s" xml:id="p644" end="3733.48s">Ahhh!!</p>
+      <p begin="3741.863s" xml:id="p645" end="3743.073s">AHHHHHHHHH!!!</p>
+      <p begin="3744.783s" xml:id="p646" end="3753.625s">The damaged caused by the creature is estimated to be around<br />30,000 killed and injured and over 20,000 buildings destroyed.</p>
+      <p begin="3754.125s" xml:id="p647" end="3756.836s">Rescue efforts have been going on since the disaster.</p>
+      <p begin="3756.92s" xml:id="p648" end="3762.342s">It seems to be difficult to trace the creature due to<br />the possible risk of radiation.</p>
+      <p begin="3762.968s" xml:id="p649" end="3771.977s">In addition, around various places in Ginza,<br />what seems to be flesh from the giant creature has been found and<br />the police are working night and day to dispose of it.</p>
+      <p begin="3772.06s" xml:id="p650" end="3774.229s">The center of Ginza is sealed off.</p>
+      <p begin="3789.661s" xml:id="p651" end="3798.211s">What will Akiko do now that things have turned out<br />so badly?</p>
+      <p begin="3798.712s" xml:id="p652" end="3799.629s">Hm?</p>
+      <p begin="3800.547s" xml:id="p653" end="3802.924s">When we&#039;re in trouble, we help each other out.</p>
+      <p begin="3803.925s" xml:id="p654" end="3804.843s">Aki-chan.</p>
+      <p begin="3807.887s" xml:id="p655" end="3808.888s">Hey.</p>
+      <p begin="3809.597s" xml:id="p656" end="3813.018s">When your otō-chan isn&#039;t around, you like to<br />come over to your oba-chan&#039;s, right?</p>
+      <p begin="3813.643s" xml:id="p657" end="3815.562s">Where&#039;s okaa-chan?</p>
+      <p begin="3821.693s" xml:id="p658" end="3822.944s">Okaa-chan...</p>
+      <p begin="3823.862s" xml:id="p659" end="3829.492s">She&#039;s away on a trip for work,<br />so you&#039;ll be with your oba-chan for a while.</p>
+      <p begin="3841.463s" xml:id="p660" end="3845.091s">Hey, Aki-chan. Aki-chan!</p>
+      <p begin="3850.472s" xml:id="p661" end="3851.848s">Are you okay?</p>
+      <p begin="3876.79s" xml:id="p662" end="3879.751s">So you&#039;re not going to forgive me?</p>
+      <p begin="3886.758s" xml:id="p663" end="3887.717s">It&#039;s because...</p>
+      <p begin="3889.719s" xml:id="p664" end="3891.638s">I had a stupid dream.</p>
+      <p begin="3906.653s" xml:id="p665" end="3907.654s">Shiki-san...</p>
+      <p begin="3909.447s" xml:id="p666" end="3915.036s">A secret operation to defeat Godzilla is actually underway.</p>
+      <p begin="3916.746s" xml:id="p667" end="3918.289s">It&#039;s a very unsettling...</p>
+      <p begin="3919.457s" xml:id="p668" end="3921.751s">...civillian-led initiative but...</p>
+      <p begin="3925.255s" xml:id="p669" end="3926.464s">Would you like to participate in it?</p>
+      <p begin="3942.355s" xml:id="p670" end="3944.774s">Everyone here is...</p>
+      <p begin="3944.858s" xml:id="p671" end="3947.36s">Yes, formerly a marine.</p>
+      <p begin="3947.444s" xml:id="p672" end="3948.445s">You know a lot.</p>
+      <p begin="3969.132s" xml:id="p673" end="3973.136s">I&#039;m Hotta, the former captain of the Yukikaze.</p>
+      <p begin="3973.678s" xml:id="p674" end="3975.68s">As you all know,</p>
+      <p begin="3975.763s" xml:id="p675" end="3979.601s">Right now, Tōkyō was attacked by a giant and<br />mysterious creature,</p>
+      <p begin="3979.684s" xml:id="p676" end="3981.603s">causing an unprecedented crisis.</p>
+      <p begin="3982.187s" xml:id="p677" end="3986.774s">However, we do not have a military to protect the<br />citizens of this country.</p>
+      <p begin="3987.275s" xml:id="p678" end="3994.699s">It was determined that military action from GHQ would be highly<br />unlikely due to the risk of provoking the Soviet forces on the continent.</p>
+      <p begin="3995.825s" xml:id="p679" end="4001.623s">This means that we must face that monster with<br />civillian power alone.</p>
+      <p begin="4002.999s" xml:id="p680" end="4005.919s">It is for that purpose that we have gathered you all here.</p>
+      <p begin="4006.002s" xml:id="p681" end="4012.884s">As a result of negotiations, they have promised to provide<br />4 destroyers that were going to be given to the allies, but they...</p>
+      <p begin="4014.719s" xml:id="p682" end="4015.887s">Are you...</p>
+      <p begin="4016.888s" xml:id="p683" end="4018.932s">...telling us that we have to go on a ship again?</p>
+      <p begin="4019.516s" xml:id="p684" end="4021.309s">I saw that in Ginza.</p>
+      <p begin="4021.935s" xml:id="p685" end="4023.728s">I can&#039;t beat that type of thing.</p>
+      <p begin="4023.811s" xml:id="p686" end="4026.231s">After all, disarmed ships</p>
+      <p begin="4026.314s" xml:id="p687" end="4027.899s">can&#039;t fight back properly!</p>
+      <p begin="4027.982s" xml:id="p688" end="4029.943s">Yeah! How are we supposed to fight?</p>
+      <p begin="4030.026s" xml:id="p689" end="4033.488s">Eh... well regarding those matters, please<br />allow me to explain to you.</p>
+      <p begin="4034.113s" xml:id="p690" end="4035.281s">Noda-san?</p>
+      <p begin="4036.491s" xml:id="p691" end="4038.493s">This time...</p>
+      <p begin="4040.453s" xml:id="p692" end="4041.454s">Sorry about that...</p>
+      <p begin="4042.747s" xml:id="p693" end="4044.457s">This time, the person who devised the plan...</p>
+      <p begin="4044.541s" xml:id="p694" end="4047.544s">...is me, former Navy technical officer Noda Kenji.</p>
+      <p begin="4047.627s" xml:id="p695" end="4049.629s">First of all,</p>
+      <p begin="4050.421s" xml:id="p696" end="4054.3s">Eh, according to the legend from Ōdo Island, this<br />monster is called Godzilla.</p>
+      <p begin="4054.384s" xml:id="p697" end="4058.93s">Godzilla takes almost no damage from normal firemarms.</p>
+      <p begin="4059.013s" xml:id="p698" end="4060.306s">I saw it right before my eyes...</p>
+      <p begin="4060.39s" xml:id="p699" end="4064.31s">It even got hit by the main gun of Heavy Cruiser<br />Takao, but...</p>
+      <p begin="4064.394s" xml:id="p700" end="4066.312s">...it quickly regenerated.</p>
+      <p begin="4068.94s" xml:id="p701" end="4070.358s">So in secret,</p>
+      <p begin="4070.441s" xml:id="p702" end="4073.236s">I came up with another solution.</p>
+      <p begin="4075.363s" xml:id="p703" end="4077.824s">First, I&#039;m going to show you a simple experiment.</p>
+      <p begin="4078.408s" xml:id="p704" end="4081.661s">The water in here is salt water with the same<br />concentration as seawater.</p>
+      <p begin="4081.744s" xml:id="p705" end="4086.833s">This Godzilla-like wood has a weight attached to it<br />so that it just barely floats.</p>
+      <p begin="4086.916s" xml:id="p706" end="4089.544s">In this state, if we pumped freon gas through<br />the tube,</p>
+      <p begin="4089.627s" xml:id="p707" end="4091.754s">what will happen if it covers the piece of wood<br />with bubbles?</p>
+      <p begin="4091.838s" xml:id="p708" end="4093.631s">What will happen?</p>
+      <p begin="4093.715s" xml:id="p709" end="4095.925s">Whether or not bubbles comes out, it&#039;ll still float, right?</p>
+      <p begin="4096.009s" xml:id="p710" end="4098.553s">Yeah, that&#039;s obvious.</p>
+      <p begin="4098.636s" xml:id="p711" end="4099.971s">That&#039;s what you&#039;d think, right?</p>
+      <p begin="4106.853s" xml:id="p712" end="4109.48s">It sunk! It sunk!</p>
+      <p begin="4110.231s" xml:id="p713" end="4112.567s">The bubbles from the the freon gas enclose the wood</p>
+      <p begin="4112.65s" xml:id="p714" end="4114.944s">and prevent it from coming in contact with the seawater.</p>
+      <p begin="4115.028s" xml:id="p715" end="4120.491s">My plan is that this time, we use this on Godzilla, the monster<br />that attacked Tōkyō, and sink him to the bottom of the sea.</p>
+      <p begin="4120.575s" xml:id="p716" end="4124.954s">Hey, the Acedemic is a surprisingly awesome guy, isn&#039;t he?</p>
+      <p begin="4125.038s" xml:id="p717" end="4125.872s">Yep!</p>
+      <p begin="4139.052s" xml:id="p718" end="4143.64s">As you know, Sagami Trench off of the coast is more than<br />1500 meters deep...</p>
+      <p begin="4143.723s" xml:id="p719" end="4146.225s">...boasting an exceptional depth for waters off the coast.</p>
+      <p begin="4146.309s" xml:id="p720" end="4150.188s">Our current plan is to attach a large number of freon<br />gas tanks to Godzilla,</p>
+      <p begin="4150.271s" xml:id="p721" end="4153.733s">and have them all foam at the same time, covering it<br />with a curtain of bubbles.</p>
+      <p begin="4153.816s" xml:id="p722" end="4158.529s">Within a short period of time, it will sink into<br />Sagami Trench and the pressure will kill it.</p>
+      <p begin="4161.866s" xml:id="p723" end="4164.16s">We&#039;ll kill Godzilla with the power of the ocean.</p>
+      <p begin="4165.161s" xml:id="p724" end="4168.706s">This is the outline of Operation Wadatsumi.</p>
+      <p begin="4169.832s" xml:id="p725" end="4171.084s">That thing came from the see.</p>
+      <p begin="4171.167s" xml:id="p726" end="4173.753s">It isn&#039;t bothered by the deep water pressure.</p>
+      <p begin="4175.129s" xml:id="p727" end="4181.719s">According to my calculations, after about 25 seconds,<br />1500 tons will be exerted per square meter.</p>
+      <p begin="4181.803s" xml:id="p728" end="4184.097s">Even creatures that can normally survive in the deep sea</p>
+      <p begin="4184.18s" xml:id="p729" end="4187.1s">cannot with stand these types of rapid pressure changes.</p>
+      <p begin="4187.183s" xml:id="p730" end="4188.059s">And...</p>
+      <p begin="4189.268s" xml:id="p731" end="4191.437s">Can you absolutely kill Godzilla?</p>
+      <p begin="4193.981s" xml:id="p732" end="4197.235s">There are so many things about Godzilla&#039;s ecology<br />that we don&#039;t know about...</p>
+      <p begin="4197.318s" xml:id="p733" end="4199.445s">So we can only create countermeasures against it<br />based on our predictions.</p>
+      <p begin="4199.529s" xml:id="p734" end="4202.365s">That&#039;s bullcrap, isn&#039;t it?</p>
+      <p begin="4203.533s" xml:id="p735" end="4206.077s">However, since artillery fire is ineffective, this<br />is the best solution.</p>
+      <p begin="4206.16s" xml:id="p736" end="4208.329s">Can you kill him? Or can you not?</p>
+      <p begin="4211.374s" xml:id="p737" end="4213.292s">I can&#039;t say for sure.</p>
+      <p begin="4215.837s" xml:id="p738" end="4216.671s">Shikishima</p>
+      <p begin="4217.296s" xml:id="p739" end="4218.673s">There is a possibility!</p>
+      <p begin="4223.928s" xml:id="p740" end="4224.929s">Shiki-san!</p>
+      <p begin="4226.639s" xml:id="p741" end="4228.099s">Listen until the end!</p>
+      <p begin="4245.408s" xml:id="p742" end="4248.077s">Now, for a detailed explanation,</p>
+      <p begin="4253.124s" xml:id="p743" end="4257.044s">We use 2 destroyers to wrap the cable around Godzilla.</p>
+      <p begin="4258.045s" xml:id="p744" end="4263.76s">The cable is already equipped with a large amount<br />of freon gas tanks.</p>
+      <p begin="4266.012s" xml:id="p745" end="4269.474s">As soon as it&#039;s wrapped around Godzilla, all of the gas<br />releases,</p>
+      <p begin="4270.641s" xml:id="p746" end="4274.812s">and Godzilla is pulled down 1500 meters into the deep sea.</p>
+      <p begin="4274.896s" xml:id="p747" end="4276.481s">However, if that doesn&#039;t work,</p>
+      <p begin="4276.564s" xml:id="p748" end="4278.149s">we have a backup plan.</p>
+      <p begin="4279.484s" xml:id="p749" end="4282.403s">Everyone, please look at the courtyard.</p>
+      <p begin="4300.755s" xml:id="p750" end="4301.589s">Deploy!</p>
+      <p begin="4303.257s" xml:id="p751" end="4305.051s">Oh!</p>
+      <p begin="4305.134s" xml:id="p752" end="4307.386s">Awesome! Awesome!</p>
+      <p begin="4307.47s" xml:id="p753" end="4310.139s">I&#039;m Itagaki from Tōyō Baloon.</p>
+      <p begin="4310.223s" xml:id="p754" end="4317.814s">What you just saw is an inflatable floatationd device<br />inspired by the ones installed on former Naval aircraft.</p>
+      <p begin="4317.897s" xml:id="p755" end="4323.11s">This so-called floating bag gains buoyancy by having<br />Carbon Dioxide blow into the air sacs.</p>
+      <p begin="4324.904s" xml:id="p756" end="4330.451s">Now, this can bring Godzilla, who will have reached the bottom<br />of the ocean, all the way back up to the surface.</p>
+      <p begin="4330.535s" xml:id="p757" end="4335.122s">Even if it is able to withstand the high pressure,<br />I don&#039;t think it will be able to withstand the</p>
+      <p begin="4335.206s" xml:id="p758" end="4337.166s">massive decompression that will follow it.</p>
+      <p begin="4337.25s" xml:id="p759" end="4341.546s">Of course, I cannot say for sure that we will<br />defeat it.</p>
+      <p begin="4341.629s" xml:id="p760" end="4344.006s">But the only thing we can do now is what we can.</p>
+      <p begin="4349.512s" xml:id="p761" end="4351.514s">To all those who survived the war,</p>
+      <p begin="4352.223s" xml:id="p762" end="4359.689s">I am sorry to ask you to take on a life-threatening<br />mission again, but I want you to understand.</p>
+      <p begin="4360.314s" xml:id="p763" end="4363.442s">Now that neither the US nor Japanese government can<br />help us out,</p>
+      <p begin="4364.151s" xml:id="p764" end="4367.196s">we are the only ones who can shape the<br />future for this country.</p>
+      <p begin="4370.408s" xml:id="p765" end="4371.659s">It&#039;s impossible.</p>
+      <p begin="4373.578s" xml:id="p766" end="4375.454s">I have a family.</p>
+      <p begin="4375.538s" xml:id="p767" end="4378.416s">I just can&#039;t do it. That goes for most of<br />the people here.</p>
+      <p begin="4379.208s" xml:id="p768" end="4382.92s">Why are we the only ones drawing the<br />short straws?</p>
+      <p begin="4384.338s" xml:id="p769" end="4386.757s">I don&#039;t want this to be like the war.</p>
+      <p begin="4393.055s" xml:id="p770" end="4394.223s">Quiet down.</p>
+      <p begin="4394.307s" xml:id="p771" end="4397.059s">Everyone, I want you to listen carefully.</p>
+      <p begin="4397.977s" xml:id="p772" end="4399.729s">This is not an order.</p>
+      <p begin="4400.271s" xml:id="p773" end="4403.316s">Those with personal situations are free to leave.</p>
+      <p begin="4404.233s" xml:id="p774" end="4407.361s">We have no right to stop you from doing so.</p>
+      <p begin="4431.636s" xml:id="p775" end="4432.637s">This...</p>
+      <p begin="4434.305s" xml:id="p776" end="4436.307s">We&#039;re not going to die for sure, right?</p>
+      <p begin="4437.35s" xml:id="p777" end="4438.726s">Of course not!</p>
+      <p begin="4441.145s" xml:id="p778" end="4444.148s">Well, then it&#039;s much better than wartime!</p>
+      <p begin="4445.858s" xml:id="p779" end="4447.234s">Yeah, for sure!</p>
+      <p begin="4447.318s" xml:id="p780" end="4449.111s">Someone has to do it...</p>
+      <p begin="4449.987s" xml:id="p781" end="4451.948s">So I guess there&#039;s no other way, right?</p>
+      <p begin="4452.031s" xml:id="p782" end="4454.325s">Without us, the ships won&#039;t be able to move.</p>
+      <p begin="4454.408s" xml:id="p783" end="4456.786s">- That&#039;s right!<br />- I know, right!</p>
+      <p begin="4456.869s" xml:id="p784" end="4459.58s">All right! Let&#039;s do it!</p>
+      <p begin="4459.664s" xml:id="p785" end="4463.125s">- Let&#039;s do it!<br />- All right!</p>
+      <p begin="4468.881s" xml:id="p786" end="4470.091s">Everyone...</p>
+      <p begin="4472.426s" xml:id="p787" end="4473.719s">Thank you.</p>
+      <p begin="4474.387s" xml:id="p788" end="4476.013s">Let&#039;s do it!</p>
+      <p begin="4483.187s" xml:id="p789" end="4484.897s">But...</p>
+      <p begin="4484.981s" xml:id="p790" end="4488.109s">I still can&#039;t believe you&#039;re the one who<br />planned this type of operation.</p>
+      <p begin="4488.192s" xml:id="p791" end="4491.779s">I&#039;ve encountered Godzilla in real life.</p>
+      <p begin="4491.862s" xml:id="p792" end="4494.532s">So, that&#039;s why they gave me the green light.</p>
+      <p begin="4494.615s" xml:id="p793" end="4498.077s">So they called us in for the same reason,<br />didn&#039;t they?</p>
+      <p begin="4498.16s" xml:id="p794" end="4501.08s">Do you think it&#039;ll return?</p>
+      <p begin="4501.872s" xml:id="p795" end="4505.584s">Due to just recently landing in Tōkyō,</p>
+      <p begin="4505.668s" xml:id="p796" end="4508.671s">you can see it as an addition to Godzilla&#039;s<br />territory.</p>
+      <p begin="4508.754s" xml:id="p797" end="4509.964s">Worst case scenario...</p>
+      <p begin="4510.756s" xml:id="p798" end="4513.801s">Godzilla appears again sometime within the<br />next 10 days.</p>
+      <p begin="4513.884s" xml:id="p799" end="4515.136s">That&#039;s early!</p>
+      <p begin="4515.219s" xml:id="p800" end="4518.139s">Apparently, they&#039;ve placed lots of<br />radition-detecting buoys.</p>
+      <p begin="4518.222s" xml:id="p801" end="4521.058s">We can&#039;t soley rely on our eyes to detect it.</p>
+      <p begin="4521.142s" xml:id="p802" end="4523.394s">First off, if you set a trap for it,</p>
+      <p begin="4523.477s" xml:id="p803" end="4525.563s">you&#039;re expecting it to come up and say<br />&quot;Hai, how old are you?&quot;</p>
+      <p begin="4526.105s" xml:id="p804" end="4527.189s">That&#039;s it.</p>
+      <p begin="4527.273s" xml:id="p805" end="4528.357s">Hey, that&#039;s impossible.</p>
+      <p begin="4528.441s" xml:id="p806" end="4532.319s">Please don&#039;t make fun of me. I&#039;m thinking about<br />it carefully.</p>
+      <p begin="4534.697s" xml:id="p807" end="4537.575s">There&#039;s an underwater loudspeaker that&#039;s used<br />for acoustic minesweeping.</p>
+      <p begin="4537.658s" xml:id="p808" end="4539.076s">Using that,</p>
+      <p begin="4539.16s" xml:id="p809" end="4542.371s">we&#039;ll play back the recorded of the sound of<br />Godzilla from his most recent appearance.</p>
+      <p begin="4542.455s" xml:id="p810" end="4543.539s">The sound of Godzilla?</p>
+      <p begin="4543.622s" xml:id="p811" end="4544.498s">Eh.</p>
+      <p begin="4544.582s" xml:id="p812" end="4548.711s">Godzilla will chase after another being because he will<br />feel that his territory is being invaded...</p>
+      <p begin="4549.253s" xml:id="p813" end="4550.087s">At least he should...</p>
+      <p begin="4550.171s" xml:id="p814" end="4551.589s">&quot;Should?&quot;</p>
+      <p begin="4551.672s" xml:id="p815" end="4553.466s">It&#039;s always &quot;should.&quot;</p>
+      <p begin="4553.549s" xml:id="p816" end="4556.635s">And what is that levitation-floating-device-thing for<br />in the first place?</p>
+      <p begin="4556.719s" xml:id="p817" end="4559.513s">I don&#039;t feel like it&#039;s gonna work.</p>
+      <p begin="4559.597s" xml:id="p818" end="4561.849s">Well then, what are you saying I should do?</p>
+      <p begin="4561.932s" xml:id="p819" end="4565.227s">Yes, yes, how about we use a destroyer to pull it<br />back up?</p>
+      <p begin="4565.311s" xml:id="p820" end="4568.439s">Don&#039;t say stupid things. Godzilla is estimated to<br />weigh around 20,000 tons.</p>
+      <p begin="4568.522s" xml:id="p821" end="4570.733s">The thrust of only 2 destroyers just isn&#039;t enough.</p>
+      <p begin="4571.776s" xml:id="p822" end="4572.777s">Ah...</p>
+      <p begin="4573.861s" xml:id="p823" end="4577.239s">Well basically, your plan is full of holes.</p>
+      <p begin="4578.074s" xml:id="p824" end="4581.952s">If you&#039;re going to say those types of things, then<br />please provide an alternative plan.</p>
+      <p begin="4584.205s" xml:id="p825" end="4585.414s">Noda-san.</p>
+      <p begin="4587.208s" xml:id="p826" end="4590.586s">Do you have any connections to fighter jets somewhere?</p>
+      <p begin="4591.462s" xml:id="p827" end="4592.588s">Fighter jets?</p>
+      <p begin="4592.671s" xml:id="p828" end="4594.799s">In the unlikely even it does appear on land,</p>
+      <p begin="4594.882s" xml:id="p829" end="4597.426s">we can anger him with gunfire and lure it<br />back to Sagami Bay.</p>
+      <p begin="4598.052s" xml:id="p830" end="4600.971s">After they were disarmed, all of them were burned<br />down, the Japanese fighter jets.</p>
+      <p begin="4601.597s" xml:id="p831" end="4605.309s">Even if there were some left, it<br />breathes Heat Rays.</p>
+      <p begin="4605.392s" xml:id="p832" end="4608.229s">Guiding it with an aircraft would be a<br />very dangerous job.</p>
+      <p begin="4608.312s" xml:id="p833" end="4610.314s">I don&#039;t care if it&#039;s dangerous.</p>
+      <p begin="4610.397s" xml:id="p834" end="4614.068s">Fighter jets are much more mobile than ships anyways.</p>
+      <p begin="4614.151s" xml:id="p835" end="4617.071s">Are you aiming to get shot down on purpose?</p>
+      <p begin="4617.154s" xml:id="p836" end="4620.449s">Are you just desperate?</p>
+      <p begin="4622.118s" xml:id="p837" end="4622.952s">Are you drunk?!</p>
+      <p begin="4623.536s" xml:id="p838" end="4625.996s">You just want to avenge Nori-chan.</p>
+      <p begin="4627.164s" xml:id="p839" end="4628.249s">And you&#039;ve got a problem with that, don&#039;t you?</p>
+      <p begin="4628.332s" xml:id="p840" end="4630.292s">Now that...</p>
+      <p begin="4632.461s" xml:id="p841" end="4636.173s">Why didn&#039;t you take Nori-chan as your wife before<br />all this happened?</p>
+      <p begin="4636.257s" xml:id="p842" end="4638.05s">You knew how she felt about it, didn&#039;t you?</p>
+      <p begin="4638.134s" xml:id="p843" end="4640.886s">I wanted to do that too!</p>
+      <p begin="4641.971s" xml:id="p844" end="4643.973s">So why?</p>
+      <p begin="4646.058s" xml:id="p845" end="4647.101s">My...</p>
+      <p begin="4653.816s" xml:id="p846" end="4656.026s">war hasn&#039;t ended.</p>
+      <p begin="4681.343s" xml:id="p847" end="4682.97s">There were fighter jets?</p>
+      <p begin="4683.053s" xml:id="p848" end="4685.89s">Yep, but it&#039;s a very special one...</p>
+      <p begin="4705.201s" xml:id="p849" end="4710.247s">It&#039;s the Shinden, a local fighter jet designed<br />near the end of the war.</p>
+      <p begin="4711.457s" xml:id="p850" end="4713.959s">Specially designed for hit-and-run bombing attacks.</p>
+      <p begin="4714.043s" xml:id="p851" end="4716.045s">The maximum speed is over 400 knots.</p>
+      <p begin="4716.712s" xml:id="p852" end="4719.423s">It has a canard design and is equipped with<br />four 30mm guns.</p>
+      <p begin="4719.506s" xml:id="p853" end="4725.387s">It&#039;s an innovative aircraft that boasts exceptionally<br />weaponary and incorporates many new inventions.</p>
+      <p begin="4726.388s" xml:id="p854" end="4729.934s">Apparently, only a few prototypes were ever<br />deployed in combat.</p>
+      <p begin="4730.434s" xml:id="p855" end="4736.857s">They were deployed here for the final battle on the mainland,<br />but were forgotten about in the confussion after the war...</p>
+      <p begin="4737.608s" xml:id="p856" end="4741.57s">Since it was left unattended for so long,<br />the aircraft often goes rattle-rattle.</p>
+      <p begin="4742.738s" xml:id="p857" end="4745.157s">I can&#039;t fly it like this...</p>
+      <p begin="4745.241s" xml:id="p858" end="4746.7s">That&#039;s the problem.</p>
+      <p begin="4746.784s" xml:id="p859" end="4748.327s">A good mechanic...</p>
+      <p begin="4748.41s" xml:id="p860" end="4752.331s">No, a person capable of reparing this aircraft is<br />what we need.</p>
+      <p begin="4754.833s" xml:id="p861" end="4758.462s">I have a person in mind.</p>
+      <p begin="4761.09s" xml:id="p862" end="4765.511s">Former Ōdo Island Mechanic Tachibana Sōsaku-san?</p>
+      <p begin="4765.594s" xml:id="p863" end="4766.512s">Yes.</p>
+      <p begin="4766.595s" xml:id="p864" end="4769.39s">Tachibana, Tachibana, Tachibana, Tachibana...</p>
+      <p begin="4769.473s" xml:id="p865" end="4773.227s">Ah, he currently doesn&#039;t have an address registered.</p>
+      <p begin="4773.31s" xml:id="p866" end="4774.228s">I see.</p>
+      <p begin="4774.311s" xml:id="p867" end="4777.439s">We get tons of requests to search for people<br />every day.</p>
+      <p begin="4777.523s" xml:id="p868" end="4779.692s">It&#039;ll take a while for us to find him.</p>
+      <p begin="4779.775s" xml:id="p869" end="4782.611s">I need to get in touch with him about some<br />very urgent matters!</p>
+      <p begin="4782.695s" xml:id="p870" end="4785.572s">You&#039;re in a difficult situation. Even if you say that...</p>
+      <p begin="4785.656s" xml:id="p871" end="4787.7s">Please! Just do it!</p>
+      <p begin="4787.783s" xml:id="p872" end="4790.119s">The survival of the country depends on it!</p>
+      <p begin="4790.202s" xml:id="p873" end="4793.58s">Even if that&#039;s true, I can&#039;t do what&#039;s not possible.</p>
+      <p begin="4793.664s" xml:id="p874" end="4794.498s">I&#039;m sorry.</p>
+      <p begin="4794.581s" xml:id="p875" end="4795.916s">Well then...</p>
+      <p begin="4796.75s" xml:id="p876" end="4801.422s">Do you know which unit Tachibana belonged to before<br />he switched over to Ōdo Island?</p>
+      <p begin="4808.887s" xml:id="p877" end="4811.14s">I&#039;m doing all that I can...</p>
+      <p begin="4811.223s" xml:id="p878" end="4815.394s">But I can&#039;t seem to get in touch with that Tachibana-san.</p>
+      <p begin="4816.603s" xml:id="p879" end="4819.315s">There are many other excellent former maintenance personnel.</p>
+      <p begin="4819.398s" xml:id="p880" end="4821.358s">Why don&#039;t you just try a different one?</p>
+      <p begin="4821.442s" xml:id="p881" end="4823.11s">Please give me a little more time.</p>
+      <p begin="4824.82s" xml:id="p882" end="4827.114s">Why are you so obsessed with that person?</p>
+      <p begin="4827.197s" xml:id="p883" end="4829.283s">There&#039;s no telling when Godzilla will return.</p>
+      <p begin="4829.366s" xml:id="p884" end="4831.285s">It&#039;s no good if it&#039;s not Tachibana!</p>
+      <p begin="4832.286s" xml:id="p885" end="4834.288s">He&#039;s gonna recieve my message soon.</p>
+      <p begin="4835.622s" xml:id="p886" end="4836.874s">Please!</p>
+      <p begin="4863.65s" xml:id="p887" end="4865.277s">Ta... Tachibana...</p>
+      <p begin="4866.695s" xml:id="p888" end="4869.239s">Tachibana-san! It&#039;s you, Tachibana-san, isn&#039;t it!</p>
+      <p begin="4874.036s" xml:id="p889" end="4876.038s">What&#039;s your intention with this?</p>
+      <p begin="4879.708s" xml:id="p890" end="4880.793s">Ah!</p>
+      <p begin="4883.253s" xml:id="p891" end="4887.758s">You&#039;re saying all the deaths on Ōdo Island were<br />my fault?</p>
+      <p begin="4889.802s" xml:id="p892" end="4891.428s">What&#039;s up with that?</p>
+      <p begin="4892.179s" xml:id="p893" end="4893.263s">Sorry...</p>
+      <p begin="4894.264s" xml:id="p894" end="4899.269s">I knew that if I said that, you&#039;d get angry<br />and come over here.</p>
+      <p begin="4899.77s" xml:id="p895" end="4900.813s">You shameless person!</p>
+      <p begin="4903.649s" xml:id="p896" end="4905.651s">That thing that attacked Ginza...</p>
+      <p begin="4906.693s" xml:id="p897" end="4907.694s">was...</p>
+      <p begin="4909.405s" xml:id="p898" end="4910.864s">Godzilla from Ōdo Island.</p>
+      <p begin="4918.956s" xml:id="p899" end="4922.876s">Our fighter jets need to be upgraded...</p>
+      <p begin="4922.96s" xml:id="p900" end="4924.795s">...so that I can defeat it!</p>
+      <p begin="4925.671s" xml:id="p901" end="4930.384s">I really needed to meet up with you so that I<br />could ask you do do that.</p>
+      <p begin="4930.884s" xml:id="p902" end="4933.512s">That&#039;s why the bullcrap letters.</p>
+      <p begin="4935.556s" xml:id="p903" end="4936.849s">Please forgive me!</p>
+      <p begin="4942.729s" xml:id="p904" end="4944.106s">Do whatever you want.</p>
+      <p begin="4945.566s" xml:id="p905" end="4947.317s">There&#039;s no way I&#039;m gonna give you a hand.</p>
+      <p begin="4948.318s" xml:id="p906" end="4951.238s">Tachibana-san! Please wait, Tachibana-san!</p>
+      <p begin="4951.78s" xml:id="p907" end="4953.949s">Please wait for a second! Tachibana-san!</p>
+      <p begin="4954.032s" xml:id="p908" end="4956.41s">There&#039;s something I&#039;d like for you to do.</p>
+      <p begin="4956.493s" xml:id="p909" end="4960.164s">This is something that only you can do, Tachibana-san.</p>
+      <p begin="4962.082s" xml:id="p910" end="4964.668s">I once detonated a mine inside of Godzilla&#039;s mouth.</p>
+      <p begin="4964.751s" xml:id="p911" end="4966.628s">It was far more effective than the guns on the Takao.</p>
+      <p begin="4966.712s" xml:id="p912" end="4969.631s">He&#039;s weak to attacks from the inside. Do you understand?</p>
+      <p begin="4972.092s" xml:id="p913" end="4973.218s">You...</p>
+      <p begin="4974.636s" xml:id="p914" end="4977.89s">I&#039;m going to take a fighter jet full of bombs and<br />fly it into that thing&#039;s mouth.</p>
+      <p begin="4977.973s" xml:id="p915" end="4979.892s">That will definently kill it!</p>
+      <p begin="4986.857s" xml:id="p916" end="4988.025s">A suicide attack?</p>
+      <p begin="4990.569s" xml:id="p917" end="4997.326s">Your war isn&#039;t over either.</p>
+      <p begin="5000.537s" xml:id="p918" end="5003.665s">Ah, so you fell down?</p>
+      <p begin="5003.749s" xml:id="p919" end="5004.583s">Ow!</p>
+      <p begin="5004.666s" xml:id="p920" end="5007.377s">It&#039;s swelling up again pretty badly.</p>
+      <p begin="5007.461s" xml:id="p921" end="5011.381s">It&#039;s a little embarrassing since I was drunk.</p>
+      <p begin="5011.465s" xml:id="p922" end="5013.509s">I don&#039;t really remember what happened.</p>
+      <p begin="5013.592s" xml:id="p923" end="5016.22s">Well, it&#039;s no wonder you were so excited after<br />finding Tachibana-san, who you were</p>
+      <p begin="5016.303s" xml:id="p924" end="5018.764s">very particular about wanting.</p>
+      <p begin="5019.973s" xml:id="p925" end="5021.975s">A canard aircraft?</p>
+      <p begin="5023.101s" xml:id="p926" end="5025.604s">I heard rumors about it, it actually was built?</p>
+      <p begin="5027.94s" xml:id="p927" end="5029.066s">Tachibana-san.</p>
+      <p begin="5029.858s" xml:id="p928" end="5032.236s">Everyone, thank you for coming!</p>
+      <p begin="5032.319s" xml:id="p929" end="5034.321s">Are you Tachibana-san?</p>
+      <p begin="5037.95s" xml:id="p930" end="5041.828s">Is this the legendary local fighter jet Shinden?</p>
+      <p begin="5041.912s" xml:id="p931" end="5045.249s">Yes. Can you fix it so we can fly it?</p>
+      <p begin="5048.669s" xml:id="p932" end="5051.004s">We&#039;ll try everything we can.</p>
+      <p begin="5051.505s" xml:id="p933" end="5052.756s">Thank you.</p>
+      <p begin="5053.924s" xml:id="p934" end="5056.426s">Thank you. Thank you.</p>
+      <p begin="5074.82s" xml:id="p935" end="5075.946s">What&#039;s wrong?</p>
+      <p begin="5076.655s" xml:id="p936" end="5079.533s">If the planner-sama makes a face like that,<br />it&#039;s bad for morale.</p>
+      <p begin="5080.033s" xml:id="p937" end="5081.952s">I proposed this, but...</p>
+      <p begin="5082.035s" xml:id="p938" end="5086.331s">I started to feel like it would be a miracle<br />if the operation succeeds.</p>
+      <p begin="5086.415s" xml:id="p939" end="5087.749s">Even so...</p>
+      <p begin="5087.833s" xml:id="p940" end="5090.836s">The miracle won&#039;t happen if you don&#039;t<br />do anything.</p>
+      <p begin="5090.919s" xml:id="p941" end="5092.379s">That&#039;s true, isn&#039;t it?</p>
+      <p begin="5093.171s" xml:id="p942" end="5095.924s">And look at their faces.</p>
+      <p begin="5097.676s" xml:id="p943" end="5099.553s">They aren&#039;t idiots.</p>
+      <p begin="5099.636s" xml:id="p944" end="5102.931s">They know well that this is a tough<br />operation that risks their lives.</p>
+      <p begin="5103.64s" xml:id="p945" end="5104.6s">Even so...</p>
+      <p begin="5105.767s" xml:id="p946" end="5110.314s">Everyone looks so happy.</p>
+      <p begin="5111.106s" xml:id="p947" end="5114.026s">Maybe this time, they can be helpful.</p>
+      <p begin="5115.319s" xml:id="p948" end="5117.446s">Be helpful...</p>
+      <p begin="5119.323s" xml:id="p949" end="5121.7s">We all survived the war.</p>
+      <p begin="5122.451s" xml:id="p950" end="5125.954s">That&#039;s why I said, &quot;this time.&quot;</p>
+      <p begin="5141.136s" xml:id="p951" end="5142.179s">Hurry up!</p>
+      <p begin="5145.724s" xml:id="p952" end="5147.392s">Please make room.</p>
+      <p begin="5148.226s" xml:id="p953" end="5156.151s">1 hour ago, off of the East Coast of<br />Hacijō Island at 33°10&#039;N 140°01&#039;E,</p>
+      <p begin="5156.234s" xml:id="p954" end="5159.78s">It was reported that the installed Geiger counters<br />had detected a reaction.</p>
+      <p begin="5160.322s" xml:id="p955" end="5163.867s">And then here and here.</p>
+      <p begin="5179.299s" xml:id="p956" end="5180.926s">Godzilla&#039;s approaching.</p>
+      <p begin="5181.677s" xml:id="p957" end="5183.261s">At last.</p>
+      <p begin="5183.345s" xml:id="p958" end="5185.43s">Reverse-calculating from this speed,</p>
+      <p begin="5185.514s" xml:id="p959" end="5189.81s">Godzilla will arrive at the trench off the<br />coast of Sagami Bay at 1100 hours.</p>
+      <p begin="5189.893s" xml:id="p960" end="5191.436s">In order to confront it,</p>
+      <p begin="5191.52s" xml:id="p961" end="5195.232s">we will depart tomorrow morning at 0800 hours.</p>
+      <p begin="5195.732s" xml:id="p962" end="5197.567s">All right!</p>
+      <p begin="5197.651s" xml:id="p963" end="5198.527s">However...</p>
+      <p begin="5199.111s" xml:id="p964" end="5201.488s">Will the device be completed by then?</p>
+      <p begin="5202.906s" xml:id="p965" end="5204.866s">Please take us with you.</p>
+      <p begin="5204.95s" xml:id="p966" end="5207.411s">The 3 hours it takes to get to the site are precious.</p>
+      <p begin="5207.494s" xml:id="p967" end="5209.246s">As an engineer, I want it to be perfect.</p>
+      <p begin="5209.329s" xml:id="p968" end="5212.916s">But you might get caught up in the fight<br />with Godzilla.</p>
+      <p begin="5213.917s" xml:id="p969" end="5215.752s">We all came back from the war too.</p>
+      <p begin="5221.883s" xml:id="p970" end="5224.928s">Everyone, if possible,</p>
+      <p begin="5225.011s" xml:id="p971" end="5228.849s">please go home and spend time with your<br />families tonight.</p>
+      <p begin="5230.475s" xml:id="p972" end="5231.893s">Are you saying to be prepared?</p>
+      <p begin="5237.107s" xml:id="p973" end="5238.4s">If you think about it...</p>
+      <p begin="5239.401s" xml:id="p974" end="5243.989s">If you think about it, this country has wasted<br />too many lives.</p>
+      <p begin="5245.115s" xml:id="p975" end="5247.2s">Tanks with vulnerable armor...</p>
+      <p begin="5248.076s" xml:id="p976" end="5254.166s">Due to negligance of supplies, most battlefield<br />deaths are due to starvation or disease...</p>
+      <p begin="5255.667s" xml:id="p977" end="5260.589s">The fighter jets didn&#039;t even have basic<br />escape methods,</p>
+      <p begin="5262.299s" xml:id="p978" end="5266.344s">in the end being suicide attacks and gyokusai...</p>
+      <p begin="5268.346s" xml:id="p979" end="5269.973s">So this time...</p>
+      <p begin="5272.1s" xml:id="p980" end="5279.483s">I want to be proud of this civillian-led operation for<br />not having a single casualty.</p>
+      <p begin="5281.902s" xml:id="p981" end="5286.281s">This time, the battle is not a fight to the death.</p>
+      <p begin="5287.616s" xml:id="p982" end="5290.118s">It&#039;s a fight to live in the future.</p>
+      <p begin="5292.704s" xml:id="p983" end="5294.456s">All right... all right...</p>
+      <p begin="5294.539s" xml:id="p984" end="5295.957s">Let&#039;s do it!</p>
+      <p begin="5296.041s" xml:id="p985" end="5299.377s">All right! Let&#039;s do it!</p>
+      <p begin="5302.881s" xml:id="p986" end="5306.51s">It&#039;s finally happening tomorrow. I&#039;m trembling<br />with excitement!</p>
+      <p begin="5306.593s" xml:id="p987" end="5308.136s">You&#039;re not coming with us.</p>
+      <p begin="5310.013s" xml:id="p988" end="5311.556s">What do you mean?</p>
+      <p begin="5311.64s" xml:id="p989" end="5315.018s">Well, those hands aren&#039;t going to do you any good.</p>
+      <p begin="5315.644s" xml:id="p990" end="5317.562s">Shikishima&#039;s going too, right?</p>
+      <p begin="5318.146s" xml:id="p991" end="5319.94s">Is it because I don&#039;t have any experience with war?</p>
+      <p begin="5320.023s" xml:id="p992" end="5322.192s">Do you really think I&#039;m useless?</p>
+      <p begin="5322.275s" xml:id="p993" end="5328.156s">Kid, you&#039;re lucky that you didn&#039;t go to war.</p>
+      <p begin="5334.83s" xml:id="p994" end="5336.915s">I want to protect this country too!</p>
+      <p begin="5340.418s" xml:id="p995" end="5342.42s">Why can&#039;t I come with you?</p>
+      <p begin="5344.881s" xml:id="p996" end="5347.884s">We&#039;ve been together for a while now!</p>
+      <p begin="5349.511s" xml:id="p997" end="5350.72s">Please!</p>
+      <p begin="5351.93s" xml:id="p998" end="5353.515s">Please take me with you too!</p>
+      <p begin="5354.224s" xml:id="p999" end="5356.059s">I want to go with you too!</p>
+      <p begin="5356.142s" xml:id="p1000" end="5358.728s">I leave this country to you.</p>
+      <p begin="5358.854s" xml:id="p1001" end="5360.522s">Captain!</p>
+      <p begin="5360.605s" xml:id="p1002" end="5362.065s">Noda-san!</p>
+      <p begin="5373.285s" xml:id="p1003" end="5376.288s">Lower it a bit... carefully...</p>
+      <p begin="5392.596s" xml:id="p1004" end="5395.515s">See you, Aki-chan.</p>
+      <p begin="5404.19s" xml:id="p1005" end="5405.108s">Ah...</p>
+      <p begin="5405.734s" xml:id="p1006" end="5408.862s">Thank you for everything.</p>
+      <p begin="5422.292s" xml:id="p1007" end="5426.171s">Akiko. Did you have fun at oba-chan&#039;s house?</p>
+      <p begin="5426.254s" xml:id="p1008" end="5427.672s">It was fun.</p>
+      <p begin="5427.756s" xml:id="p1009" end="5430.133s">I see. That&#039;s good.</p>
+      <p begin="5434.721s" xml:id="p1010" end="5436.014s">Are you giving that to me?</p>
+      <p begin="5437.766s" xml:id="p1011" end="5438.85s">Thanks.</p>
+      <p begin="5444.648s" xml:id="p1012" end="5445.815s">Akiko.</p>
+      <p begin="5445.899s" xml:id="p1013" end="5446.858s">Hmm?</p>
+      <p begin="5446.942s" xml:id="p1014" end="5451.071s">Is this me, okaa-chan, and you, Akiko?</p>
+      <p begin="5452.405s" xml:id="p1015" end="5454.574s">Okaa&#039;s in it, too.</p>
+      <p begin="5455.825s" xml:id="p1016" end="5456.785s">I see.</p>
+      <p begin="5458.411s" xml:id="p1017" end="5459.788s">You drew it well.</p>
+      <p begin="5470.757s" xml:id="p1018" end="5472.842s">Why are you making that face?</p>
+      <p begin="5477.597s" xml:id="p1019" end="5479.015s">What&#039;s wrong?</p>
+      <p begin="5479.516s" xml:id="p1020" end="5480.558s">Akiko.</p>
+      <p begin="5481.559s" xml:id="p1021" end="5483.436s">Hey, hey!</p>
+      <p begin="5485.48s" xml:id="p1022" end="5490.402s">Hey, it&#039;s okay! I&#039;m not going anywhere...</p>
+      <p begin="5566.978s" xml:id="p1023" end="5568.271s">Tachibana san.</p>
+      <p begin="5570.231s" xml:id="p1024" end="5571.316s">Can you deploy it?</p>
+      <p begin="5574.277s" xml:id="p1025" end="5576.279s">I&#039;ll get it ready now.</p>
+      <p begin="5588.416s" xml:id="p1026" end="5589.751s">The ordered bomb.</p>
+      <p begin="5591.336s" xml:id="p1027" end="5595.59s">Two machine guns, 140 kilograms; 120 rounds,<br />80 kilograms, and...</p>
+      <p begin="5596.091s" xml:id="p1028" end="5598.468s">One of the main fuel tanks, 400 kilograms,<br />were removed.</p>
+      <p begin="5599.344s" xml:id="p1029" end="5603.848s">Instead, this plane was fitted with a No. 25 bomb in<br />the nose and a No. 50 bomb in the fuselage.</p>
+      <p begin="5605.6s" xml:id="p1030" end="5608.103s">Now, I can finally repay my debt.</p>
+      <p begin="5622.617s" xml:id="p1031" end="5623.827s">That&#039;s hilarious...</p>
+      <p begin="5628.54s" xml:id="p1032" end="5630.542s">I feel like I want to live.</p>
+      <p begin="5635.338s" xml:id="p1033" end="5637.799s">Those who died that day felt like that too.</p>
+      <p begin="5639.05s" xml:id="p1034" end="5640.844s">Everyone wanted to come back alive.</p>
+      <p begin="5642.512s" xml:id="p1035" end="5647.851s">But their wishes weren&#039;t granted. They were<br />killed like insects.</p>
+      <p begin="5650.145s" xml:id="p1036" end="5651.229s">I understand.</p>
+      <p begin="5674.502s" xml:id="p1037" end="5676.88s">The kid who drew this is named &quot;Akiko.&quot;</p>
+      <p begin="5678.882s" xml:id="p1038" end="5680.884s">I want you to protect her future.</p>
+      <p begin="5685.346s" xml:id="p1039" end="5688.892s">I&#039;ll kill absolutely Godzilla, even if<br />it means I have to kill myself.</p>
+      <p begin="5689.893s" xml:id="p1040" end="5691.978s">It seems like you finally made up your mind.</p>
+      <p begin="5694.314s" xml:id="p1041" end="5697.942s">All right then, I&#039;m gonna tell you something important.</p>
+      <p begin="5698.86s" xml:id="p1042" end="5699.861s">Look.</p>
+      <p begin="5701.196s" xml:id="p1043" end="5703.198s">This is the bomb&#039;s safety device.</p>
+      <p begin="5703.907s" xml:id="p1044" end="5705.7s">Pull it out right before you plunge into him.</p>
+      <p begin="5705.783s" xml:id="p1045" end="5706.701s">Okay?</p>
+      <p begin="5708.87s" xml:id="p1046" end="5710.163s">And...</p>
+      <p begin="5719.464s" xml:id="p1047" end="5721.466s">Aki-chan.</p>
+      <p begin="5723.843s" xml:id="p1048" end="5726.429s">What&#039;s wrong? Are you lonely?</p>
+      <p begin="5727.555s" xml:id="p1049" end="5728.556s">Here.</p>
+      <p begin="5735.605s" xml:id="p1050" end="5737.231s">&quot;To Sumiko-san&quot;</p>
+      <p begin="5761.673s" xml:id="p1051" end="5763.883s">Otō-chan...</p>
+      <p begin="5765.009s" xml:id="p1052" end="5766.552s">Hmm? Otō-chan?</p>
+      <p begin="5767.428s" xml:id="p1053" end="5768.721s">Otō-chan...</p>
+      <p begin="5769.555s" xml:id="p1054" end="5771.516s">It&#039;s okay, it&#039;s okay.</p>
+      <p begin="5789.158s" xml:id="p1055" end="5793.663s">This is Kuroshio 12, 35°03&#039;N, 139°41&#039;E.</p>
+      <p begin="5793.746s" xml:id="p1056" end="5795.456s">A large amount of deep-sea fish emerging have<br />been spotted!</p>
+      <p begin="5814.35s" xml:id="p1057" end="5817.103s">Godzilla spotted in Sagami Bay!</p>
+      <p begin="5817.186s" xml:id="p1058" end="5823.359s">Currently, we are attempting to use an underwater<br />loudspeaker unit to guide it to the area of the operation.</p>
+      <p begin="5823.443s" xml:id="p1059" end="5825.236s">Advance schedule for each ship!<br />Only take essential items with you!</p>
+      <p begin="5826.946s" xml:id="p1060" end="5828.364s">Let&#039;s hurry up and board the ship!</p>
+      <p begin="5828.448s" xml:id="p1061" end="5829.532s">Let&#039;s hurry!</p>
+      <p begin="5832.076s" xml:id="p1062" end="5833.87s">Looks like Mizushima-kun gave up, didn&#039;t he?</p>
+      <p begin="5833.953s" xml:id="p1063" end="5835.538s">I feel bad for him, but it can&#039;t be helped.</p>
+      <p begin="5835.621s" xml:id="p1064" end="5838.333s">I actually don&#039;t want Shiki-san to<br />fly either.</p>
+      <p begin="5838.416s" xml:id="p1065" end="5841.044s">Isn&#039;t Shiki-san a suicide attack survivor?</p>
+      <p begin="5841.127s" xml:id="p1066" end="5842.086s">Seems impossible.</p>
+      <p begin="5842.17s" xml:id="p1067" end="5845.298s">Akiko is here. He&#039;ll definently come back.</p>
+      <p begin="5855.35s" xml:id="p1068" end="5858.144s">Underwater loudspeaker destroyed.</p>
+      <p begin="5858.227s" xml:id="p1069" end="5863.566s">Godzilla has invaded Sagami Bay. Wadatsumi Squadron,<br />set sail immediately.</p>
+      <p begin="5864.233s" xml:id="p1070" end="5865.36s">Hey!</p>
+      <p begin="5866.319s" xml:id="p1071" end="5867.487s">Over there!!</p>
+      <p begin="5867.57s" xml:id="p1072" end="5869.572s">It&#039;s here already?</p>
+      <p begin="5880.583s" xml:id="p1073" end="5882.96s">Godzilla breaks through the final defense zone!</p>
+      <p begin="5883.044s" xml:id="p1074" end="5884.462s">Landing is imminent!</p>
+      <p begin="5885.296s" xml:id="p1075" end="5886.13s">I&#039;m leaving!</p>
+      <p begin="5941.436s" xml:id="p1076" end="5943.479s">With this, you&#039;re going to end it all.</p>
+      <p begin="5944.814s" xml:id="p1077" end="5946.19s">Shikishima.</p>
+      <p begin="5946.274s" xml:id="p1078" end="5948.526s">Depart from port immediately.</p>
+      <p begin="5948.609s" xml:id="p1079" end="5953.364s">Repeat, all ships of the Wadatsumi Squadron<br />are to depart from port immediately.</p>
+      <p begin="5959.62s" xml:id="p1080" end="5962.79s">What should we do? That plan&#039;s completely<br />falling apart!</p>
+      <p begin="5962.874s" xml:id="p1081" end="5964.959s">Even so, we&#039;ll still set sail.</p>
+      <p begin="5965.042s" xml:id="p1082" end="5969.672s">The missles must be dropped off of the coast of<br />Sagami Bay, where it will have the greatest effect.</p>
+      <p begin="5970.173s" xml:id="p1083" end="5973.426s">We have no way but to rely on Shiki-san to<br />lure it.</p>
+      <p begin="5973.509s" xml:id="p1084" end="5974.51s">Yes!</p>
+      <p begin="5974.594s" xml:id="p1085" end="5976.22s">Let&#039;s do it!</p>
+      <p begin="5991.944s" xml:id="p1086" end="5994.113s">Noda-san! It&#039;s from Shikishima-san!</p>
+      <p begin="5995.781s" xml:id="p1087" end="5998.242s">This is Shikishima, takeoff was a success.</p>
+      <p begin="5998.326s" xml:id="p1088" end="6000.495s">Now guiding Godzilla into the area of<br />the operation.</p>
+      <p begin="6000.578s" xml:id="p1089" end="6002.622s">We&#039;ll be ready soon too.</p>
+      <p begin="6002.705s" xml:id="p1090" end="6003.998s">So let&#039;s get to the operation area quickly...</p>
+      <p begin="6004.081s" xml:id="p1091" end="6006.876s">Shikishima! Don&#039;t do anything crazy!</p>
+      <p begin="6006.959s" xml:id="p1092" end="6009.212s">If you leave Akiko all alone, I&#039;ll<br />never forgive you!</p>
+      <p begin="6012.465s" xml:id="p1093" end="6014.3s">Can you hear me, Shikishima?</p>
+      <p begin="6015.927s" xml:id="p1094" end="6017.929s">Damn it, he&#039;s ignoring me...</p>
+      <p begin="6041.202s" xml:id="p1095" end="6043.079s">Telegram!</p>
+      <p begin="6044.038s" xml:id="p1096" end="6045.039s">Yes...</p>
+      <p begin="6051.754s" xml:id="p1097" end="6052.588s">Yes?</p>
+      <p begin="6052.672s" xml:id="p1098" end="6054.173s">Are you Shikishima-san?</p>
+      <p begin="6056.509s" xml:id="p1099" end="6057.343s">It&#039;s a telegram.</p>
+      <p begin="6057.426s" xml:id="p1100" end="6058.386s">Yes.</p>
+      <p begin="6119.488s" xml:id="p1101" end="6120.781s">Woah!</p>
+      <p begin="6141.761s" xml:id="p1102" end="6145.431s">Haha! That&#039;s a big deal!</p>
+      <p begin="6145.931s" xml:id="p1103" end="6149.352s">Godzilla&#039;s quite pissed off.</p>
+      <p begin="6149.435s" xml:id="p1104" end="6150.519s">It&#039;s in pursuit.</p>
+      <p begin="6151.145s" xml:id="p1105" end="6152.647s">It&#039;s our turn, isn&#039;t it?</p>
+      <p begin="6155.858s" xml:id="p1106" end="6157.234s">All ships, prepare for battle!</p>
+      <p begin="6157.318s" xml:id="p1107" end="6159.862s">All ships, prepare for battle!</p>
+      <p begin="6162.156s" xml:id="p1108" end="6163.407s">Freon cylinders, all right!</p>
+      <p begin="6163.491s" xml:id="p1109" end="6165.159s">46cm shells, all right!</p>
+      <p begin="6165.242s" xml:id="p1110" end="6166.535s">Floatation device switch, all right!</p>
+      <p begin="6166.619s" xml:id="p1111" end="6168.162s">Concentration cables, all right!</p>
+      <p begin="6168.245s" xml:id="p1112" end="6170.539s">All circuits connected!</p>
+      <p begin="6170.623s" xml:id="p1113" end="6173.376s">Confirming power and releasing<br />the safety switch.</p>
+      <p begin="6189.892s" xml:id="p1114" end="6192.353s">All right, nice!</p>
+      <p begin="6194.063s" xml:id="p1115" end="6195.856s">Unit 1, attack as planned.</p>
+      <p begin="6195.94s" xml:id="p1116" end="6198.234s">As planned!</p>
+      <p begin="6229.306s" xml:id="p1117" end="6231.058s">Nice!</p>
+      <p begin="6267.636s" xml:id="p1118" end="6270.347s">That&#039;s... Godzilla&#039;s Heat Ray.</p>
+      <p begin="6273.017s" xml:id="p1119" end="6275.311s">It&#039;s impossible to do this type of thing!</p>
+      <p begin="6275.394s" xml:id="p1120" end="6278.314s">Captain! I recommend that we immediately<br />evacutate the ship.</p>
+      <p begin="6278.397s" xml:id="p1121" end="6279.69s">No. This is good.</p>
+      <p begin="6279.774s" xml:id="p1122" end="6281.275s">Please start the operation immediately.</p>
+      <p begin="6281.358s" xml:id="p1123" end="6283.194s">But when will Heat Ray come again?</p>
+      <p begin="6283.277s" xml:id="p1124" end="6284.403s">As I told you,</p>
+      <p begin="6284.487s" xml:id="p1125" end="6287.49s">Once the Heat Ray is used, it takes time<br />to regenerate it.</p>
+      <p begin="6288.073s" xml:id="p1126" end="6289.2s">Now!</p>
+      <p begin="6290.451s" xml:id="p1127" end="6291.66s">Please make up your mind!</p>
+      <p begin="6297.166s" xml:id="p1128" end="6299.251s">Operation Wadatsumi begins!</p>
+      <p begin="6317.686s" xml:id="p1129" end="6321.857s">Start to deploy the 46cm shells, cylinders,<br />and floatation device!</p>
+      <p begin="6347.341s" xml:id="p1130" end="6348.843s">Shiki-san!</p>
+      <p begin="6374.785s" xml:id="p1131" end="6375.953s">Crane deployed!</p>
+      <p begin="6376.036s" xml:id="p1132" end="6377.037s">Copy that!</p>
+      <p begin="6377.872s" xml:id="p1133" end="6379.832s">Send to Hibiki, maintain course.</p>
+      <p begin="6380.332s" xml:id="p1134" end="6382.626s">Hibiki, maintain course.</p>
+      <p begin="6382.71s" xml:id="p1135" end="6385.963s">I don&#039;t mind a little damage, we&#039;re going<br />to maintain this level of speed!</p>
+      <p begin="6390.426s" xml:id="p1136" end="6392.928s">Hibiki approaching, 4 meters.</p>
+      <p begin="6394.013s" xml:id="p1137" end="6395.097s">2 meters.</p>
+      <p begin="6395.598s" xml:id="p1138" end="6397.182s">Brace for impact.</p>
+      <p begin="6397.266s" xml:id="p1139" end="6398.726s">Brace for impact!</p>
+      <p begin="6413.616s" xml:id="p1140" end="6415.618s">Cross complete! Full speed ahead!</p>
+      <p begin="6415.701s" xml:id="p1141" end="6418.162s">Full speed ahead!</p>
+      <p begin="6432.927s" xml:id="p1142" end="6435.429s">All right! All right!</p>
+      <p begin="6435.93s" xml:id="p1143" end="6437.181s">Chou-san, switch!</p>
+      <p begin="6437.264s" xml:id="p1144" end="6438.223s">Oh!</p>
+      <p begin="6446.607s" xml:id="p1145" end="6448.901s">Crap! Already?</p>
+      <p begin="6450.11s" xml:id="p1146" end="6451.32s">Almost...</p>
+      <p begin="6462.081s" xml:id="p1147" end="6463.916s">Ready...</p>
+      <p begin="6473.509s" xml:id="p1148" end="6474.51s">Chou-san, now!</p>
+      <p begin="6477.638s" xml:id="p1149" end="6479.264s">- Cylinder!<br />- All right!</p>
+      <p begin="6495.906s" xml:id="p1150" end="6498.409s">Depth: 1200.</p>
+      <p begin="6499.41s" xml:id="p1151" end="6500.494s">1300.</p>
+      <p begin="6501.12s" xml:id="p1152" end="6501.954s">1400.</p>
+      <p begin="6502.037s" xml:id="p1153" end="6503.163s">Go!</p>
+      <p begin="6503.247s" xml:id="p1154" end="6504.915s">Go!</p>
+      <p begin="6506.333s" xml:id="p1155" end="6507.626s">1500.</p>
+      <p begin="6507.71s" xml:id="p1156" end="6510.087s">Target depth reached!</p>
+      <p begin="6522.182s" xml:id="p1157" end="6525.019s">Godzilla has gone silent!</p>
+      <p begin="6525.102s" xml:id="p1158" end="6526.478s">Did we do it?</p>
+      <p begin="6534.236s" xml:id="p1159" end="6535.863s">Stubborn bastard!</p>
+      <p begin="6536.447s" xml:id="p1160" end="6537.781s">Moving to the backup plan.</p>
+      <p begin="6537.865s" xml:id="p1161" end="6539.033s">Do it.</p>
+      <p begin="6557.509s" xml:id="p1162" end="6559.261s">Come up here!</p>
+      <p begin="6559.887s" xml:id="p1163" end="6561.805s">Depth: 1200.</p>
+      <p begin="6562.306s" xml:id="p1164" end="6564.308s">1100, 1000!</p>
+      <p begin="6572.858s" xml:id="p1165" end="6574.193s">The cables have stopped!</p>
+      <p begin="6574.777s" xml:id="p1166" end="6576.904s">They stopped at a depth of 803!</p>
+      <p begin="6578.489s" xml:id="p1167" end="6580.324s">Why? Why did they stop?</p>
+      <p begin="6585.037s" xml:id="p1168" end="6586.455s">He chewed them all apart.</p>
+      <p begin="6589.666s" xml:id="p1169" end="6592.086s">To Hibiki! We&#039;ll pull from all directions<br />to lift up Godzilla.</p>
+      <p begin="6592.169s" xml:id="p1170" end="6593.754s">Full speed ahead at 90 degrees!</p>
+      <p begin="6593.837s" xml:id="p1171" end="6596.423s">But the thrust of 2 ships isn&#039;t enough.</p>
+      <p begin="6597.007s" xml:id="p1172" end="6598.55s">There&#039;s no other options!</p>
+      <p begin="6598.634s" xml:id="p1173" end="6600.01s">Do everything you can!</p>
+      <p begin="6600.636s" xml:id="p1174" end="6601.762s">Yes!</p>
+      <p begin="6618.362s" xml:id="p1175" end="6621.74s">If this continues, the crane won&#039;t<br />be able to hold it anymore!</p>
+      <p begin="6621.824s" xml:id="p1176" end="6623.242s">It&#039;s no good!</p>
+      <p begin="6628.08s" xml:id="p1177" end="6628.997s">Ah...</p>
+      <p begin="6645.514s" xml:id="p1178" end="6652.354s">This is the Yokohama Tugboat&#039; company&#039;s<br />Fujimaru. We&#039;ll do our best to help out.</p>
+      <p begin="6652.896s" xml:id="p1179" end="6653.897s">That voice...</p>
+      <p begin="6654.731s" xml:id="p1180" end="6657.526s">It&#039;s Mizushima. Are you the captain?</p>
+      <p begin="6658.652s" xml:id="p1181" end="6660.821s">Kid! It&#039;s you?</p>
+      <p begin="6661.738s" xml:id="p1182" end="6662.614s">Yes!</p>
+      <p begin="6662.698s" xml:id="p1183" end="6666.493s">This is Koeimaru, another ship from Tōyō Kisen.</p>
+      <p begin="6666.577s" xml:id="p1184" end="6670.122s">We, the Nikkōmaru from the Yokohama<br />Tugboat Company, will cooperate.</p>
+      <p begin="6670.205s" xml:id="p1185" end="6671.999s">Shiokazemaru will assist you.</p>
+      <p begin="6672.082s" xml:id="p1186" end="6674.585s">- Tetsuyūmaru.<br />- Nanamimaru.<br />- Minamimaru.</p>
+      <p begin="6674.668s" xml:id="p1187" end="6678.046s">きっしょうまる　<br />- Junseimaru.<br />- Heimitsumaru.</p>
+      <p begin="6678.13s" xml:id="p1188" end="6680.924s">- Tenyūmaru.<br />- Kaiōmaru.<br />- Yūga.</p>
+      <p begin="6681.008s" xml:id="p1189" end="6683.76s">- Chōkamaru.<br />- Jūseimaru.<br />- Taramaru.<br />- Yasagamaru.</p>
+      <p begin="6683.844s" xml:id="p1190" end="6686.889s">Please stop calling me &quot;useless!&quot;</p>
+      <p begin="6688.765s" xml:id="p1191" end="6690.017s">All right!</p>
+      <p begin="6690.1s" xml:id="p1192" end="6691.977s">You don&#039;t say.</p>
+      <p begin="6692.06s" xml:id="p1193" end="6695.063s">I&#039;m both surprised and impressed with him.</p>
+      <p begin="6695.147s" xml:id="p1194" end="6696.732s">Get the tugboats!</p>
+      <p begin="6696.815s" xml:id="p1195" end="6698.775s">All the ships will pull up Godzilla!</p>
+      <p begin="6698.859s" xml:id="p1196" end="6700.652s">Get the tugboats</p>
+      <p begin="6700.736s" xml:id="p1197" end="6702.696s">Get the tugboats!</p>
+      <p begin="6727.304s" xml:id="p1198" end="6730.224s">The depth has started increasing!</p>
+      <p begin="6731.642s" xml:id="p1199" end="6734.728s">Come up here, come up here!</p>
+      <p begin="6735.229s" xml:id="p1200" end="6737.773s">Depth: 700.</p>
+      <p begin="6738.398s" xml:id="p1201" end="6740.4s">Raise, raise, raise...</p>
+      <p begin="6771.39s" xml:id="p1202" end="6772.933s">It&#039;s not damaged enough!</p>
+      <p begin="6773.892s" xml:id="p1203" end="6776.061s">All ships take evasive action!</p>
+      <p begin="6826.903s" xml:id="p1204" end="6828.53s">What&#039;s he going to do?</p>
+      <p begin="6828.613s" xml:id="p1205" end="6829.698s">No way!</p>
+      <p begin="6833.535s" xml:id="p1206" end="6834.411s">That can&#039;t be!</p>
+      <p begin="6834.494s" xml:id="p1207" end="6837.331s">It&#039;s no good! Shikishima!</p>
+      <p begin="6864.441s" xml:id="p1208" end="6865.442s">Shikishima...</p>
+      <p begin="6880.791s" xml:id="p1209" end="6882.25s">No, that!</p>
+      <p begin="6887.13s" xml:id="p1210" end="6888.256s">I see...</p>
+      <p begin="6889.966s" xml:id="p1211" end="6891.468s">I see.</p>
+      <p begin="6894.137s" xml:id="p1212" end="6897.599s">The crew member escaped safely.</p>
+      <p begin="6906.066s" xml:id="p1213" end="6908.652s">This seat serves as an escape device.</p>
+      <p begin="6909.82s" xml:id="p1214" end="6911.696s">Pull that lever to activate it.</p>
+      <p begin="6915.409s" xml:id="p1215" end="6916.535s">Live.</p>
+      <p begin="6919.037s" xml:id="p1216" end="6920.372s">Tachibana-san.</p>
+      <p begin="7011.046s" xml:id="p1217" end="7012.13s">Shikishima!</p>
+      <p begin="7017.636s" xml:id="p1218" end="7018.762s">You did it!</p>
+      <p begin="7019.679s" xml:id="p1219" end="7020.889s">You did it!</p>
+      <p begin="7022.974s" xml:id="p1220" end="7024.226s">Kid!</p>
+      <p begin="7028.271s" xml:id="p1221" end="7029.105s">Sumiko-san!</p>
+      <p begin="7029.189s" xml:id="p1222" end="7030.357s">Kōichi-san!</p>
+      <p begin="7031.316s" xml:id="p1223" end="7032.526s">Kōichi-san...</p>
+      <p begin="7032.609s" xml:id="p1224" end="7033.818s">Akiko...</p>
+      <p begin="7040.325s" xml:id="p1225" end="7041.284s">Eh?</p>
+      <p begin="7082.993s" xml:id="p1226" end="7084.744s">Kou-san, is your war...</p>
+      <p begin="7086.955s" xml:id="p1227" end="7088.29s">Over?</p>
+      <p begin="7101.386s" xml:id="p1228" end="7102.554s">Yep.</p>
+      <p begin="7164.407s" xml:id="p1229" end="7169.12s">Subtitles by themirrazz</p>
+    </div>
+  </body>
+</tt>
