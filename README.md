@@ -25,7 +25,7 @@ Go to the movie or show you want to watch, open the Substital menu, and select t
 #### Step 4. Drop the .srt file onto the page
 Drop the .srt file onto the page, and boom, you're done!
 
-### Watch on Blu-Ray
+### Watch on DVD/Blu-Ray
 > [!IMPORTANT]
 > This method requires a compatible Blu-Ray/DVD drive.
 
