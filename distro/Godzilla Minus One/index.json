@@ -1,7 +1,4 @@
 {
-    "title": "Godzilla Minus One",
-    "rating": "PG-13",
-    "type": "film",
     "services": {
         "netflix": "https://www.netflix.com/watch/81767637?source=fansubs",
         "hulu": null,
@@ -14,6 +11,5 @@
     "description": "Godzilla Minus One follows Kōichi Shikishima, a run-away kamikaze pilot, who was present at a repair landing site when Godzilla attacked it. Many years later, Godzilla reappears once again, threatening the entire existence of Tōkyō, and Japan itself.",
     "format": [".srt", ".vtt", ".xml"],
     "language": "en",
-    "length": "2 hours 5 minutes",
     "genres": ["action"]
 }
