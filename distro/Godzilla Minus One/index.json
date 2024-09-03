@@ -1,0 +1,19 @@
+{
+    "title": "Godzilla Minus One",
+    "rating": "PG-13",
+    "type": "film",
+    "services": {
+        "netflix": "https://www.netflix.com/watch/81767637?source=fansubs",
+        "hulu": null,
+        "prime": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2c2551d-8afb-4da7-91d0-e4b1ab82ed6d?autoplay=0",
+        "appletv": "https://tv.apple.com/us/movie/godzilla-minus-one/umc.cmc.qzounrdxwxn2hx4ttma0rjj",
+        "crunchyroll": null
+    },
+    "imdb": "https://www.imdb.com/title/tt23289160/",
+    "studio": "Toho International Co., Ltd."
+    "description": "Godzilla Minus One follows Kōichi Shikishima, a run-away kamikaze pilot, who was present at a repair landing site when Godzilla attacked it. Many years later, Godzilla reappears once again, threatening the entire existence of Tōkyō, and Japan itself.",
+    "format": [".srt", ".vtt", ".xml"],
+    "language": "en",
+    "length": "2 hours 5 minutes",
+    "genres": ["action"]
+}
