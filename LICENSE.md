@@ -15,3 +15,6 @@ Please do not sell, rent, trade, or otherwise exchange my fansubs for money. How
 
 ## 5. Do not harm the producers (or distributors)
 Please do not use these subtitles in a way that harms the producers or distributors. In the end, doing so only hurts you, the consumer, because companies are not made out of money. If they can't make money off of their products, then soon, they can't make products to even make money off of. Protect the TV industry. Don't be stupid.
+
+
+In addition, I have the right to update these terms at any time, if I feel that there is a need to.
