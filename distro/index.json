@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Boku no Hero Akademia",
+        "id": "boku-no-hero-akademia",
+        "type": "series",
+        "length": "7 seasons, 163 episodes",
+        "rating": "TV-MA",
+        "release_year": 2016
+    },
+    {
+        "title": "Godzilla Minus One",
+        "id": "godzilla-minus-one",
+        "type": "film",
+        "length": "2 hours",
+        "rating": "PG-13",
+        "release_year": 2023
+    }
+]
