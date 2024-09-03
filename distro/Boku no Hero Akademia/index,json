@@ -1,0 +1,25 @@
+{
+    "title": "Boku no Hero Akademia",
+    "rating": "TV-MA,
+    "type": "film",
+    "services": {
+        "netflix": "https://www.netflix.com/watch/80135674?source=fansubs",
+        "hulu": "https://www.hulu.com/series/b4859a95-39ba-4051-a550-256c42e70a1d",
+        "prime": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4d37ec25-2110-4893-a2c5-56ceb0bdbb7a?autoplay=0",
+        "appletv": "https://tv.apple.com/us/episode/izuku-midoriya-origin/umc.cmc.40jkvr5jc1tuzea9o3vn9xmsr",
+        "crunchyroll": "https://www.crunchyroll.com/series/G6NQ5DWZ6?utm_source=themirrazz&utm_campaign=fansubs"
+    },
+    "imdb": "https://www.imdb.com/title/tt5626028/",
+    "studio": "Bones Co., Ltd."
+    "description": "Boku no Hero Akademia follows Izuku Midoriya, a young boy without a power (called a "quirk" or "kosei") who one day recieves a quirk from #1 hero All Might, as he trains to become a superhero in a world where 80% of the population was born with a quirk."
+    "language": "en",
+    "seasons": {
+        "1": {
+            "1": {
+                "title": "Midoriya Izuku: Origin",
+                "format": [".srt"]
+            }
+        }
+    },
+    "genres": ["battle_shounen", "anime", "superhero"]
+}
