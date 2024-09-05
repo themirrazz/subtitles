@@ -26,6 +26,9 @@ Go to the movie or show you want to watch, open the Substital menu, and select t
 Drop the .srt file onto the page, and boom, you're done!
 
 ### Watch on DVD/Blu-Ray
+> [!WARNING]
+> VLC Media Player cannot read Blu-Ray discs on its own. This guide does NOT tell you how to configure VLC to read Blu-Rays. No configuration changes are required for VLC Media Player to read DVDs.
+
 > [!IMPORTANT]
 > This method requires a compatible Blu-Ray/DVD drive.
 
