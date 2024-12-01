@@ -10,7 +10,7 @@
     "imdb": "https://www.imdb.com/title/tt23289160/",
     "studio": "Toho International Co., Ltd.",
     "description": "Godzilla Minus One follows Kōichi Shikishima, a run-away kamikaze pilot, who was present at a repair landing site when Godzilla attacked it. Many years later, Godzilla reappears once again, threatening the entire existence of Tōkyō, and Japan itself.",
-    "format": [".srt", ".vtt", ".xml"],
+    "format": [".srt", ".ass"],
     "language": "en",
     "genres": ["action"]
 }
