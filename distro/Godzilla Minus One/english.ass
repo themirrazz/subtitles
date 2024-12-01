@@ -1,0 +1,1559 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Godzilla Minus One - English Fansubs
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+Original Script: Godzilla Minus One
+Original Translation: 見ている
+Original Editing: 見ている
+Original Timing: 見ている
+Script Updated By: themirrazz
+Update Details: Fixed everything, added styling
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TL Notes,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,8,10,10,10,1
+Style: Dialogue,Arial,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Oh crap - style 1,Arial,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,0,0,33,1
+Style: Oh crap - style 2,Arial,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,6,0,40,0,1
+Style: Oh crap - style 3,Arial,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,4,40,0,0,1
+Style: Oh crap - style 4,Arial,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,7,12,10,100,1
+Style: Oh crap - style 5,Arial,120,&H00748AFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,5,10,10,10,1
+Style: Faint Dialogue,Arial,55,&H6CFFFFFF,&H0000FFFF,&H6C000000,&H6C000000,0,0,0,0,100,100,0,0,1,1.0,1,2,10,10,10,1
+Style: Onegaishimasu,Arial,80,&H00FFA8B0,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Dreamy Dialogue,Arial,55,&H00E8C1FF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: GODZILLA TYPESETTING 01,Arial,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00446572,0,0,0,0,100,100,0,38,1,0,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:23.58,0:01:24.75,Dialogue,,0,0,0,,Let's go!
+Dialogue: 0,0:01:24.84,0:01:26.00,Dialogue,,0,0,0,,Ready, go!
+Dialogue: 0,0:01:28.26,0:01:29.72,Dialogue,,0,0,0,,No issues found with the engine.
+Dialogue: 0,0:01:29.80,0:01:30.80,Dialogue,,0,0,0,,Copy that.
+Dialogue: 0,0:01:30.88,0:01:32.26,Dialogue,,0,0,0,,No issues found with the fuel system.
+Dialogue: 0,0:01:32.34,0:01:33.22,Dialogue,,0,0,0,,Copy that.
+Dialogue: 0,0:01:41.56,0:01:42.76,Dialogue,,0,0,0,,You're Lieutenant Shikishima, right?
+Dialogue: 0,0:01:44.73,0:01:46.39,Dialogue,,0,0,0,,I'm Tachibana, from the Tsukuba Naval
+Dialogue: 0,0:01:46.39,0:01:47.90,Dialogue,,0,0,0,,Air Group's maintenance squadron.
+Dialogue: 0,0:01:47.98,0:01:49.07,Dialogue,,0,0,0,,Do you remember me?
+Dialogue: 0,0:01:49.15,0:01:50.49,Dialogue,,0,0,0,,Tachibana-san.
+Dialogue: 0,0:01:51.11,0:01:51.87,Dialogue,,0,0,0,,Of course!
+Dialogue: 0,0:01:52.22,0:01:53.11,Dialogue,,0,0,0,,Thank you for your help during that time.
+Dialogue: 0,0:01:53.20,0:01:54.03,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:01:54.62,0:01:55.65,Dialogue,,0,0,0,,Wow...
+Dialogue: 0,0:01:56.38,0:01:59.40,Dialogue,,0,0,0,,You managed to land that low-quality aircraft
+Dialogue: 0,0:01:59.40,0:02:01.66,Dialogue,,0,0,0,,on this hole-filled runway.
+Dialogue: 0,0:02:01.75,0:02:04.21,Dialogue,,0,0,0,,As usual, your skills appear to be reliable.
+Dialogue: 0,0:02:05.00,0:02:07.59,Dialogue,,0,0,0,,Even though my results in mock ariel combat are good,
+Dialogue: 0,0:02:07.59,0:02:10.05,Dialogue,,0,0,0,,going into a real battle with no experience is different.
+Dialogue: 0,0:02:11.76,0:02:14.72,Dialogue,,0,0,0,,Luckily, a malfunction in the aircraft
+Dialogue: 0,0:02:14.72,0:02:15.55,Dialogue,,0,0,0,,gave you some extra time.
+Dialogue: 0,0:02:18.26,0:02:19.68,Dialogue,,0,0,0,,Actually...
+Dialogue: 0,0:02:20.31,0:02:21.37,Dialogue,,0,0,0,,No matter how hard I try,
+Dialogue: 0,0:02:21.37,0:02:24.31,Dialogue,,0,0,0,,I can't find the error you're talking about.
+Dialogue: 0,0:02:27.77,0:02:29.65,Dialogue,,0,0,0,,What are you saying?
+Dialogue: 0,0:02:53.34,0:02:54.30,Dialogue,,0,0,0,,Isn't it a good thing?
+Dialogue: 0,0:02:55.50,0:02:57.27,Dialogue,,0,0,0,,That we have people like you?
+Dialogue: 0,0:03:04.39,0:03:07.52,Dialogue,,0,0,0,,Even if you obey an order like "go die,"
+Dialogue: 0,0:03:07.52,0:03:10.19,Dialogue,,0,0,0,,the outcome of this war is already clear.
+Dialogue: 0,0:04:05.95,0:04:06.59,Dialogue,,0,0,0,,Give me a gun!
+Dialogue: 0,0:04:06.59,0:04:07.50,Dialogue,,0,0,0,,Yes, yes!
+Dialogue: 0,0:04:09.08,0:04:09.92,Dialogue,,0,0,0,,An enemy attack?
+Dialogue: 0,0:04:10.00,0:04:10.90,Dialogue,,0,0,0,,I'm not sure.
+Dialogue: 0,0:04:10.90,0:04:11.59,Dialogue,,0,0,0,,What is it?
+Dialogue: 0,0:04:12.17,0:04:13.59,Dialogue,,0,0,0,,Something big!
+Dialogue: 0,0:04:13.67,0:04:15.17,Dialogue,,0,0,0,,Is it a new weapon for the US military?
+Dialogue: 0,0:04:20.59,0:04:21.22,Dialogue,,0,0,0,,Taki!
+Dialogue: 0,0:04:21.89,0:04:22.50,Dialogue,,0,0,0,,Taki!
+Dialogue: 0,0:04:23.34,0:04:24.14,Dialogue,,0,0,0,,It's on the coast!
+Dialogue: 0,0:04:24.72,0:04:25.51,Dialogue,,0,0,0,,Copy that!
+Dialogue: 0,0:04:38.65,0:04:39.42,Dialogue,,0,0,0,,Taki!
+Dialogue: 0,0:04:39.61,0:04:39.99,Dialogue,,0,0,0,,Taki-san!
+Dialogue: 0,0:04:40.07,0:04:41.70,Dialogue,,0,0,0,,What is this thing?
+Dialogue: 0,0:04:41.78,0:04:43.28,Dialogue,,0,0,0,,It's Godzilla...
+Dialogue: 0,0:04:43.80,0:04:44.20,Dialogue,,0,0,0,,It's what?
+Dialogue: 0,0:04:44.28,0:04:45.99,Dialogue,,0,0,0,,That's what the guy on the island said.
+Dialogue: 0,0:04:46.08,0:04:47.00,Dialogue,,0,0,0,,He said that on days like today when
+Dialogue: 0,0:04:47.00,0:04:48.44,Dialogue,,0,0,0,,deep-sea fish float,
+Dialogue: 0,0:04:48.44,0:04:48.96,Dialogue,,0,0,0,,Godzilla will come.
+Dialogue: 0,0:04:49.62,0:04:50.96,Dialogue,,0,0,0,,Godzilla?
+Dialogue: 0,0:04:57.21,0:04:58.63,Dialogue,,0,0,0,,It's no good.
+Dialogue: 0,0:04:58.72,0:04:59.80,Dialogue,,0,0,0,,Let's get out of here!
+Dialogue: 0,0:04:59.88,0:05:00.72,Dialogue,,0,0,0,,Run!
+Dialogue: 0,0:05:00.80,0:05:02.34,Dialogue,,0,0,0,,Run!
+Dialogue: 0,0:05:03.80,0:05:05.39,Dialogue,,0,0,0,,Hey, hurry up!
+Dialogue: 0,0:05:08.14,0:05:10.94,Dialogue,,0,0,0,,Hurry! Run, quickly!
+Dialogue: 0,0:05:13.06,0:05:15.11,Dialogue,,0,0,0,,What is that thing?
+Dialogue: 0,0:05:15.19,0:05:16.61,Dialogue,,0,0,0,,We're not sure either.
+Dialogue: 0,0:05:18.28,0:05:19.49,Dialogue,,0,0,0,,Lieutenant Shikishima!
+Dialogue: 0,0:05:19.57,0:05:20.40,Dialogue,,0,0,0,,What is it?
+Dialogue: 0,0:05:21.57,0:05:23.66,Dialogue,,0,0,0,,Can you go over there and shoot it with a 20mm?
+Dialogue: 0,0:05:24.53,0:05:26.08,Dialogue,,0,0,0,,You're the only person who can shoot it.
+Dialogue: 0,0:05:26.16,0:05:27.99,Dialogue,,0,0,0,,We're all just from maintenance squadron.
+Dialogue: 0,0:05:28.08,0:05:31.50,Dialogue,,0,0,0,,But wouldn't it be bad if it only gets injured?
+Dialogue: 0,0:05:31.58,0:05:34.38,Dialogue,,0,0,0,,No living being can survive being hit by a 20mm!
+Dialogue: 0,0:05:34.88,0:05:36.13,Dialogue,,0,0,0,,Hurry up!
+Dialogue: 0,0:05:36.13,0:05:37.21,Dialogue,,0,0,0,,Before it gets within attack range!
+Dialogue: 0,0:05:37.71,0:05:39.55,Dialogue,,0,0,0,,Hurry, hurry!
+Dialogue: 0,0:05:40.34,0:05:41.34,Dialogue,,0,0,0,,Go!
+Dialogue: 0,0:05:42.51,0:05:43.34,Dialogue,,0,0,0,,Hurry!
+Dialogue: 0,0:05:56.98,0:05:57.98,Dialogue,,0,0,0,,Go!
+Dialogue: 0,0:06:12.75,0:06:14.12,Dialogue,,0,0,0,,What is he doing?
+Dialogue: 0,0:06:22.17,0:06:23.22,Dialogue,,0,0,0,,Now! Shoot!
+Dialogue: 0,0:06:36.98,0:06:39.11,Dialogue,,0,0,0,,It's coming this way!
+Dialogue: 0,0:06:39.69,0:06:41.19,Dialogue,,0,0,0,,What should we do, Tachibana-san?
+Dialogue: 0,0:06:41.28,0:06:42.24,Dialogue,,0,0,0,,Ammo!
+Dialogue: 0,0:06:42.24,0:06:43.57,Dialogue,,0,0,0,,Get some bullets!
+Dialogue: 0,0:06:50.66,0:06:51.30,Dialogue,,0,0,0,,Idiot!
+Dialogue: 0,0:06:51.70,0:06:52.29,Dialogue,,0,0,0,,Don't shoot it!
+Dialogue: 0,0:06:53.41,0:06:54.26,Dialogue,,0,0,0,,Stop, you idiot!
+Dialogue: 0,0:06:55.39,0:06:56.08,Dialogue,,0,0,0,,Stop!
+Dialogue: 0,0:07:01.21,0:07:01.84,Dialogue,,0,0,0,,Get out!
+Dialogue: 0,0:07:02.35,0:07:02.75,Dialogue,,0,0,0,,Get out!
+Dialogue: 0,0:07:03.30,0:07:03.80,Dialogue,,0,0,0,,Get out!
+Dialogue: 0,0:07:03.88,0:07:05.13,Dialogue,,0,0,0,,Hurry and get out!
+Dialogue: 0,0:07:10.47,0:07:11.77,Dialogue,,0,0,0,,Tachibana-san!
+Dialogue: 0,0:07:18.65,0:07:19.90,Dialogue,,0,0,0,,Shoot!
+Dialogue: 0,0:07:37.71,0:07:39.00,Dialogue,,0,0,0,,Tomita!
+Dialogue: 0,0:07:51.14,0:07:52.51,Dialogue,,0,0,0,,I'll draw it to the front!
+Dialogue: 0,0:07:52.60,0:07:53.47,Dialogue,,0,0,0,,Shoot to kill!
+Dialogue: 0,0:09:08.13,0:09:10.13,Dialogue,,0,0,0,,How could something like this happen to you...
+Dialogue: 0,0:09:21.44,0:09:22.27,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:09:25.32,0:09:26.15,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:09:31.20,0:09:32.78,Dialogue,,0,0,0,,Everyone is dead!
+Dialogue: 0,0:09:34.87,0:09:36.53,Dialogue,,0,0,0,,They're dead!
+Dialogue: 0,0:09:38.66,0:09:39.16,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:09:39.52,0:09:42.13,Dialogue,,0,0,0,,It's because you didn't shoot it!
+Dialogue: 0,0:09:45.92,0:09:47.38,Dialogue,,0,0,0,,Damn you!
+Dialogue: 0,0:10:26.17,0:10:27.00,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:10:28.00,0:10:29.00,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:10:49.57,0:10:50.78,Dialogue,,0,0,0,,Move.
+Dialogue: 0,0:11:10.59,0:11:12.38,Dialogue,,0,0,0,,Isn't that loose?
+Dialogue: 0,0:11:12.46,0:11:13.30,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:11:13.38,0:11:14.67,Dialogue,,0,0,0,,Pay attention carefully.
+Dialogue: 0,0:11:14.76,0:11:16.26,Dialogue,,0,0,0,,It's going to be a pain if things keep dragging on.
+Dialogue: 0,0:11:16.76,0:11:17.59,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:11:25.14,0:11:27.31,Dialogue,,0,0,0,,Kōichi-san, is that you?
+Dialogue: 0,0:11:30.77,0:11:32.32,Dialogue,,0,0,0,,Ōta-neesan!
+Dialogue: 0,0:11:32.40,0:11:34.57,Dialogue,,0,0,0,,Didn't you go on a suicide attack?
+Dialogue: 0,0:11:35.28,0:11:37.49,Dialogue,,0,0,0,,Eh? Is that not the case?
+Dialogue: 0,0:11:45.16,0:11:47.71,Dialogue,,0,0,0,,And you came back with a calm face?
+Dialogue: 0,0:11:48.71,0:11:50.34,Dialogue,,0,0,0,,Shame on you!
+Dialogue: 0,0:11:51.75,0:11:54.48,Dialogue,,0,0,0,,It's because all the soldiers are cowards
+Dialogue: 0,0:11:54.48,0:11:56.05,Dialogue,,0,0,0,,that things are the way they are!
+Dialogue: 0,0:11:58.38,0:12:00.39,Dialogue,,0,0,0,,If you guys had stayed strong...
+Dialogue: 0,0:12:01.89,0:12:04.18,Dialogue,,0,0,0,,...my children wouldn't have died.
+Dialogue: 0,0:12:13.69,0:12:16.65,Dialogue,,0,0,0,,Do you know what happened to my parents?
+Dialogue: 0,0:12:23.95,0:12:25.95,Dialogue,,0,0,0,,Everyone died.
+Dialogue: 0,0:12:28.25,0:12:32.04,Dialogue,,0,0,0,,This area was surrounded by fire.
+Dialogue: 0,0:12:34.92,0:12:37.01,Dialogue,,0,0,0,,Your parents too...
+Dialogue: 0,0:12:39.88,0:12:42.97,Dialogue,,0,0,0,,Same fate as my children.
+Dialogue: 0,0:13:00.91,0:13:02.74,Dialogue,,0,0,0,,"Come back alive."
+Dialogue: 0,0:13:06.29,0:13:07.91,Dialogue,,0,0,0,,That's what you said, right?
+Dialogue: 0,0:13:24.22,0:13:26.01,Dialogue,,0,0,0,,You thief!
+Dialogue: 0,0:13:26.76,0:13:27.46,Dialogue,,0,0,0,,Move!
+Dialogue: 0,0:13:28.81,0:13:29.52,Dialogue,,0,0,0,,Move, move!
+Dialogue: 0,0:13:30.31,0:13:31.39,Dialogue,,0,0,0,,Get her!
+Dialogue: 0,0:13:31.39,0:13:32.20,Dialogue,,0,0,0,,Move! Move!
+Dialogue: 0,0:13:32.94,0:13:34.06,Dialogue,,0,0,0,,Huh?
+Dialogue: 0,0:13:35.19,0:13:35.61,Dialogue,,0,0,0,,Please!
+Dialogue: 0,0:13:35.61,0:13:36.57,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:13:36.65,0:13:37.35,Dialogue,,0,0,0,,Stop!
+Dialogue: 0,0:13:37.35,0:13:38.40,Dialogue,,0,0,0,,Stop right there!
+Dialogue: 0,0:13:38.48,0:13:39.57,Dialogue,,0,0,0,,Stop right there!
+Dialogue: 0,0:13:43.11,0:13:44.03,Dialogue,,0,0,0,,Eh...
+Dialogue: 0,0:14:12.89,0:14:14.02,Dialogue,,0,0,0,,Onii-san!
+Dialogue: 0,0:14:17.98,0:14:19.98,Dialogue,,0,0,0,,Finally.
+Dialogue: 0,0:14:21.36,0:14:22.82,Dialogue,,0,0,0,,Onii-san, it's your fault.
+Dialogue: 0,0:14:22.90,0:14:23.98,Dialogue,,0,0,0,,I can't come pick up the baby
+Dialogue: 0,0:14:23.98,0:14:25.78,Dialogue,,0,0,0,,when you're hanging in an area like that.
+Dialogue: 0,0:14:26.62,0:14:28.62,Dialogue,,0,0,0,,Have you been here watching this entire time?
+Dialogue: 0,0:14:29.79,0:14:34.21,Dialogue,,0,0,0,,I was getting impatient waiting for you to move, okay?
+Dialogue: 0,0:14:35.12,0:14:38.17,Dialogue,,0,0,0,,You're hungry, aren't you?
+Dialogue: 0,0:14:40.17,0:14:42.34,Dialogue,,0,0,0,,Why didn't you just leave this kid behind?
+Dialogue: 0,0:14:43.51,0:14:44.51,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:14:46.30,0:14:49.64,Dialogue,,0,0,0,,There's no way I could leave her behind in that place!
+Dialogue: 0,0:14:52.06,0:14:53.02,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:14:54.81,0:14:56.35,Dialogue,,0,0,0,,Eh...
+Dialogue: 0,0:14:59.86,0:15:01.65,Dialogue,,0,0,0,,Please don't follow me.
+Dialogue: 0,0:15:02.15,0:15:03.48,Dialogue,,0,0,0,,If you leave us here like this,
+Dialogue: 0,0:15:03.48,0:15:04.82,Dialogue,,0,0,0,,both me and the child will die.
+Dialogue: 0,0:15:04.90,0:15:06.28,Dialogue,,0,0,0,,I don't know you!
+Dialogue: 0,0:15:12.04,0:15:14.71,Dialogue,,0,0,0,,Once you're done, you're going home.
+Dialogue: 0,0:15:15.21,0:15:16.55,Dialogue,,0,0,0,,Scary, isn't he?
+Dialogue: 0,0:15:16.55,0:15:18.50,Dialogue,,0,0,0,,Onii-san is heartless.
+Dialogue: 0,0:15:22.00,0:15:24.17,Dialogue,,0,0,0,,What happened to your husband?
+Dialogue: 0,0:15:24.26,0:15:26.01,Dialogue,,0,0,0,,Was he taken into the army?
+Dialogue: 0,0:15:27.14,0:15:29.72,Dialogue,,0,0,0,,Do I look like I have a husband?
+Dialogue: 0,0:15:30.22,0:15:30.63,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:15:32.14,0:15:32.97,Dialogue,,0,0,0,,Then whose kid is that?
+Dialogue: 0,0:15:34.56,0:15:36.49,Dialogue,,0,0,0,,It doesn't matter.
+Dialogue: 0,0:15:36.49,0:15:37.56,Dialogue,,0,0,0,,That's not a good thing!
+Dialogue: 0,0:15:41.48,0:15:43.44,Dialogue,,0,0,0,,During the air raids...
+Dialogue: 0,0:15:44.94,0:15:46.95,Dialogue,,0,0,0,,...the child's dying okaa-san asked me to.
+Dialogue: 0,0:15:49.16,0:15:49.99,Dialogue,,0,0,0,,So then...
+Dialogue: 0,0:15:50.91,0:15:53.49,Dialogue,,0,0,0,,You're not related to that child?
+Dialogue: 0,0:15:54.70,0:15:55.79,Dialogue,,0,0,0,,So what?
+Dialogue: 0,0:15:59.00,0:16:00.50,Dialogue,,0,0,0,,What are you, an idiot?
+Dialogue: 0,0:16:01.29,0:16:03.59,Dialogue,,0,0,0,,You're not in a place to take in a baby like that
+Dialogue: 0,0:16:03.59,0:16:04.46,Dialogue,,0,0,0,,and live peacefully!
+Dialogue: 0,0:16:04.55,0:16:06.30,Dialogue,,0,0,0,,Even you couldn't abandon it, onii-san.
+Dialogue: 0,0:16:06.38,0:16:07.51,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:16:13.89,0:16:14.72,Dialogue,,0,0,0,,Name?
+Dialogue: 0,0:16:18.84,0:16:20.20,GODZILLA TYPESETTING 01,,0,0,0,,{\pos(1250,615)\c&H001E50&}Akiko
+Dialogue: 0,0:16:21.97,0:16:23.32,Dialogue,,0,0,0,,Your name.
+Dialogue: 0,0:16:25.90,0:16:26.74,Dialogue,,0,0,0,,Noriko.
+Dialogue: 0,0:16:29.86,0:16:32.03,Dialogue,,0,0,0,,Why do you act like that?
+Dialogue: 0,0:16:32.12,0:16:33.32,Dialogue,,0,0,0,,If you're acting like you're a vagrant,
+Dialogue: 0,0:16:33.32,0:16:34.58,Dialogue,,0,0,0,,it means you're probably poor.
+Dialogue: 0,0:16:35.33,0:16:36.83,Dialogue,,0,0,0,,Are you telling me to become a whore?
+Dialogue: 0,0:16:36.91,0:16:38.62,Dialogue,,0,0,0,,Don't give me that look.
+Dialogue: 0,0:16:40.12,0:16:41.67,Dialogue,,0,0,0,,In this day and age,
+Dialogue: 0,0:16:41.67,0:16:42.90,Dialogue,,0,0,0,,if you're out of options,
+Dialogue: 0,0:16:42.90,0:16:43.75,Dialogue,,0,0,0,,then it can't be helped.
+Dialogue: 0,0:16:50.01,0:16:51.05,Dialogue,,0,0,0,,What about your parents and siblings?
+Dialogue: 0,0:17:01.40,0:17:02.69,Dialogue,,0,0,0,,Your parents?
+Dialogue: 0,0:17:07.07,0:17:08.07,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:17:09.78,0:17:12.74,Dialogue,,0,0,0,,They both died in the air raid.
+Dialogue: 0,0:17:17.45,0:17:19.46,Dialogue,,0,0,0,,You and me are the same, onii-san.
+Dialogue: 0,0:17:38.85,0:17:39.68,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:17:39.77,0:17:40.20,Dialogue,,0,0,0,,He...
+Dialogue: 0,0:17:40.75,0:17:41.10,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:17:41.30,0:17:41.81,Dialogue,,0,0,0,,Wait a...
+Dialogue: 0,0:17:43.81,0:17:45.27,Dialogue,,0,0,0,,You...
+Dialogue: 0,0:17:59.20,0:18:00.33,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:18:02.71,0:18:04.25,Dialogue,,0,0,0,,What's with that?
+Dialogue: 0,0:18:05.84,0:18:06.92,Dialogue,,0,0,0,,With what?
+Dialogue: 0,0:18:07.00,0:18:08.75,Dialogue,,0,0,0,,Don't play dumb.
+Dialogue: 0,0:18:09.59,0:18:11.67,Dialogue,,0,0,0,,The parent and the child you picked up.
+Dialogue: 0,0:18:12.22,0:18:13.72,Dialogue,,0,0,0,,Who do you think you are,
+Dialogue: 0,0:18:13.72,0:18:14.84,Dialogue,,0,0,0,,picking up people like that?
+Dialogue: 0,0:18:14.93,0:18:15.70,Dialogue,,0,0,0,,No.
+Dialogue: 0,0:18:16.73,0:18:18.85,Dialogue,,0,0,0,,They just showed up and settled on their own.
+Dialogue: 0,0:18:19.56,0:18:20.78,Dialogue,,0,0,0,,If you haven't kicked them out,
+Dialogue: 0,0:18:20.78,0:18:22.48,Dialogue,,0,0,0,,then you've picked them up.
+Dialogue: 0,0:18:26.81,0:18:28.82,Dialogue,,0,0,0,,Hypocrite...
+Dialogue: 0,0:18:30.82,0:18:32.13,Dialogue,,0,0,0,,I'm not dealing with this.
+Dialogue: 0,0:18:32.98,0:18:34.74,Dialogue,,0,0,0,,Sorry for wasting your time.
+Dialogue: 0,0:18:39.83,0:18:40.66,Dialogue,,0,0,0,,Ah...
+Dialogue: 0,0:18:42.46,0:18:43.22,Dialogue,,0,0,0,,That kid...
+Dialogue: 0,0:18:43.63,0:18:45.12,Dialogue,,0,0,0,,Is she breastfeeding it properly?
+Dialogue: 0,0:18:47.04,0:18:47.65,Dialogue,,0,0,0,,Ah, no...
+Dialogue: 0,0:18:48.50,0:18:49.15,Dialogue,,0,0,0,,She's...
+Dialogue: 0,0:18:50.27,0:18:51.59,Dialogue,,0,0,0,,She's not the child's mother.
+Dialogue: 0,0:18:52.97,0:18:54.18,Dialogue,,0,0,0,,What is that supposed to mean?
+Dialogue: 0,0:19:06.85,0:19:07.98,Dialogue,,0,0,0,,If things continue like this,
+Dialogue: 0,0:19:07.98,0:19:09.65,Dialogue,,0,0,0,,she'll die of malnutrition.
+Dialogue: 0,0:19:10.36,0:19:11.36,Dialogue,,0,0,0,,Right?
+Dialogue: 0,0:19:13.74,0:19:16.78,Dialogue,,0,0,0,,Picking up a child you're not capable of raising...
+Dialogue: 0,0:19:17.45,0:19:19.28,Dialogue,,0,0,0,,What on earth is that all about?
+Dialogue: 0,0:19:20.45,0:19:21.54,Dialogue,,0,0,0,,I'm sorry.
+Dialogue: 0,0:19:30.17,0:19:31.80,Dialogue,,0,0,0,,It's not for you to eat.
+Dialogue: 0,0:19:33.21,0:19:35.34,Dialogue,,0,0,0,,Adults can survive no matter what they eat.
+Dialogue: 0,0:19:40.97,0:19:42.97,Dialogue,,0,0,0,,Use this to make gruel for the child.
+Dialogue: 0,0:19:44.02,0:19:45.13,Dialogue,,0,0,0,,Ah...
+Dialogue: 0,0:19:46.20,0:19:48.31,Dialogue,,0,0,0,,There goes my white rice.
+Dialogue: 0,0:19:49.69,0:19:51.65,Dialogue,,0,0,0,,It's annoying, seriously...
+Dialogue: 0,0:20:03.24,0:20:05.29,Dialogue,,0,0,0,,Ah, damn it!
+Dialogue: 0,0:20:05.37,0:20:06.87,Dialogue,,0,0,0,,I'm soaking wet!
+Dialogue: 0,0:20:13.80,0:20:15.26,Dialogue,,0,0,0,,Did you get a job?
+Dialogue: 0,0:20:16.67,0:20:19.26,Dialogue,,0,0,0,,I did find something, but...
+Dialogue: 0,0:20:19.76,0:20:21.18,Dialogue,,0,0,0,,Eh? What's the problem?
+Dialogue: 0,0:20:21.26,0:20:22.10,Dialogue,,0,0,0,,Ah...
+Dialogue: 0,0:20:22.93,0:20:24.72,Dialogue,,0,0,0,,The pay isn't bad either.
+Dialogue: 0,0:20:25.22,0:20:26.31,Dialogue,,0,0,0,,Check this out..
+Dialogue: 0,0:20:26.39,0:20:28.13,Dialogue,,0,0,0,,It seems that just the preperation money
+Dialogue: 0,0:20:28.13,0:20:29.31,Dialogue,,0,0,0,,is ¥3000 alone!
+Dialogue: 0,0:20:29.40,0:20:31.27,Dialogue,,0,0,0,,That's awesome!
+Dialogue: 0,0:20:35.86,0:20:37.11,Dialogue,,0,0,0,,It has to be a scam.
+Dialogue: 0,0:20:37.70,0:20:38.38,Dialogue,,0,0,0,,Just the other day,
+Dialogue: 0,0:20:38.38,0:20:40.41,Dialogue,,0,0,0,,all the rice that you brought in was stolen.
+Dialogue: 0,0:20:40.91,0:20:43.28,Dialogue,,0,0,0,,That's not the case with this.
+Dialogue: 0,0:20:43.37,0:20:45.49,Dialogue,,0,0,0,,What's different about it?
+Dialogue: 0,0:20:45.58,0:20:46.92,Dialogue,,0,0,0,,It has a stamp of approval from none other
+Dialogue: 0,0:20:46.92,0:20:48.21,Dialogue,,0,0,0,,than the Ministry of Demobilization.
+Dialogue: 0,0:20:48.71,0:20:51.00,Dialogue,,0,0,0,,There's a reason that it pays so well.
+Dialogue: 0,0:20:51.58,0:20:52.42,Dialogue,,0,0,0,,The reason?
+Dialogue: 0,0:20:52.50,0:20:53.70,Dialogue,,0,0,0,,During the war,
+Dialogue: 0,0:20:55.18,0:20:56.98,Dialogue,,0,0,0,,both the US military and Imperial Navy
+Dialogue: 0,0:20:56.98,0:20:58.47,Dialogue,,0,0,0,,secretly laid down mines, right?
+Dialogue: 0,0:20:59.47,0:21:00.63,Dialogue,,0,0,0,,It's a job to clean that up.
+Dialogue: 0,0:21:02.60,0:21:04.35,Dialogue,,0,0,0,,But the pay is insanely good, because...
+Dialogue: 0,0:21:05.22,0:21:06.10,Dialogue,,0,0,0,,Well...
+Dialogue: 0,0:21:09.06,0:21:09.73,Dialogue,,0,0,0,,There's...
+Dialogue: 0,0:21:10.87,0:21:13.11,Dialogue,,0,0,0,,There's no guarantee that I'll come back alive.
+Dialogue: 0,0:21:15.02,0:21:16.53,Dialogue,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:21:16.61,0:21:18.40,Dialogue,,0,0,0,,You just made it back alive!
+Dialogue: 0,0:21:18.49,0:21:20.29,Dialogue,,0,0,0,,There's nothinng else we can do!
+Dialogue: 0,0:21:20.53,0:21:21.32,Dialogue,,0,0,0,,At this rate,
+Dialogue: 0,0:21:21.32,0:21:22.91,Dialogue,,0,0,0,,the three of us are going to starve to death!
+Dialogue: 0,0:21:22.99,0:21:24.45,Dialogue,,0,0,0,,Even Akiko if it keeps going like this...
+Dialogue: 0,0:21:26.16,0:21:29.21,Dialogue,,0,0,0,,I understand that, but...
+Dialogue: 0,0:21:31.54,0:21:33.00,Dialogue,,0,0,0,,If we have the money...
+Dialogue: 0,0:21:33.71,0:21:34.91,Dialogue,,0,0,0,,If we have the money,
+Dialogue: 0,0:21:34.91,0:21:37.71,Dialogue,,0,0,0,,we can even buy powdered milk from America!
+Dialogue: 0,0:21:37.80,0:21:38.67,Dialogue,,0,0,0,,For that reason, I'd...
+Dialogue: 0,0:21:39.72,0:21:41.34,Dialogue,,0,0,0,,It's no good if you die!
+Dialogue: 0,0:21:45.93,0:21:46.93,Dialogue,,0,0,0,,It's okay.
+Dialogue: 0,0:21:48.06,0:21:49.44,Dialogue,,0,0,0,,Just becaus it's dangerous
+Dialogue: 0,0:21:49.44,0:21:51.02,Dialogue,,0,0,0,,doesn't mean I'm going to die.
+Dialogue: 0,0:21:52.44,0:21:53.74,Dialogue,,0,0,0,,It's different from the suicide attacks
+Dialogue: 0,0:21:53.74,0:21:54.73,Dialogue,,0,0,0,,of ten deaths and no lives.
+Dialogue: 0,0:21:59.74,0:22:00.30,Dialogue,,0,0,0,,And besides,
+Dialogue: 0,0:22:01.27,0:22:02.40,Dialogue,,0,0,0,,I'll be on a special ship,
+Dialogue: 0,0:22:02.40,0:22:04.87,Dialogue,,0,0,0,,so the magnetic mines won't be able to detect us.
+Dialogue: 0,0:22:09.62,0:22:10.70,Dialogue,,0,0,0,,This is...
+Dialogue: 0,0:22:11.36,0:22:12.54,Dialogue,,0,0,0,,The special ship?
+Dialogue: 0,0:22:26.97,0:22:27.80,Dialogue,,0,0,0,,Hey, you!
+Dialogue: 0,0:22:28.00,0:22:29.64,Dialogue,,0,0,0,,Are you our next gunner?
+Dialogue: 0,0:22:29.72,0:22:30.64,Dialogue,,0,0,0,,I'm Shikishima.
+Dialogue: 0,0:22:30.72,0:22:31.56,Dialogue,,0,0,0,,Are you a boat gunner?
+Dialogue: 0,0:22:31.64,0:22:32.89,Dialogue,,0,0,0,,I used to be a fighter pilot.
+Dialogue: 0,0:22:32.98,0:22:33.70,Dialogue,,0,0,0,,What?
+Dialogue: 0,0:22:34.15,0:22:35.35,Dialogue,,0,0,0,,What's this guy for?
+Dialogue: 0,0:22:35.44,0:22:36.86,Dialogue,,0,0,0,,You're a former fighter pilot?
+Dialogue: 0,0:22:36.94,0:22:38.10,Dialogue,,0,0,0,,I don't want to be with this
+Dialogue: 0,0:22:38.10,0:22:39.90,Dialogue,,0,0,0,,wreck of a military shōnen.
+Dialogue: 0,0:22:39.98,0:22:41.57,Dialogue,,0,0,0,,Were you disappointed?
+Dialogue: 0,0:22:42.19,0:22:43.40,Dialogue,,0,0,0,,That this is what the ship is like?
+Dialogue: 0,0:22:44.95,0:22:46.87,Dialogue,,0,0,0,,The US military and Japan's Imperial Navy laid down
+Dialogue: 0,0:22:46.87,0:22:49.37,Dialogue,,0,0,0,,around 60,000 mines along the coast.
+Dialogue: 0,0:22:49.37,0:22:51.20,Dialogue,,0,0,0,,Well, there are many different types,
+Dialogue: 0,0:22:51.20,0:22:52.77,Dialogue,,0,0,0,,but the most difficult ones
+Dialogue: 0,0:22:52.77,0:22:54.08,Dialogue,,0,0,0,,are the US's magnetic mines.
+Dialogue: 0,0:22:54.58,0:22:56.76,Dialogue,,0,0,0,,If a ship made out of metal passed by,
+Dialogue: 0,0:22:56.76,0:22:58.50,Dialogue,,0,0,0,,it would react and detonate.
+Dialogue: 0,0:23:02.30,0:23:02.90,Dialogue,,0,0,0,,So that's why...
+Dialogue: 0,0:23:03.72,0:23:05.05,Dialogue,,0,0,0,,He catches on quickly.
+Dialogue: 0,0:23:05.55,0:23:08.05,Dialogue,,0,0,0,,Our main job is to clean up moored mines.
+Dialogue: 0,0:23:08.14,0:23:09.63,Dialogue,,0,0,0,,To counter magnetic mines,
+Dialogue: 0,0:23:09.63,0:23:11.60,Dialogue,,0,0,0,,this wooden boat is the best solution.
+Dialogue: 0,0:23:14.44,0:23:15.48,Dialogue,,0,0,0,,I'm Noda.
+Dialogue: 0,0:23:16.23,0:23:18.85,Dialogue,,0,0,0,,I developed weapons at the Navy Arsenal
+Dialogue: 0,0:23:18.85,0:23:20.11,Dialogue,,0,0,0,,during the war.
+Dialogue: 0,0:23:20.19,0:23:22.74,Dialogue,,0,0,0,,This is Captain Akitsu and Mizushima-kun.
+Dialogue: 0,0:23:22.82,0:23:24.36,Dialogue,,0,0,0,,This one's "The Kid" and that one's "The Academic."
+Dialogue: 0,0:23:24.45,0:23:25.39,Dialogue,,0,0,0,,How do you feel about
+Dialogue: 0,0:23:25.39,0:23:26.74,Dialogue,,0,0,0,,addressing me like that, chou-san?
+Dialogue: 0,0:23:26.82,0:23:28.66,Dialogue,,0,0,0,,And I'm not a kid anymore!
+Dialogue: 0,0:23:28.74,0:23:30.27,Dialogue,,0,0,0,,You're still only a beginner,
+Dialogue: 0,0:23:30.27,0:23:31.16,Dialogue,,0,0,0,,so being called a kid is more than enough.
+Dialogue: 0,0:23:31.24,0:23:31.94,Dialogue,,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:23:31.94,0:23:34.54,Dialogue,,0,0,0,,I haven't gone to war anyway.
+Dialogue: 0,0:23:34.62,0:23:36.96,Dialogue,,0,0,0,,This is the special minesweeper Shinseimaru.
+Dialogue: 0,0:23:37.04,0:23:39.00,Dialogue,,0,0,0,,Paired up with the Kaishinmaru right next to it.
+Dialogue: 0,0:23:39.50,0:23:44.09,Dialogue,,0,0,0,,Mines are like balloons that rise from the ocean floor.
+Dialogue: 0,0:23:44.59,0:23:46.61,Dialogue,,0,0,0,,We attached cutters to the cables between the
+Dialogue: 0,0:23:46.61,0:23:50.60,Dialogue,,0,0,0,,two ships to cut the mines' wires.
+Dialogue: 0,0:23:50.68,0:23:53.14,Dialogue,,0,0,0,,That will cause the mines to float to the surface.
+Dialogue: 0,0:23:53.64,0:23:55.35,Dialogue,,0,0,0,,So that using this...
+Dialogue: 0,0:23:56.52,0:23:58.15,Dialogue,,0,0,0,,it goes DADADADADA!
+Dialogue: 0,0:23:59.10,0:24:00.11,Dialogue,,0,0,0,,Watch us.
+Dialogue: 0,0:24:11.83,0:24:13.41,Dialogue,,0,0,0,,This one's quite difficult to hit.
+Dialogue: 0,0:24:13.91,0:24:15.50,Dialogue,,0,0,0,,Can I do it?
+Dialogue: 0,0:24:16.37,0:24:17.54,Dialogue,,0,0,0,,Are you sure?
+Dialogue: 0,0:24:22.63,0:24:24.00,Dialogue,,0,0,0,,Because it's shaking...
+Dialogue: 0,0:24:24.51,0:24:26.77,Dialogue,,0,0,0,,You have to predict where the bullet will land
+Dialogue: 0,0:24:26.77,0:24:28.13,Dialogue,,0,0,0,,before you fire.
+Dialogue: 0,0:24:37.77,0:24:39.02,Dialogue,,0,0,0,,Good job!
+Dialogue: 0,0:24:39.56,0:24:41.31,Dialogue,,0,0,0,,It's the same as shooting down an enemy plane.
+Dialogue: 0,0:24:41.40,0:24:43.90,Dialogue,,0,0,0,,Except, well, I was never in an actual battle.
+Dialogue: 0,0:24:43.98,0:24:44.98,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:24:45.86,0:24:47.65,Dialogue,,0,0,0,,You have no experience in practical combat?
+Dialogue: 0,0:24:48.15,0:24:50.28,Dialogue,,0,0,0,,That means Shikishima and I are pretty much the same.
+Dialogue: 0,0:24:50.36,0:24:50.89,Dialogue,,0,0,0,,Idiot.
+Dialogue: 0,0:24:50.89,0:24:51.28,Dialogue,,0,0,0,,You're completely different.
+Dialogue: 0,0:24:51.37,0:24:52.99,Dialogue,,0,0,0,,You can't fly a plane, can you?
+Dialogue: 0,0:24:53.08,0:24:54.36,Dialogue,,0,0,0,,If I had gone to war,
+Dialogue: 0,0:24:54.36,0:24:56.00,Dialogue,,0,0,0,,I would've been a great help.
+Dialogue: 0,0:24:56.50,0:24:58.96,Dialogue,,0,0,0,,Ah, if only it lasted a little bit longer...
+Dialogue: 0,0:25:01.92,0:25:03.75,Dialogue,,0,0,0,,Are you seriously saying that?
+Dialogue: 0,0:25:07.19,0:25:08.17,Dialogue,,0,0,0,,I'm sorry.
+Dialogue: 0,0:25:12.47,0:25:13.64,Dialogue,,0,0,0,,Idiot.
+Dialogue: 0,0:25:39.33,0:25:40.66,Dialogue,,0,0,0,,Ah! Stop it!
+Dialogue: 0,0:25:43.71,0:25:44.67,Dialogue,,0,0,0,,Shoot it!
+Dialogue: 0,0:25:45.13,0:25:46.14,Dialogue,,0,0,0,,Run away!
+Dialogue: 0,0:25:46.14,0:25:46.75,Dialogue,,0,0,0,,Evacuate, evacuate!
+Dialogue: 0,0:26:04.31,0:26:05.27,Dialogue,,0,0,0,,Are you okay?
+Dialogue: 0,0:26:12.86,0:26:14.24,Dialogue,,0,0,0,,A bad dream again?
+Dialogue: 0,0:26:21.00,0:26:23.17,Dialogue,,0,0,0,,Dr... dream.
+Dialogue: 0,0:26:27.21,0:26:28.21,Dialogue,,0,0,0,,I see...
+Dialogue: 0,0:26:29.88,0:26:31.88,Dialogue,,0,0,0,,It's a dream...
+Dialogue: 0,0:26:39.14,0:26:40.14,Dialogue,,0,0,0,,Unless...
+Dialogue: 0,0:26:41.89,0:26:42.53,Dialogue,,0,0,0,,...you're...
+Dialogue: 0,0:26:43.00,0:26:43.89,Dialogue,,0,0,0,,...the dream.
+Dialogue: 0,0:26:44.60,0:26:45.91,Dialogue,,0,0,0,,What are you talking about?
+Dialogue: 0,0:26:45.91,0:26:46.19,Dialogue,,0,0,0,,Are you okay?
+Dialogue: 0,0:26:47.38,0:26:48.71,Dialogue,,0,0,0,,This is Japan, right?
+Dialogue: 0,0:26:48.60,0:26:49.10,Dialogue,,0,0,0,,Right?
+Dialogue: 0,0:26:49.53,0:26:51.36,Dialogue,,0,0,0,,I'm actually back, right?
+Dialogue: 0,0:26:51.44,0:26:52.36,Dialogue,,0,0,0,,Right?
+Dialogue: 0,0:26:52.44,0:26:53.32,Dialogue,,0,0,0,,I came back, didn't I?
+Dialogue: 0,0:26:53.40,0:26:54.45,Dialogue,,0,0,0,,Stop it!
+Dialogue: 0,0:27:15.55,0:27:16.59,Dialogue,,0,0,0,,I understand...
+Dialogue: 0,0:27:17.39,0:27:18.47,Dialogue,,0,0,0,,I know.
+Dialogue: 0,0:27:20.39,0:27:21.72,Dialogue,,0,0,0,,I know.
+Dialogue: 0,0:28:28.42,0:28:30.81,Dialogue,,0,0,0,,Nice place you built here.
+Dialogue: 0,0:28:30.81,0:28:32.88,Dialogue,,0,0,0,,It's worth all of the money you saved up.
+Dialogue: 0,0:28:38.09,0:28:39.18,Dialogue,,0,0,0,,Please help yourself.
+Dialogue: 0,0:28:40.84,0:28:41.68,Dialogue,,0,0,0,,This is, this is...
+Dialogue: 0,0:28:45.10,0:28:45.97,Dialogue,,0,0,0,,May I take one?
+Dialogue: 0,0:28:46.60,0:28:47.40,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:28:47.40,0:28:47.94,Dialogue,,0,0,0,,That's...
+Dialogue: 0,0:28:48.02,0:28:49.27,Dialogue,,0,0,0,,That would be a waste of film!
+Dialogue: 0,0:28:49.35,0:28:51.02,Dialogue,,0,0,0,,Ah, that smile!
+Dialogue: 0,0:28:51.10,0:28:52.98,Dialogue,,0,0,0,,Just like that, just like that...
+Dialogue: 0,0:28:53.77,0:28:54.52,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,0:28:57.37,0:28:57.74,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,0:28:57.82,0:28:58.97,Dialogue,,0,0,0,,Hey, Academic.
+Dialogue: 0,0:28:58.97,0:29:00.07,Dialogue,,0,0,0,,Don't go falling for Nori-chan!
+Dialogue: 0,0:29:01.16,0:29:02.20,Dialogue,,0,0,0,,What are you talking about?
+Dialogue: 0,0:29:02.20,0:29:04.58,Dialogue,,0,0,0,,Noriko-san is a married woman!
+Dialogue: 0,0:29:04.66,0:29:06.38,Dialogue,,0,0,0,,Please stop!
+Dialogue: 0,0:29:06.38,0:29:08.00,Dialogue,,0,0,0,,I'm not his wife!
+Dialogue: 0,0:29:11.46,0:29:12.63,Dialogue,,0,0,0,,What does that mean?
+Dialogue: 0,0:29:13.50,0:29:15.34,Dialogue,,0,0,0,,She settled down here without my permission.
+Dialogue: 0,0:29:15.96,0:29:17.84,Dialogue,,0,0,0,,There was nowhere else for her to go,
+Dialogue: 0,0:29:17.84,0:29:19.42,Dialogue,,0,0,0,,So I just let her stay here.
+Dialogue: 0,0:29:20.05,0:29:21.34,Dialogue,,0,0,0,,Then whose kid is this?
+Dialogue: 0,0:29:21.43,0:29:23.31,Dialogue,,0,0,0,,It's her stepchild,
+Dialogue: 0,0:29:23.31,0:29:25.22,Dialogue,,0,0,0,,though they aren't blood-related.
+Dialogue: 0,0:29:25.72,0:29:27.23,Dialogue,,0,0,0,,She's an orphan that was
+Dialogue: 0,0:29:27.23,0:29:28.85,Dialogue,,0,0,0,,entrusted to her during the air raids.
+Dialogue: 0,0:29:28.93,0:29:30.14,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:29:30.89,0:29:32.77,Dialogue,,0,0,0,,Isn't that a touching story in this day and age?
+Dialogue: 0,0:29:32.85,0:29:34.11,Dialogue,,0,0,0,,No.
+Dialogue: 0,0:29:34.11,0:29:35.94,Dialogue,,0,0,0,,I'm just not thinking ahead.
+Dialogue: 0,0:29:38.49,0:29:39.95,Dialogue,,0,0,0,,Otō-chan.
+Dialogue: 0,0:29:42.07,0:29:42.79,Dialogue,,0,0,0,,Akiko.
+Dialogue: 0,0:29:43.15,0:29:44.35,Dialogue,,0,0,0,,Yes?
+Dialogue: 0,0:29:45.12,0:29:45.89,Dialogue,,0,0,0,,I told you.
+Dialogue: 0,0:29:46.26,0:29:47.74,Dialogue,,0,0,0,,I'm not your tō-chan.
+Dialogue: 0,0:29:50.29,0:29:51.32,Dialogue,,0,0,0,,Shikishima.
+Dialogue: 0,0:29:52.18,0:29:53.38,Dialogue,,0,0,0,,Isn't it a bad idea to say that?
+Dialogue: 0,0:29:53.46,0:29:54.84,Dialogue,,0,0,0,,It's really unhealthy.
+Dialogue: 0,0:29:55.96,0:29:56.66,Dialogue,,0,0,0,,Hey.
+Dialogue: 0,0:29:57.30,0:29:58.42,Dialogue,,0,0,0,,Both of you were brought into a family
+Dialogue: 0,0:29:58.42,0:29:59.52,Dialogue,,0,0,0,,by fate, and so...
+Dialogue: 0,0:30:00.30,0:30:01.88,Dialogue,,0,0,0,,You need to be prepared for that.
+Dialogue: 0,0:30:01.97,0:30:04.34,Dialogue,,0,0,0,,Make them happy!
+Dialogue: 0,0:30:05.68,0:30:06.68,Dialogue,,0,0,0,,Shut up!
+Dialogue: 0,0:30:07.43,0:30:09.43,Dialogue,,0,0,0,,I'm not interested in that kind of thing.
+Dialogue: 0,0:30:15.02,0:30:16.27,Dialogue,,0,0,0,,Why?
+Dialogue: 0,0:30:31.79,0:30:32.70,Dialogue,,0,0,0,,Welcome back.
+Dialogue: 0,0:30:33.18,0:30:34.67,Dialogue,,0,0,0,,I also just returned myself.
+Dialogue: 0,0:30:35.38,0:30:36.59,Dialogue,,0,0,0,,What's with your appearance?
+Dialogue: 0,0:30:40.46,0:30:41.38,Dialogue,,0,0,0,,How does it look?
+Dialogue: 0,0:30:42.17,0:30:44.22,Dialogue,,0,0,0,,I started working as an office worker in Ginza.
+Dialogue: 0,0:30:45.80,0:30:47.47,Dialogue,,0,0,0,,I've given you enough money though, right?
+Dialogue: 0,0:30:53.60,0:30:56.40,Dialogue,,0,0,0,,I've decided I finally want to be independent.
+Dialogue: 0,0:30:57.86,0:30:59.16,Dialogue,,0,0,0,,At this rate, Kou-san,
+Dialogue: 0,0:30:59.16,0:31:01.15,Dialogue,,0,0,0,,you'll never find a wife.
+Dialogue: 0,0:31:05.07,0:31:06.24,Dialogue,,0,0,0,,Did you know?
+Dialogue: 0,0:31:06.32,0:31:08.49,Dialogue,,0,0,0,,Ginza's also recovering very quickly.
+Dialogue: 0,0:31:09.70,0:31:10.66,Dialogue,,0,0,0,,Isn't this a bit soon?
+Dialogue: 0,0:31:11.83,0:31:13.29,Dialogue,,0,0,0,,I've been thinking about this for a while now.
+Dialogue: 0,0:31:15.23,0:31:16.21,Dialogue,,0,0,0,,What about Akiko?
+Dialogue: 0,0:31:17.21,0:31:23.38,Dialogue,,0,0,0,,What will Akiko do while you're at work, Noriko-san?
+Dialogue: 0,0:31:23.47,0:31:26.22,Dialogue,,0,0,0,,Sumiko-san will take care of her when I'm at work.
+Dialogue: 0,0:31:28.05,0:31:29.97,Dialogue,,0,0,0,,Sumiko-san is very enthusiastic about it.
+Dialogue: 0,0:31:30.06,0:31:32.77,Dialogue,,0,0,0,,She said, "I've raised 3 children myself."
+Dialogue: 0,0:31:35.52,0:31:37.49,Dialogue,,0,0,0,,Well if that's the case,
+Dialogue: 0,0:31:37.49,0:31:38.44,Dialogue,,0,0,0,,it's fine then.
+Dialogue: 0,0:31:40.07,0:31:41.00,Dialogue,,0,0,0,,Well then,
+Dialogue: 0,0:31:41.00,0:31:42.65,Dialogue,,0,0,0,,I'm gonna go get Akiko.
+Dialogue: 0,0:32:23.86,0:32:26.13,Dialogue,,0,0,0,,{\i1}It is estimated that these large sea creatures{\i0}
+Dialogue: 0,0:32:26.13,0:32:30.44,Dialogue,,0,0,0,,{\i1}will reach the Kantō region of Japan{\i0}
+Dialogue: 0,0:32:30.44,0:32:32.20,Dialogue,,0,0,0,,{\i1}within a few weeks at latest.{\i0}
+Dialogue: 0,0:32:34.37,0:32:37.13,Dialogue,,0,0,0,,{\i1}Supreme Commander Douglas McAurthur has{\i0}
+Dialogue: 0,0:32:37.13,0:32:38.50,Dialogue,,0,0,0,,{\i1}regrettably announced that due to the situation{\i0}
+Dialogue: 0,0:32:38.50,0:32:39.93,Dialogue,,0,0,0,,{\i1}with the Soviet Union,{\i0}
+Dialogue: 0,0:32:39.93,0:32:43.67,Dialogue,,0,0,0,,{\i1}military involvement is not possible.{\i0}
+Dialogue: 0,0:32:43.75,0:32:44.70,Dialogue,,0,0,0,,{\i1}At the same time,{\i0}
+Dialogue: 0,0:32:44.70,0:32:47.78,Dialogue,,0,0,0,,{\i1}they requested Japan to strengthen all of{\i0}
+Dialogue: 0,0:32:47.78,0:32:50.30,Dialogue,,0,0,0,,{\i1}it's security agencies.{\i0}
+Dialogue: 0,0:33:03.52,0:33:04.90,Dialogue,,0,0,0,,This...
+Dialogue: 0,0:33:06.03,0:33:07.99,Dialogue,,0,0,0,,Was it a giant shark?
+Dialogue: 0,0:33:09.20,0:33:10.32,Dialogue,,0,0,0,,A whale?
+Dialogue: 0,0:33:10.41,0:33:13.49,Dialogue,,0,0,0,,Sharks and whales can't do this type of damage.
+Dialogue: 0,0:33:14.49,0:33:16.04,Dialogue,,0,0,0,,A new Soviet weapon?
+Dialogue: 0,0:33:16.12,0:33:18.08,Dialogue,,0,0,0,,Does that look like weapon damage to you?
+Dialogue: 0,0:33:18.16,0:33:19.62,Dialogue,,0,0,0,,Then what are you saying?
+Dialogue: 0,0:33:20.50,0:33:22.42,Dialogue,,0,0,0,,Something big, like a mountain.
+Dialogue: 0,0:33:22.50,0:33:23.63,Dialogue,,0,0,0,,Like what?
+Dialogue: 0,0:33:23.71,0:33:25.32,Dialogue,,0,0,0,,You're just acting arrogant even though
+Dialogue: 0,0:33:25.32,0:33:26.17,Dialogue,,0,0,0,,you don't understand any of it either.
+Dialogue: 0,0:33:26.25,0:33:29.30,Dialogue,,0,0,0,,I was being skeptical until I saw this.
+Dialogue: 0,0:33:31.93,0:33:32.73,Dialogue,,0,0,0,,Godzilla.
+Dialogue: 0,0:33:35.47,0:33:36.68,Dialogue,,0,0,0,,Please look at that!
+Dialogue: 0,0:33:36.77,0:33:38.06,Dialogue,,0,0,0,,Ah?
+Dialogue: 0,0:33:40.39,0:33:42.12,Dialogue,,0,0,0,,On the day Godzilla came to the island,
+Dialogue: 0,0:33:42.12,0:33:44.52,Dialogue,,0,0,0,,deep-sea fish were floating to the top.
+Dialogue: 0,0:33:45.23,0:33:47.19,Dialogue,,0,0,0,,You saw that thing?
+Dialogue: 0,0:33:47.28,0:33:49.14,Dialogue,,0,0,0,,It was a monster that looked like
+Dialogue: 0,0:33:49.14,0:33:51.53,Dialogue,,0,0,0,,a dinosaur that had survived.
+Dialogue: 0,0:33:52.03,0:33:55.91,Dialogue,,0,0,0,,The locals call him Godzilla.
+Dialogue: 0,0:33:56.62,0:33:57.45,Dialogue,,0,0,0,,Godzilla?
+Dialogue: 0,0:33:58.04,0:33:58.58,Dialogue,,0,0,0,,Foolishness.
+Dialogue: 0,0:33:58.58,0:34:00.29,Dialogue,,0,0,0,,Does that type of thing even exist?
+Dialogue: 0,0:34:00.37,0:34:01.62,Dialogue,,0,0,0,,You were half-asleep and probably saw an enemy tank-
+Dialogue: 0,0:34:01.71,0:34:03.70,Dialogue,,0,0,0,,You probably won't believe me,
+Dialogue: 0,0:34:03.70,0:34:06.47,Dialogue,,0,0,0,,but that Godzilla wiped out
+Dialogue: 0,0:34:06.47,0:34:08.51,Dialogue,,0,0,0,,the entire garrison on Ōdo Island!
+Dialogue: 0,0:34:09.09,0:34:10.51,Dialogue,,0,0,0,,Wait a second...
+Dialogue: 0,0:34:11.17,0:34:13.34,Dialogue,,0,0,0,,I thought unit that got wiped out by the US military?
+Dialogue: 0,0:34:15.26,0:34:17.17,Dialogue,,0,0,0,,Ōdo Island was ignored by America
+Dialogue: 0,0:34:17.17,0:34:19.18,Dialogue,,0,0,0,,during Operation Jumping Stone.
+Dialogue: 0,0:34:19.27,0:34:20.44,Dialogue,,0,0,0,,During that time,
+Dialogue: 0,0:34:20.44,0:34:21.43,Dialogue,,0,0,0,,it was an emergency landing site
+Dialogue: 0,0:34:21.43,0:34:23.23,Dialogue,,0,0,0,,for malfunctioning suicide attack planes.
+Dialogue: 0,0:34:24.31,0:34:25.61,Dialogue,,0,0,0,,So then, Shikishima...
+Dialogue: 0,0:34:26.82,0:34:28.44,Dialogue,,0,0,0,,Are you a former suicide attack pilot?
+Dialogue: 0,0:34:34.53,0:34:37.41,Dialogue,,0,0,0,,If this is the same Godzilla as the one from the island,
+Dialogue: 0,0:34:38.37,0:34:41.87,Dialogue,,0,0,0,,it will have grown bigger and more powerful.
+Dialogue: 0,0:34:47.88,0:34:49.34,Dialogue,,0,0,0,,Please give me a moment...
+Dialogue: 0,0:34:50.01,0:34:53.38,Dialogue,,0,0,0,,Why were we called out here in the first place?
+Dialogue: 0,0:34:54.34,0:34:55.71,Dialogue,,0,0,0,,There's no way we're...
+Dialogue: 0,0:34:55.71,0:34:57.55,Dialogue,,0,0,0,,gonna have to fight that type of thing, right?
+Dialogue: 0,0:34:57.64,0:34:58.47,Dialogue,,0,0,0,,On this type of ship?
+Dialogue: 0,0:34:58.56,0:35:00.22,Dialogue,,0,0,0,,That's the case.
+Dialogue: 0,0:35:00.31,0:35:00.53,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:35:01.20,0:35:03.60,Dialogue,,0,0,0,,That type of thing's impossible!
+Dialogue: 0,0:35:03.69,0:35:04.95,Dialogue,,0,0,0,,What are we supposed to do with
+Dialogue: 0,0:35:04.95,0:35:06.80,Dialogue,,0,0,0,,this kind of petty ship against something
+Dialogue: 0,0:35:06.80,0:35:08.40,Dialogue,,0,0,0,,the US military can't even take down?
+Dialogue: 0,0:35:08.48,0:35:10.44,Dialogue,,0,0,0,,They told us to stall it.
+Dialogue: 0,0:35:11.44,0:35:12.94,Dialogue,,0,0,0,,Stall?
+Dialogue: 0,0:35:13.03,0:35:15.74,Dialogue,,0,0,0,,The Takao is coming from Singapore.
+Dialogue: 0,0:35:16.49,0:35:17.50,Dialogue,,0,0,0,,Heavy Crusier Takao?
+Dialogue: 0,0:35:17.50,0:35:18.45,Dialogue,,0,0,0,,That one?
+Dialogue: 0,0:35:18.53,0:35:20.42,Dialogue,,0,0,0,,It was awaiting scuttling,
+Dialogue: 0,0:35:20.42,0:35:21.95,Dialogue,,0,0,0,,but it seems that they decided to bring it back.
+Dialogue: 0,0:35:22.75,0:35:24.30,Dialogue,,0,0,0,,Isn't that awesome!
+Dialogue: 0,0:35:24.30,0:35:25.42,Dialogue,,0,0,0,,The Takao!
+Dialogue: 0,0:35:25.50,0:35:29.21,Dialogue,,0,0,0,,I was ordered to buy time until the Takao arrives.
+Dialogue: 0,0:35:29.29,0:35:31.57,Dialogue,,0,0,0,,This ship is from America-san, right?
+Dialogue: 0,0:35:31.57,0:35:33.49,Dialogue,,0,0,0,,Can't they deal with it themselves?
+Dialogue: 0,0:35:33.72,0:35:35.50,Dialogue,,0,0,0,,Things are getting weirder between America
+Dialogue: 0,0:35:35.50,0:35:36.84,Dialogue,,0,0,0,,and the Soviet Union right now.
+Dialogue: 0,0:35:36.93,0:35:40.39,Dialogue,,0,0,0,,They can't carelessly take military action.
+Dialogue: 0,0:35:40.47,0:35:43.68,Dialogue,,0,0,0,,They prefer we handle these types of trivial matters.
+Dialogue: 0,0:35:43.77,0:35:44.98,Dialogue,,0,0,0,,Is this a trival matter?
+Dialogue: 0,0:35:45.06,0:35:47.56,Dialogue,,0,0,0,,The only weapons we have is a 13mm gun.
+Dialogue: 0,0:35:47.65,0:35:51.19,Dialogue,,0,0,0,,They said we could use recovered mines for that purpose.
+Dialogue: 0,0:35:53.72,0:35:56.11,Dialogue,,0,0,0,,So that's why they called us out here.
+Dialogue: 0,0:35:56.20,0:36:00.45,Dialogue,,0,0,0,,The most important weapons are "locally sourced."
+Dialogue: 0,0:36:00.53,0:36:02.34,Dialogue,,0,0,0,,And regarding this,
+Dialogue: 0,0:36:02.34,0:36:04.62,Dialogue,,0,0,0,,you are not allowed to tell anyone about it.
+Dialogue: 0,0:36:04.70,0:36:06.36,Dialogue,,0,0,0,,There it is.
+Dialogue: 0,0:36:06.36,0:36:07.92,Dialogue,,0,0,0,,The usual gag order.
+Dialogue: 0,0:36:09.25,0:36:11.29,Dialogue,,0,0,0,,This country never changes!
+Dialogue: 0,0:36:12.67,0:36:14.05,Dialogue,,0,0,0,,Can it even change?
+Dialogue: 0,0:36:23.47,0:36:24.85,Dialogue,,0,0,0,,Let's swap places.
+Dialogue: 0,0:36:27.54,0:36:28.69,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,0:36:29.73,0:36:31.56,Dialogue,,0,0,0,,You're too stuck in your seat, Shiki-san.
+Dialogue: 0,0:36:32.69,0:36:35.24,Dialogue,,0,0,0,,To think that the other opponent could be Godzilla...
+Dialogue: 0,0:36:37.64,0:36:38.61,Dialogue,,0,0,0,,I know how you feel.
+Dialogue: 0,0:36:39.45,0:36:43.43,Dialogue,,0,0,0,,When I think back to the war,
+Dialogue: 0,0:36:43.43,0:36:45.79,Dialogue,,0,0,0,,sometimes I also have trouble sleeping.
+Dialogue: 0,0:36:46.66,0:36:48.12,Dialogue,,0,0,0,,I want to defeat the enemy.
+Dialogue: 0,0:36:48.83,0:36:51.77,Dialogue,,0,0,0,,But at the same time,
+Dialogue: 0,0:36:51.77,0:36:53.55,Dialogue,,0,0,0,,I find it incredibly frightening.
+Dialogue: 0,0:36:59.80,0:37:01.13,Dialogue,,0,0,0,,There are only two of those,
+Dialogue: 0,0:37:01.95,0:37:03.56,Dialogue,,0,0,0,,including a spare.
+Dialogue: 0,0:37:09.85,0:37:10.94,Dialogue,,0,0,0,,What's wrong?
+Dialogue: 0,0:37:29.08,0:37:31.73,Dialogue,,0,0,0,,The amount of fish on Ōdo Island is nothing
+Dialogue: 0,0:37:31.73,0:37:33.59,Dialogue,,0,0,0,,compared to what's happening right now...
+Dialogue: 0,0:37:36.76,0:37:38.40,Dialogue,,0,0,0,,Stay on gaurd!
+Dialogue: 0,0:37:38.44,0:37:39.01,Dialogue,,0,0,0,,Stay on gaurd!
+Dialogue: 0,0:37:39.09,0:37:41.13,Dialogue,,0,0,0,,Godzilla is coming!
+Dialogue: 0,0:37:41.22,0:37:42.76,Dialogue,,0,0,0,,Stay on gaurd!
+Dialogue: 0,0:37:44.55,0:37:46.56,Dialogue,,0,0,0,,Here he comes!
+Dialogue: 0,0:37:47.18,0:37:49.20,Dialogue,,0,0,0,,Kid, keep your mines ready
+Dialogue: 0,0:37:49.20,0:37:50.00,Dialogue,,0,0,0,,to drop at any time!
+Dialogue: 0,0:37:50.00,0:37:50.35,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,0:37:50.35,0:37:51.48,Dialogue,,0,0,0,,Shikishima, prepare the machine guns.
+Dialogue: 0,0:37:51.56,0:37:52.39,Dialogue,,0,0,0,,Let's run away!
+Dialogue: 0,0:37:52.39,0:37:54.19,Dialogue,,0,0,0,,We can't fight it on a ship like this!
+Dialogue: 0,0:37:54.27,0:37:55.32,Dialogue,,0,0,0,,There's still time!
+Dialogue: 0,0:37:55.40,0:37:56.78,Dialogue,,0,0,0,,Let's see how that works out, chou-san!
+Dialogue: 0,0:37:56.86,0:37:58.24,Dialogue,,0,0,0,,Academic, keep your eyes peeled and
+Dialogue: 0,0:37:58.24,0:37:58.74,Dialogue,,0,0,0,,report back to me.
+Dialogue: 0,0:37:58.82,0:37:59.65,Dialogue,,0,0,0,,Chou-san!
+Dialogue: 0,0:37:59.74,0:38:01.53,Dialogue,,0,0,0,,Shinseimaru to Kaishinmaru!
+Dialogue: 0,0:38:02.20,0:38:04.17,Dialogue,,0,0,0,,It looks like he's about to show up.
+Dialogue: 0,0:38:04.17,0:38:04.99,Dialogue,,0,0,0,,Get ready.
+Dialogue: 0,0:38:05.27,0:38:08.29,Dialogue,,0,0,0,,{\i1}We're taking all the credit for defeating the monster.{\i0}
+Dialogue: 0,0:38:08.37,0:38:09.14,Dialogue,,0,0,0,,Those bastards!
+Dialogue: 0,0:38:09.14,0:38:09.58,Dialogue,,0,0,0,,Captain!
+Dialogue: 0,0:38:09.66,0:38:10.85,Dialogue,,0,0,0,,If we run away now,
+Dialogue: 0,0:38:10.85,0:38:12.86,Dialogue,,0,0,0,,the Takao won't make it in time,
+Dialogue: 0,0:38:12.86,0:38:15.17,Dialogue,,0,0,0,,so where will the monster head for?
+Dialogue: 0,0:38:16.34,0:38:19.05,Dialogue,,0,0,0,,I don't want to see Tōkyō engulfed in flames again.
+Dialogue: 0,0:38:19.13,0:38:21.55,Dialogue,,0,0,0,,But this ship is no match for it.
+Dialogue: 0,0:38:21.63,0:38:24.22,Dialogue,,0,0,0,,Chou-san, I thought you hated government orders!
+Dialogue: 0,0:38:24.30,0:38:26.60,Dialogue,,0,0,0,,Ah, I do hate them!
+Dialogue: 0,0:38:26.68,0:38:27.72,Dialogue,,0,0,0,,However...
+Dialogue: 0,0:38:28.47,0:38:30.56,Dialogue,,0,0,0,,Someone has to draw the short straw.
+Dialogue: 0,0:38:47.58,0:38:50.08,Dialogue,,0,0,0,,This is just impossible.
+Dialogue: 0,0:38:54.37,0:38:55.63,Dialogue,,0,0,0,,Academic, engine!
+Dialogue: 0,0:38:55.71,0:38:57.13,Dialogue,,0,0,0,,Working on it now!
+Dialogue: 0,0:38:57.71,0:38:58.88,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,0:39:00.46,0:39:01.34,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,0:39:02.01,0:39:03.35,Dialogue,,0,0,0,,Hurry up!
+Dialogue: 0,0:39:03.35,0:39:04.18,Dialogue,,0,0,0,,Hurry over here!
+Dialogue: 0,0:39:05.89,0:39:06.89,Dialogue,,0,0,0,,Captain!
+Dialogue: 0,0:39:06.97,0:39:08.35,Dialogue,,0,0,0,,Got it!
+Dialogue: 0,0:39:08.43,0:39:09.43,Dialogue,,0,0,0,,Increase the throttle!
+Dialogue: 0,0:39:09.51,0:39:10.35,Dialogue,,0,0,0,,All right!
+Dialogue: 0,0:39:31.24,0:39:32.89,Dialogue,,0,0,0,,Drop the mines!
+Dialogue: 0,0:39:34.12,0:39:35.38,Dialogue,,0,0,0,,He's almost here!
+Dialogue: 0,0:39:35.38,0:39:36.08,Dialogue,,0,0,0,,It's too late!
+Dialogue: 0,0:39:36.08,0:39:38.21,Dialogue,,0,0,0,,Even so, we still have to do something!
+Dialogue: 0,0:39:57.81,0:39:59.19,Dialogue,,0,0,0,,Now, kid!
+Dialogue: 0,0:39:59.27,0:40:00.69,Dialogue,,0,0,0,,Here it goes!
+Dialogue: 0,0:40:06.95,0:40:08.07,Dialogue,,0,0,0,,Did it do it?
+Dialogue: 0,0:40:14.33,0:40:15.50,Dialogue,,0,0,0,,It's not working!
+Dialogue: 0,0:40:16.00,0:40:17.77,Dialogue,,0,0,0,,Oh crap,
+Dialogue: 0,0:40:16.51,0:40:17.77,Oh crap - style 1,,0,0,0,,Oh crap,
+Dialogue: 0,0:40:16.99,0:40:17.77,Oh crap - style 2,,0,0,0,,Oh crap,
+Dialogue: 0,0:40:17.40,0:40:17.77,Oh crap - style 3,,0,0,0,,Oh crap,
+Dialogue: 0,0:40:17.77,0:40:18.17,Oh crap - style 5,,0,0,0,,Oh crap!
+Dialogue: 0,0:40:18.25,0:40:19.55,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,0:40:19.55,0:40:20.00,Dialogue,,0,0,0,,Machine gun!
+Dialogue: 0,0:40:20.08,0:40:21.21,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,0:40:29.34,0:40:30.22,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,0:40:41.27,0:40:41.96,Dialogue,,0,0,0,,No good!
+Dialogue: 0,0:40:41.96,0:40:43.27,Dialogue,,0,0,0,,It's useless!
+Dialogue: 0,0:40:47.20,0:40:48.85,Dialogue,,0,0,0,,Inside it's mouth!
+Dialogue: 0,0:40:48.85,0:40:50.45,Dialogue,,0,0,0,,How about inside it's mouth?
+Dialogue: 0,0:40:52.37,0:40:54.08,Dialogue,,0,0,0,,Reel it in, reel it in!
+Dialogue: 0,0:40:54.16,0:40:56.66,Dialogue,,0,0,0,,Reel, reel, reel, reel!
+Dialogue: 0,0:40:56.75,0:40:57.83,Dialogue,,0,0,0,,Drop it!
+Dialogue: 0,0:41:05.13,0:41:06.64,Dialogue,,0,0,0,,Mizushima!
+Dialogue: 0,0:41:06.64,0:41:07.59,Dialogue,,0,0,0,,Ignition!
+Dialogue: 0,0:41:07.67,0:41:08.51,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,0:41:10.47,0:41:11.39,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:41:17.48,0:41:18.60,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:41:18.69,0:41:19.89,Dialogue,,0,0,0,,No way...
+Dialogue: 0,0:41:20.69,0:41:21.56,Dialogue,,0,0,0,,No way!
+Dialogue: 0,0:41:33.74,0:41:36.04,Dialogue,,0,0,0,,Get down!
+Dialogue: 0,0:41:59.27,0:42:00.60,Dialogue,,0,0,0,,Did we kill it?
+Dialogue: 0,0:42:08.87,0:42:09.61,Dialogue,,0,0,0,,No!
+Dialogue: 0,0:42:34.80,0:42:36.60,Dialogue,,0,0,0,,The Takao!
+Dialogue: 0,0:42:36.68,0:42:37.72,Dialogue,,0,0,0,,Just in time.
+Dialogue: 0,0:43:06.79,0:43:07.25,Dialogue,,0,0,0,,Crap...
+Dialogue: 0,0:43:27.94,0:43:29.77,Faint Dialogue,,0,0,0,,Can you shoot it again?
+Dialogue: 0,0:43:44.83,0:43:46.29,Dialogue,,0,0,0,,Did they do it?
+Dialogue: 0,0:43:57.39,0:43:58.22,Dialogue,,0,0,0,,What's that?
+Dialogue: 0,0:44:59.28,0:45:00.74,Dialogue,,0,0,0,,Have you finally woken up?
+Dialogue: 0,0:45:03.03,0:45:03.99,Dialogue,,0,0,0,,Where am I?
+Dialogue: 0,0:45:05.04,0:45:06.41,Dialogue,,0,0,0,,This is the Yokosuka Hospital.
+Dialogue: 0,0:45:06.50,0:45:08.16,Dialogue,,0,0,0,,You were sent here directly after what happened.
+Dialogue: 0,0:45:10.20,0:45:12.71,Dialogue,,0,0,0,,What about the people abord the Takao and Kaishinmaru?
+Dialogue: 0,0:45:18.17,0:45:20.09,Dialogue,,0,0,0,,Godzilla...
+Dialogue: 0,0:45:21.30,0:45:23.97,Dialogue,,0,0,0,,I see. Where did it go?
+Dialogue: 0,0:45:24.06,0:45:26.64,Dialogue,,0,0,0,,It's whereabouts are unknown.
+Dialogue: 0,0:45:26.72,0:45:28.77,Dialogue,,0,0,0,,Godzilla was heading towards Tōkyō.
+Dialogue: 0,0:45:28.85,0:45:30.10,Dialogue,,0,0,0,,If we don't hurry and issue the evacuation orders,
+Dialogue: 0,0:45:30.10,0:45:30.94,Dialogue,,0,0,0,,something bad will happen.
+Dialogue: 0,0:45:31.02,0:45:33.60,Dialogue,,0,0,0,,The government will be hiding this
+Dialogue: 0,0:45:33.60,0:45:34.57,Dialogue,,0,0,0,,information from the public.
+Dialogue: 0,0:45:35.15,0:45:36.98,Dialogue,,0,0,0,,Why aren't they telling everyone now?
+Dialogue: 0,0:45:36.98,0:45:39.74,Dialogue,,0,0,0,,Likely due to the fear of causing confusion.
+Dialogue: 0,0:45:39.82,0:45:41.95,Dialogue,,0,0,0,,Now isn't the time to say things like that!
+Dialogue: 0,0:45:42.03,0:45:43.78,Dialogue,,0,0,0,,If we don't evacuate now, then...
+Dialogue: 0,0:45:43.78,0:45:47.42,Dialogue,,0,0,0,,Nobody wants to be held responsible for the chaos
+Dialogue: 0,0:45:47.42,0:45:48.66,Dialogue,,0,0,0,,that will inevitably be caused.
+Dialogue: 0,0:45:48.75,0:45:51.58,Dialogue,,0,0,0,,Information control is this country's specialty.
+Dialogue: 0,0:46:00.55,0:46:02.64,Dialogue,,0,0,0,,What on earth happened?
+Dialogue: 0,0:46:04.18,0:46:06.89,Dialogue,,0,0,0,,Noriko-san, it has nothing to do with you.
+Dialogue: 0,0:46:08.98,0:46:11.52,Dialogue,,0,0,0,,What's bothering you so much, Kou-san?
+Dialogue: 0,0:46:14.15,0:46:16.51,Dialogue,,0,0,0,,With your help,
+Dialogue: 0,0:46:16.51,0:46:18.03,Dialogue,,0,0,0,,we've been living together to this day.
+Dialogue: 0,0:46:18.82,0:46:22.53,Dialogue,,0,0,0,,And yet I have no part of your life whatsoever?
+Dialogue: 0,0:46:29.95,0:46:33.62,Dialogue,,0,0,0,,If you're carrying a burden,
+Dialogue: 0,0:46:33.62,0:46:35.71,Dialogue,,0,0,0,,I'd like you to share it with me.
+Dialogue: 0,0:46:47.76,0:46:48.76,Dialogue,,0,0,0,,I'm...
+Dialogue: 0,0:46:51.14,0:46:52.14,Dialogue,,0,0,0,,I'm...
+Dialogue: 0,0:47:02.57,0:47:03.74,Dialogue,,0,0,0,,...one of the suicide attackers...
+Dialogue: 0,0:47:08.49,0:47:09.83,Dialogue,,0,0,0,,...who ran away.
+Dialogue: 0,0:47:11.62,0:47:12.46,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,0:47:13.16,0:47:14.69,Dialogue,,0,0,0,,On the day of the attack,
+Dialogue: 0,0:47:17.40,0:47:19.91,Dialogue,,0,0,0,,I pretended my plane malfunctioned...
+Dialogue: 0,0:47:22.10,0:47:23.56,Dialogue,,0,0,0,,...and landed...
+Dialogue: 0,0:47:25.22,0:47:26.89,Dialogue,,0,0,0,,...at a landing site on Ōdo Island.
+Dialogue: 0,0:47:40.23,0:47:41.07,Dialogue,,0,0,0,,These...
+Dialogue: 0,0:47:42.99,0:47:46.66,Dialogue,,0,0,0,,belonged to the maintenance crew there.
+Dialogue: 0,0:47:49.62,0:47:52.29,Dialogue,,0,0,0,,All of them died.
+Dialogue: 0,0:48:06.68,0:48:09.70,Dialogue,,0,0,0,,On that night,
+Dialogue: 0,0:48:09.70,0:48:12.68,Dialogue,,0,0,0,,a giant dinosaur-like monster appeared.
+Dialogue: 0,0:48:16.64,0:48:19.72,Dialogue,,0,0,0,,They asked me to shoot it down
+Dialogue: 0,0:48:19.72,0:48:21.51,Dialogue,,0,0,0,,with the machine gun from a Fighter Zero.
+Dialogue: 0,0:48:24.53,0:48:25.53,Dialogue,,0,0,0,,But I...
+Dialogue: 0,0:48:31.24,0:48:32.87,Dialogue,,0,0,0,,I ran away again.
+Dialogue: 0,0:48:34.70,0:48:38.50,Dialogue,,0,0,0,,As a result,
+Dialogue: 0,0:48:38.50,0:48:40.71,Dialogue,,0,0,0,,all of them were killed by the monster.
+Dialogue: 0,0:48:40.79,0:48:43.21,Dialogue,,0,0,0,,They all have should been able to see their families!
+Dialogue: 0,0:48:48.38,0:48:54.06,Dialogue,,0,0,0,,The monster was called "Godzilla."
+Dialogue: 0,0:48:58.77,0:49:01.73,Dialogue,,0,0,0,,And it appeared again.
+Dialogue: 0,0:49:04.57,0:49:05.99,Dialogue,,0,0,0,,But...
+Dialogue: 0,0:49:08.74,0:49:10.74,Dialogue,,0,0,0,,Once again, I couldn't do anything.
+Dialogue: 0,0:49:20.46,0:49:21.94,Dialogue,,0,0,0,,I'm really a person...
+Dialogue: 0,0:49:23.95,0:49:26.01,Dialogue,,0,0,0,,who doesn't deserve to be alive.
+Dialogue: 0,0:49:33.01,0:49:34.01,Dialogue,,0,0,0,,Kou-san...
+Dialogue: 0,0:49:36.68,0:49:40.85,Dialogue,,0,0,0,,Survivors are supposed to live proper lives.
+Dialogue: 0,0:49:40.94,0:49:42.81,Dialogue,,0,0,0,,What do you understand, Noriko-san?!
+Dialogue: 0,0:49:42.90,0:49:43.98,Dialogue,,0,0,0,,I understand!
+Dialogue: 0,0:49:45.11,0:49:47.30,Dialogue,,0,0,0,,My parents said "Live!" to me
+Dialogue: 0,0:49:47.30,0:49:48.78,Dialogue,,0,0,0,,as they were being burned in the fire.
+Dialogue: 0,0:49:49.86,0:49:51.17,Dialogue,,0,0,0,,Because of that,
+Dialogue: 0,0:49:51.17,0:49:53.70,Dialogue,,0,0,0,,I can't die, no matter what!
+Dialogue: 0,0:49:55.28,0:49:56.58,Dialogue,,0,0,0,,That's what I've been feeling.
+Dialogue: 0,0:50:09.42,0:50:10.67,Dialogue,,0,0,0,,It's impossible.
+Dialogue: 0,0:50:13.64,0:50:14.33,Dialogue,,0,0,0,,Those guys...
+Dialogue: 0,0:50:15.00,0:50:15.99,Dialogue,,0,0,0,,Every night, every night,
+Dialogue: 0,0:50:15.99,0:50:17.43,Dialogue,,0,0,0,,I dream about them!
+Dialogue: 0,0:50:17.97,0:50:19.85,Dialogue,,0,0,0,,"Come up here quickly," they say.
+Dialogue: 0,0:50:20.85,0:50:24.10,Dialogue,,0,0,0,,"How do you live your life so proudly?"
+Dialogue: 0,0:50:24.19,0:50:26.47,Dialogue,,0,0,0,,Those are dreams.
+Dialogue: 0,0:50:26.47,0:50:28.48,Dialogue,,0,0,0,,Illusions created by you, Kou-san.
+Dialogue: 0,0:50:28.57,0:50:29.00,Dialogue,,0,0,0,,First of all...
+Dialogue: 0,0:50:29.40,0:50:30.03,Dialogue,,0,0,0,,First of all...
+Dialogue: 0,0:50:31.65,0:50:34.16,Dialogue,,0,0,0,,Am I even alive?
+Dialogue: 0,0:50:36.62,0:50:38.62,Dialogue,,0,0,0,,I died on that island a long time ago...
+Dialogue: 0,0:50:39.37,0:50:40.45,Dialogue,,0,0,0,,Decaying...
+Dialogue: 0,0:50:42.46,0:50:47.80,Dialogue,,0,0,0,,Noriko-san and Akiko are looking at the corpse...
+Dialogue: 0,0:50:47.88,0:50:50.34,Dialogue,,0,0,0,,That's {\i1}definently{\i0} it!
+Dialogue: 0,0:50:50.42,0:50:52.13,Dialogue,,0,0,0,,You are alive!
+Dialogue: 0,0:50:56.55,0:50:58.56,Dialogue,,0,0,0,,Kou-san is alive!
+Dialogue: 0,0:51:02.69,0:51:03.85,Dialogue,,0,0,0,,Don't you understand?
+Dialogue: 0,0:51:18.12,0:51:20.83,Dialogue,,0,0,0,,Yes, hold the spoon.
+Dialogue: 0,0:51:21.58,0:51:24.46,Dialogue,,0,0,0,,Yes, gently, gently.
+Dialogue: 0,0:51:25.04,0:51:26.17,Dialogue,,0,0,0,,Wait, wait...
+Dialogue: 0,0:51:28.04,0:51:30.00,Dialogue,,0,0,0,,Yes, now stir the miso soup.
+Dialogue: 0,0:51:30.09,0:51:31.01,Dialogue,,0,0,0,,Yep.
+Dialogue: 0,0:51:31.09,0:51:32.84,Dialogue,,0,0,0,,Good, good.
+Dialogue: 0,0:51:33.47,0:51:35.43,Dialogue,,0,0,0,,Yes, we did it!
+Dialogue: 0,0:51:35.51,0:51:36.34,Dialogue,,0,0,0,,Yep!
+Dialogue: 0,0:51:37.64,0:51:40.18,Dialogue,,0,0,0,,Raddish. Akiko's favorite raddish.
+Dialogue: 0,0:51:40.26,0:51:41.18,Dialogue,,0,0,0,,Raddish.
+Dialogue: 0,0:51:41.27,0:51:42.47,Dialogue,,0,0,0,,Please give it a taste.
+Dialogue: 0,0:51:42.56,0:51:43.39,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:51:43.48,0:51:44.81,Dialogue,,0,0,0,,Yes, please.
+Dialogue: 0,0:51:47.48,0:51:48.65,Dialogue,,0,0,0,,Drink the soup...
+Dialogue: 0,0:51:48.73,0:51:49.73,Dialogue,,0,0,0,,Yes, the raddish.
+Dialogue: 0,0:51:51.44,0:51:52.48,Dialogue,,0,0,0,,Delicious.
+Dialogue: 0,0:51:52.57,0:51:54.53,Dialogue,,0,0,0,,Hot? Is it hot?
+Dialogue: 0,0:51:54.61,0:51:55.70,Dialogue,,0,0,0,,Yep!
+Dialogue: 0,0:51:56.82,0:51:58.74,Dialogue,,0,0,0,,Hey, aren't the raddishes delicious?
+Dialogue: 0,0:51:58.82,0:52:00.95,Dialogue,,0,0,0,,Yep, delicious!
+Dialogue: 0,0:52:02.54,0:52:03.54,Dialogue,,0,0,0,,Hey...
+Dialogue: 0,0:52:05.83,0:52:07.71,Dialogue,,0,0,0,,Is it okay if we end this?
+Dialogue: 0,0:52:14.92,0:52:16.84,Dialogue,,0,0,0,,I'd like to live again.
+Dialogue: 0,0:52:35.94,0:52:38.53,Dialogue,,0,0,0,,Is this an example of...
+Dialogue: 0,0:52:39.62,0:52:41.62,Dialogue,,0,0,0,,Hurry up and report it!
+Dialogue: 0,0:52:42.58,0:52:43.62,Dialogue,,0,0,0,,Hurry!
+Dialogue: 0,0:52:44.12,0:52:45.12,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,0:53:06.02,0:53:07.95,Dialogue,,0,0,0,,A costal defense ship from offshore partrol
+Dialogue: 0,0:53:07.95,0:53:10.98,Dialogue,,0,0,0,,reported a giant creature heading towards Tōkyō bay.
+Dialogue: 0,0:53:11.06,0:53:12.90,Dialogue,,0,0,0,,So, it'll be here soon, won't it?
+Dialogue: 0,0:53:15.32,0:53:15.65,Dialogue,,0,0,0,,What's up?
+Dialogue: 0,0:53:15.73,0:53:17.07,Dialogue,,0,0,0,,Is this even possible?
+Dialogue: 0,0:53:17.15,0:53:18.28,Dialogue,,0,0,0,,Is it here?
+Dialogue: 0,0:53:18.86,0:53:21.16,Dialogue,,0,0,0,,Is this really a living thing?
+Dialogue: 0,0:53:23.74,0:53:25.08,Dialogue,,0,0,0,,Tōkyō Bay Defense Line,
+Dialogue: 0,0:53:25.08,0:53:26.15,Dialogue,,0,0,0,,Should we blow up the 4th district to stop
+Dialogue: 0,0:53:26.15,0:53:28.75,Dialogue,,0,0,0,,the unidentified creature from intruding?
+Dialogue: 0,0:53:29.29,0:53:31.21,Dialogue,,0,0,0,,Just a little bit more.
+Dialogue: 0,0:53:35.38,0:53:37.09,Dialogue,,0,0,0,,It will soon enter the 4th district!
+Dialogue: 0,0:53:38.09,0:53:38.92,Dialogue,,0,0,0,,Now!
+Dialogue: 0,0:53:39.01,0:53:40.30,Dialogue,,0,0,0,,Detonate it!
+Dialogue: 0,0:53:42.76,0:53:43.60,Dialogue,,0,0,0,,Did we do it?
+Dialogue: 0,0:53:44.85,0:53:45.68,Dialogue,,0,0,0,,It's no good.
+Dialogue: 0,0:53:45.76,0:53:47.39,Dialogue,,0,0,0,,It didn't seem to work.
+Dialogue: 0,0:53:47.98,0:53:49.77,Dialogue,,0,0,0,,The blockade of Tōkyō Bay is a failure!
+Dialogue: 0,0:53:49.77,0:53:51.44,Dialogue,,0,0,0,,The monster is now heading towards Shinagawa.
+Dialogue: 0,0:53:52.02,0:53:53.86,Dialogue,,0,0,0,,It's extremely big!
+Dialogue: 0,0:54:00.34,0:54:00.90,Dialogue,,0,0,0,,Thanks.
+Dialogue: 0,0:54:13.33,0:54:17.21,Dialogue,,0,0,0,,{\i1}Breaking news, breaking news!{\i0}
+Dialogue: 0,0:54:17.30,0:54:19.85,Dialogue,,0,0,0,,{\i1}A giant creature in the Tōkyō Bay{\i0}
+Dialogue: 0,0:54:19.85,0:54:21.76,Dialogue,,0,0,0,,{\i1}is heading towards ginza.{\i0}
+Dialogue: 0,0:54:21.84,0:54:23.30,Dialogue,,0,0,0,,{\i1}If you are in Ginza,{\i0}
+Dialogue: 0,0:54:23.30,0:54:25.14,Dialogue,,0,0,0,,{\i1}please follow instructions from the police{\i0}
+Dialogue: 0,0:54:25.14,0:54:26.47,Dialogue,,0,0,0,,{\i1}and begin evacuating immediately.{\i0}
+Dialogue: 0,0:54:27.14,0:54:28.02,Dialogue,,0,0,0,,{\i1}This is real.{\i0}
+Dialogue: 0,0:54:28.10,0:54:29.35,Dialogue,,0,0,0,,Ginza...
+Dialogue: 0,0:54:36.73,0:54:38.27,Dialogue,,0,0,0,,Are you injured?
+Dialogue: 0,0:55:13.19,0:55:14.19,Dialogue,,0,0,0,,Hey, what is that?
+Dialogue: 0,0:55:14.27,0:55:15.10,Dialogue,,0,0,0,,What happened?
+Dialogue: 0,0:55:15.10,0:55:15.56,Dialogue,,0,0,0,,What's up?
+Dialogue: 0,0:55:33.83,0:55:34.79,Dialogue,,0,0,0,,That's...
+Dialogue: 0,0:55:35.79,0:55:36.75,Dialogue,,0,0,0,,...Godzilla?
+Dialogue: 0,0:56:54.83,0:56:57.33,Dialogue,,0,0,0,,An unbelievable sight is unfolding!
+Dialogue: 0,0:56:57.41,0:56:59.12,Dialogue,,0,0,0,,An incredibly large creature is
+Dialogue: 0,0:56:59.12,0:57:03.13,Dialogue,,0,0,0,,rampaging through Ginza!
+Dialogue: 0,0:57:04.21,0:57:07.22,Dialogue,,0,0,0,,The Nichigeki is beying destroyed right now.
+Dialogue: 0,0:57:07.30,0:57:10.29,Dialogue,,0,0,0,,All those memories and plays, the Nichigeki...
+Dialogue: 0,0:57:10.29,0:57:14.10,Dialogue,,0,0,0,,That Nippon Gekijō is now crumbling before our eyes!
+Dialogue: 0,0:57:15.06,0:57:17.31,Dialogue,,0,0,0,,Ah, what a thing to say!
+Dialogue: 0,0:57:17.39,0:57:18.82,Dialogue,,0,0,0,,The town of Ginza,
+Dialogue: 0,0:57:18.82,0:57:20.27,Dialogue,,0,0,0,,which survived the air raids from the last war,
+Dialogue: 0,0:57:20.35,0:57:22.61,Dialogue,,0,0,0,,is now reduced to a pile of rubble!
+Dialogue: 0,0:57:22.69,0:57:24.12,Dialogue,,0,0,0,,Ah, what?
+Dialogue: 0,0:57:24.12,0:57:26.44,Dialogue,,0,0,0,,The monster is approaching this direction.
+Dialogue: 0,0:57:26.53,0:57:27.40,Dialogue,,0,0,0,,Right now,
+Dialogue: 0,0:57:27.40,0:57:29.10,Dialogue,,0,0,0,,the face of a giant monster is passing
+Dialogue: 0,0:57:29.10,0:57:31.78,Dialogue,,0,0,0,,before our very eyes.
+Dialogue: 0,0:57:32.37,0:57:34.66,Dialogue,,0,0,0,,It has become very dangerous here as well.
+Dialogue: 0,0:57:47.92,0:57:49.05,Faint Dialogue,,0,0,0,,Hurry and run away!
+Dialogue: 0,0:57:58.60,0:57:59.48,Faint Dialogue,,0,0,0,,You're in the way!
+Dialogue: 0,0:58:08.82,0:58:09.82,Dialogue,,0,0,0,,Stand up!
+Dialogue: 0,0:58:10.32,0:58:11.14,Dialogue,,0,0,0,,Kou-san!
+Dialogue: 0,0:58:11.14,0:58:13.37,Dialogue,,0,0,0,,It's no good if you die, hurry!
+Dialogue: 0,0:58:57.94,0:58:58.62,Dialogue,,0,0,0,,Hooray!
+Dialogue: 0,0:59:41.50,0:59:42.87,Dialogue,,0,0,0,,This is...
+Dialogue: 0,0:59:44.08,0:59:45.25,Dialogue,,0,0,0,,...the same as that time.
+Dialogue: 0,1:00:39.39,1:00:40.30,Dialogue,,0,0,0,,Noriko?
+Dialogue: 0,1:00:43.06,1:00:43.89,Dialogue,,0,0,0,,Noriko?
+Dialogue: 0,1:00:46.96,1:00:47.19,Dialogue,,0,0,0,,Nori...
+Dialogue: 0,1:02:24.78,1:02:27.66,Dialogue,,0,0,0,,{\i1}The damaged caused by the creature is around{\i0}
+Dialogue: 0,1:02:27.66,1:02:29.78,Dialogue,,0,0,0,,{\i1}thirty-thousand killed or injured,{\i0}
+Dialogue: 0,1:02:29.78,1:02:33.63,Dialogue,,0,0,0,,{\i1}and over twenty-thousand buildings destroyed.{\i0}
+Dialogue: 0,1:02:34.13,1:02:36.84,Dialogue,,0,0,0,,{\i1}Rescue efforts have been going on since the disaster.{\i0}
+Dialogue: 0,1:02:36.92,1:02:40.96,Dialogue,,0,0,0,,{\i1}It seems to be difficult to trace the creature{\i0}
+Dialogue: 0,1:02:40.96,1:02:42.34,Dialogue,,0,0,0,,{\i1}due to the possible risk of radiation.{\i0}
+Dialogue: 0,1:02:42.97,1:02:44.62,Dialogue,,0,0,0,,{\i1}In addition, around various places in Ginza,{\i0}
+Dialogue: 0,1:02:44.62,1:02:47.30,Dialogue,,0,0,0,,{\i1}what seems to be the giant creature's flesh has been found{\i0}
+Dialogue: 0,1:02:47.30,1:02:51.98,Dialogue,,0,0,0,,{\i1}and the police are working night and day to dispose of it.{\i0}
+Dialogue: 0,1:02:52.06,1:02:54.23,Dialogue,,0,0,0,,{\i1}The center of Ginza is sealed off.{\i0}
+Dialogue: 0,1:03:09.66,1:03:11.31,Dialogue,,0,0,0,,Things have turned out so badly...
+Dialogue: 0,1:03:16.70,1:03:18.21,Dialogue,,0,0,0,,What about Akiko now?
+Dialogue: 0,1:03:20.55,1:03:21.49,Dialogue,,0,0,0,,When we're in trouble,
+Dialogue: 0,1:03:21.49,1:03:22.92,Dialogue,,0,0,0,,we help each other out.
+Dialogue: 0,1:03:23.93,1:03:24.84,Dialogue,,0,0,0,,Aki-chan.
+Dialogue: 0,1:03:27.89,1:03:28.89,Dialogue,,0,0,0,,Hey.
+Dialogue: 0,1:03:29.60,1:03:31.43,Dialogue,,0,0,0,,When your otō-chan isn't around,
+Dialogue: 0,1:03:31.43,1:03:33.02,Dialogue,,0,0,0,,you like to come over to your oba-chan's, right?
+Dialogue: 0,1:03:33.64,1:03:35.56,Dialogue,,0,0,0,,Where's okaa-chan?
+Dialogue: 0,1:03:41.69,1:03:42.94,Dialogue,,0,0,0,,Okaa-chan...
+Dialogue: 0,1:03:43.86,1:03:47.50,Dialogue,,0,0,0,,She's away on a trip for work,
+Dialogue: 0,1:03:47.50,1:03:49.49,Dialogue,,0,0,0,,so you'll be with your oba-chan for a while.
+Dialogue: 0,1:04:36.79,1:04:39.75,Dialogue,,0,0,0,,So you're not going to forgive me?
+Dialogue: 0,1:04:46.76,1:04:47.72,Dialogue,,0,0,0,,It's because...
+Dialogue: 0,1:04:49.72,1:04:51.64,Dialogue,,0,0,0,,I had a stupid dream.
+Dialogue: 0,1:05:06.65,1:05:07.65,Dialogue,,0,0,0,,Shiki-san...
+Dialogue: 0,1:05:09.45,1:05:12.67,Dialogue,,0,0,0,,A secret operation to defeat Godzilla
+Dialogue: 0,1:05:12.67,1:05:15.04,Dialogue,,0,0,0,,is actually underway.
+Dialogue: 0,1:05:16.75,1:05:18.29,Dialogue,,0,0,0,,It's a very unsettling...
+Dialogue: 0,1:05:19.46,1:05:21.75,Dialogue,,0,0,0,,...civillian-led initiative but...
+Dialogue: 0,1:05:25.26,1:05:26.46,Dialogue,,0,0,0,,Would you like to participate in it?
+Dialogue: 0,1:05:42.36,1:05:44.77,Dialogue,,0,0,0,,Everyone here is...
+Dialogue: 0,1:05:44.86,1:05:47.36,Dialogue,,0,0,0,,Yes, formerly a marine.
+Dialogue: 0,1:05:47.44,1:05:48.45,Dialogue,,0,0,0,,You know a lot.
+Dialogue: 0,1:06:09.13,1:06:13.14,Dialogue,,0,0,0,,I'm Hotta, the former captain of the Yukikaze.
+Dialogue: 0,1:06:13.68,1:06:15.68,Dialogue,,0,0,0,,As you all know,
+Dialogue: 0,1:06:15.76,1:06:17.67,Dialogue,,0,0,0,,Right now, Tōkyō was attacked
+Dialogue: 0,1:06:17.67,1:06:19.60,Dialogue,,0,0,0,,by a giant and mysterious creature,
+Dialogue: 0,1:06:19.68,1:06:21.60,Dialogue,,0,0,0,,causing an unprecedented crisis.
+Dialogue: 0,1:06:22.19,1:06:23.60,Dialogue,,0,0,0,,However,
+Dialogue: 0,1:06:23.60,1:06:25.11,Dialogue,,0,0,0,,we do not have a military to protect
+Dialogue: 0,1:06:25.11,1:06:26.77,Dialogue,,0,0,0,,the citizens of this country.
+Dialogue: 0,1:06:27.28,1:06:30.55,Dialogue,,0,0,0,,It was found that military action from GHQ
+Dialogue: 0,1:06:30.55,1:06:33.14,Dialogue,,0,0,0,,would be highly unlikely due to the risk of provoking
+Dialogue: 0,1:06:33.14,1:06:34.70,Dialogue,,0,0,0,,the Soviet forces on the continent.
+Dialogue: 0,1:06:35.83,1:06:37.10,Dialogue,,0,0,0,,In other words,
+Dialogue: 0,1:06:37.10,1:06:41.62,Dialogue,,0,0,0,,We must face that monster with civillian power alone.
+Dialogue: 0,1:06:43.00,1:06:45.92,Dialogue,,0,0,0,,It is for that purpose that we have gathered you all here.
+Dialogue: 0,1:06:46.25,1:06:47.51,Dialogue,,0,0,0,,As a result of negotiations,
+Dialogue: 0,1:06:47.51,1:06:49.86,Dialogue,,0,0,0,,they have promised to provide four destroyers that
+Dialogue: 0,1:06:49.86,1:06:52.88,Dialogue,,0,0,0,,that were going to be given to the allies.
+Dialogue: 0,1:06:54.72,1:06:55.89,Dialogue,,0,0,0,,Are you...
+Dialogue: 0,1:06:56.89,1:06:58.93,Dialogue,,0,0,0,,...saying we have to go on a ship again?
+Dialogue: 0,1:06:59.52,1:07:01.31,Dialogue,,0,0,0,,I saw that in Ginza.
+Dialogue: 0,1:07:01.94,1:07:03.73,Dialogue,,0,0,0,,I can't beat that type of thing.
+Dialogue: 0,1:07:03.81,1:07:06.23,Dialogue,,0,0,0,,After all,
+Dialogue: 0,1:07:06.31,1:07:07.90,Dialogue,,0,0,0,,disarmed ships can't fight back properly!
+Dialogue: 0,1:07:07.98,1:07:08.20,Dialogue,,0,0,0,,Yeah!
+Dialogue: 0,1:07:08.20,1:07:09.45,Dialogue,,0,0,0,,How are we supposed to fight?
+Dialogue: 0,1:07:10.52,1:07:11.70,Dialogue,,0,0,0,,Well regarding those matters,
+Dialogue: 0,1:07:11.70,1:07:13.49,Dialogue,,0,0,0,,please allow me to explain to you.
+Dialogue: 0,1:07:14.11,1:07:15.28,Dialogue,,0,0,0,,Noda-san?
+Dialogue: 0,1:07:16.49,1:07:17.16,Dialogue,,0,0,0,,This time...
+Dialogue: 0,1:07:20.45,1:07:21.45,Dialogue,,0,0,0,,Sorry about that...
+Dialogue: 0,1:07:22.75,1:07:24.46,Dialogue,,0,0,0,,This time, the person who devised the plan...
+Dialogue: 0,1:07:24.54,1:07:27.54,Dialogue,,0,0,0,,...is me, former Navy technical officer Noda Kenji.
+Dialogue: 0,1:07:27.63,1:07:29.63,Dialogue,,0,0,0,,First of all,
+Dialogue: 0,1:07:30.72,1:07:32.77,Dialogue,,0,0,0,,according to the legend from Ōdo Island,
+Dialogue: 0,1:07:32.77,1:07:34.30,Dialogue,,0,0,0,,this monster is called Godzilla.
+Dialogue: 0,1:07:34.38,1:07:38.93,Dialogue,,0,0,0,,Godzilla takes almost no damage from normal firemarms.
+Dialogue: 0,1:07:39.01,1:07:40.31,Dialogue,,0,0,0,,I saw it right before my eyes.
+Dialogue: 0,1:07:40.39,1:07:44.39,Dialogue,,0,0,0,,It even got hit by Heavy Cruiser Takao's main gun,
+Dialogue: 0,1:07:44.39,1:07:46.31,Dialogue,,0,0,0,,but it quickly regenerated.
+Dialogue: 0,1:07:48.94,1:07:50.36,Dialogue,,0,0,0,,So in secret,
+Dialogue: 0,1:07:50.44,1:07:53.24,Dialogue,,0,0,0,,I came up with another solution.
+Dialogue: 0,1:07:55.36,1:07:56.50,Dialogue,,0,0,0,,First,
+Dialogue: 0,1:07:56.50,1:07:57.82,Dialogue,,0,0,0,,I'm going to show you a simple experiment.
+Dialogue: 0,1:07:58.41,1:07:59.70,Dialogue,,0,0,0,,The water in here is salt water with
+Dialogue: 0,1:07:59.70,1:08:01.66,Dialogue,,0,0,0,,the same concentration as seawater.
+Dialogue: 0,1:08:01.74,1:08:04.30,Dialogue,,0,0,0,,This Godzilla-like wood has a weight attached to it
+Dialogue: 0,1:08:04.30,1:08:06.83,Dialogue,,0,0,0,,so that it just barely floats.
+Dialogue: 0,1:08:06.92,1:08:07.65,Dialogue,,0,0,0,,In this state,
+Dialogue: 0,1:08:07.65,1:08:09.54,Dialogue,,0,0,0,,What happens if we pumped freon gas into the tube,
+Dialogue: 0,1:08:09.63,1:08:11.75,Dialogue,,0,0,0,,covering the piece of wood with bubbles?
+Dialogue: 0,1:08:11.84,1:08:13.63,Dialogue,,0,0,0,,What happens?
+Dialogue: 0,1:08:13.72,1:08:15.20,Dialogue,,0,0,0,,Whether or not bubbles comes out,
+Dialogue: 0,1:08:15.20,1:08:15.93,Dialogue,,0,0,0,,it'll still float.
+Dialogue: 0,1:08:16.01,1:08:17.28,Dialogue,,0,0,0,,Yeah, that's obvious.
+Dialogue: 0,1:08:18.64,1:08:19.97,Dialogue,,0,0,0,,That's what you'd think, right?
+Dialogue: 0,1:08:26.85,1:08:27.57,Faint Dialogue,,0,0,0,,It sunk!
+Dialogue: 0,1:08:30.23,1:08:32.57,Dialogue,,0,0,0,,The bubbles from the freon gas enclose the wood
+Dialogue: 0,1:08:32.65,1:08:34.94,Dialogue,,0,0,0,,and prevent it from coming in contact with the seawater.
+Dialogue: 0,1:08:35.03,1:08:37.59,Dialogue,,0,0,0,,My plan is that this time, we use this to sink Godzilla,
+Dialogue: 0,1:08:37.59,1:08:40.49,Dialogue,,0,0,0,,the monster that attacked Tōkyō, to the bottom of the sea.
+Dialogue: 0,1:08:40.58,1:08:41.63,Dialogue,,0,0,0,,Hey,
+Dialogue: 0,1:08:42.10,1:08:44.95,Dialogue,,0,0,0,,the Acedemic is a surprisingly awesome guy, isn't he?
+Dialogue: 0,1:08:59.05,1:09:00.15,Dialogue,,0,0,0,,As you know,
+Dialogue: 0,1:09:00.15,1:09:02.63,Dialogue,,0,0,0,,Sagami Trench off of the coast is more than
+Dialogue: 0,1:09:02.63,1:09:03.72,Dialogue,,0,0,0,,1500 meters deep,
+Dialogue: 0,1:09:03.72,1:09:06.23,Dialogue,,0,0,0,,an incredible depth for waters off the coast.
+Dialogue: 0,1:09:06.31,1:09:07.46,Dialogue,,0,0,0,,Our current plan is to attach
+Dialogue: 0,1:09:07.46,1:09:10.19,Dialogue,,0,0,0,,a large number of freon gas tanks to Godzilla,
+Dialogue: 0,1:09:10.27,1:09:11.76,Dialogue,,0,0,0,,and at the same time,
+Dialogue: 0,1:09:11.76,1:09:13.73,Dialogue,,0,0,0,,have them envelop it with a curtain of foam.
+Dialogue: 0,1:09:13.82,1:09:15.03,Dialogue,,0,0,0,,Within a short period of time,
+Dialogue: 0,1:09:15.29,1:09:17.29,Dialogue,,0,0,0,,it will sink into Sagami Trench
+Dialogue: 0,1:09:17.29,1:09:18.53,Dialogue,,0,0,0,,and the pressure will kill it.
+Dialogue: 0,1:09:21.87,1:09:24.16,Dialogue,,0,0,0,,We'll kill Godzilla with the power of the ocean.
+Dialogue: 0,1:09:25.16,1:09:25.80,Dialogue,,0,0,0,,This is...
+Dialogue: 0,1:09:26.77,1:09:28.71,Dialogue,,0,0,0,,...the outline of Operation Wadatsumi.
+Dialogue: 0,1:09:29.83,1:09:31.08,Dialogue,,0,0,0,,That thing came from the see.
+Dialogue: 0,1:09:31.17,1:09:33.75,Dialogue,,0,0,0,,It isn't bothered by the deep water pressure.
+Dialogue: 0,1:09:35.13,1:09:36.78,Dialogue,,0,0,0,,According to my calculations,
+Dialogue: 0,1:09:36.78,1:09:38.38,Dialogue,,0,0,0,,after about 25 seconds,
+Dialogue: 0,1:09:38.38,1:09:41.72,Dialogue,,0,0,0,,1500 tons will be exerted per square meter.
+Dialogue: 0,1:09:41.80,1:09:44.10,Dialogue,,0,0,0,,Even creatures that can normally survive in the deep sea
+Dialogue: 0,1:09:44.18,1:09:47.10,Dialogue,,0,0,0,,cannot with stand these types of rapid pressure changes.
+Dialogue: 0,1:09:47.18,1:09:48.06,Dialogue,,0,0,0,,That and...
+Dialogue: 0,1:09:49.27,1:09:51.44,Dialogue,,0,0,0,,Can you absolutely kill Godzilla?
+Dialogue: 0,1:09:53.98,1:09:57.24,Dialogue,,0,0,0,,There's a lot we don't know about Godzilla's ecology,
+Dialogue: 0,1:09:57.32,1:09:58.67,Dialogue,,0,0,0,,so we can only create countermeasures against it
+Dialogue: 0,1:09:58.67,1:09:59.45,Dialogue,,0,0,0,,based on our predictions.
+Dialogue: 0,1:10:00.82,1:10:02.00,Dialogue,,0,0,0,,That's bullcrap, isn't it?
+Dialogue: 0,1:10:03.53,1:10:05.30,Dialogue,,0,0,0,,However, since artillery fire is ineffective,
+Dialogue: 0,1:10:05.30,1:10:06.08,Dialogue,,0,0,0,,this is the best solution.
+Dialogue: 0,1:10:06.16,1:10:07.12,Dialogue,,0,0,0,,Can you kill him?
+Dialogue: 0,1:10:07.12,1:10:08.33,Dialogue,,0,0,0,,Or can you not?
+Dialogue: 0,1:10:11.37,1:10:13.29,Dialogue,,0,0,0,,I can't say for sure.
+Dialogue: 0,1:10:15.84,1:10:16.67,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,1:10:17.30,1:10:18.67,Dialogue,,0,0,0,,There is a possibility!
+Dialogue: 0,1:10:23.93,1:10:24.93,Dialogue,,0,0,0,,Shiki-san...
+Dialogue: 0,1:10:26.64,1:10:28.10,Dialogue,,0,0,0,,Listen until the end!
+Dialogue: 0,1:10:45.41,1:10:48.08,Dialogue,,0,0,0,,Now, for a detailed explanation,
+Dialogue: 0,1:10:53.12,1:10:55.83,Dialogue,,0,0,0,,Using two destroyers,
+Dialogue: 0,1:10:55.83,1:10:57.04,Dialogue,,0,0,0,,we'll wrap the cable around Godzilla.
+Dialogue: 0,1:10:58.05,1:10:59.94,Dialogue,,0,0,0,,The cable is already equipped with
+Dialogue: 0,1:10:59.94,1:11:03.76,Dialogue,,0,0,0,,a large amount of freon gas tanks.
+Dialogue: 0,1:11:06.01,1:11:08.19,Dialogue,,0,0,0,,As soon as it's wrapped around Godzilla,
+Dialogue: 0,1:11:08.19,1:11:09.47,Dialogue,,0,0,0,,all of the foam releases,
+Dialogue: 0,1:11:10.64,1:11:14.81,Dialogue,,0,0,0,,and Godzilla is pulled down 1500 meters into the deep sea.
+Dialogue: 0,1:11:14.90,1:11:16.48,Dialogue,,0,0,0,,But what if that doesn't work?
+Dialogue: 0,1:11:16.56,1:11:18.15,Dialogue,,0,0,0,,Then we have a backup plan.
+Dialogue: 0,1:11:19.48,1:11:20.80,Dialogue,,0,0,0,,Everyone,
+Dialogue: 0,1:11:20.80,1:11:22.40,Dialogue,,0,0,0,,please look at the courtyard.
+Dialogue: 0,1:11:40.76,1:11:41.59,Dialogue,,0,0,0,,Deploy!
+Dialogue: 0,1:11:47.47,1:11:50.14,Dialogue,,0,0,0,,I'm Itagaki from Tōyō Baloon.
+Dialogue: 0,1:11:50.22,1:11:53.98,Dialogue,,0,0,0,,What you just saw is an inflatable floatation device
+Dialogue: 0,1:11:53.98,1:11:57.81,Dialogue,,0,0,0,,inspired by the ones installed on former Naval aircraft.
+Dialogue: 0,1:11:57.90,1:12:01.24,Dialogue,,0,0,0,,This so-called floating bag gains buoyancy by having
+Dialogue: 0,1:12:01.24,1:12:03.11,Dialogue,,0,0,0,,Carbon Dioxide blown into the air sacs.
+Dialogue: 0,1:12:04.90,1:12:07.12,Dialogue,,0,0,0,,Now, this can bring Godzilla,
+Dialogue: 0,1:12:07.12,1:12:08.44,Dialogue,,0,0,0,,who will have reached the bottom of the ocean,
+Dialogue: 0,1:12:08.44,1:12:10.45,Dialogue,,0,0,0,,all the way back up to the surface.
+Dialogue: 0,1:12:10.54,1:12:13.10,Dialogue,,0,0,0,,Even if it is able to withstand high pressure,
+Dialogue: 0,1:12:13.10,1:12:15.21,Dialogue,,0,0,0,,I don't think it will be able to withstand
+Dialogue: 0,1:12:15.21,1:12:17.17,Dialogue,,0,0,0,,the massive decompression that will follow it.
+Dialogue: 0,1:12:17.25,1:12:18.40,Dialogue,,0,0,0,,Of course,
+Dialogue: 0,1:12:18.40,1:12:21.55,Dialogue,,0,0,0,,I cannot say for sure that we will defeat it.
+Dialogue: 0,1:12:21.63,1:12:24.01,Dialogue,,0,0,0,,But the only thing we can do now is what we can.
+Dialogue: 0,1:12:29.51,1:12:31.51,Dialogue,,0,0,0,,To all those who survived the war,
+Dialogue: 0,1:12:32.22,1:12:35.50,Dialogue,,0,0,0,,I am sorry to ask you to take on a
+Dialogue: 0,1:12:35.50,1:12:37.49,Dialogue,,0,0,0,,life-threatening mission again,
+Dialogue: 0,1:12:37.49,1:12:38.10,Dialogue,,0,0,0,,but...
+Dialogue: 0,1:12:38.40,1:12:39.69,Dialogue,,0,0,0,,I want you to understand.
+Dialogue: 0,1:12:40.31,1:12:42.09,Dialogue,,0,0,0,,Now that neither the Japanese government
+Dialogue: 0,1:12:42.09,1:12:43.44,Dialogue,,0,0,0,,nor American government can help us out,
+Dialogue: 0,1:12:44.15,1:12:45.74,Dialogue,,0,0,0,,we are the only ones who can shape
+Dialogue: 0,1:12:45.74,1:12:47.20,Dialogue,,0,0,0,,the future for this country.
+Dialogue: 0,1:12:50.41,1:12:51.66,Dialogue,,0,0,0,,It's impossible.
+Dialogue: 0,1:12:53.58,1:12:55.45,Dialogue,,0,0,0,,I have a family.
+Dialogue: 0,1:12:55.54,1:12:56.82,Dialogue,,0,0,0,,I just can't do it.
+Dialogue: 0,1:12:56.82,1:12:58.42,Dialogue,,0,0,0,,That goes for most people here.
+Dialogue: 0,1:12:59.21,1:13:00.87,Dialogue,,0,0,0,,Why are we the only ones
+Dialogue: 0,1:13:00.87,1:13:02.92,Dialogue,,0,0,0,,drawing the short straws?
+Dialogue: 0,1:13:04.34,1:13:06.76,Dialogue,,0,0,0,,I don't want this to be like the war.
+Dialogue: 0,1:13:13.06,1:13:14.22,Dialogue,,0,0,0,,Quiet down.
+Dialogue: 0,1:13:14.31,1:13:15.79,Dialogue,,0,0,0,,Everyone,
+Dialogue: 0,1:13:15.79,1:13:17.06,Dialogue,,0,0,0,,I want you to listen carefully.
+Dialogue: 0,1:13:17.98,1:13:19.73,Dialogue,,0,0,0,,This is not an order.
+Dialogue: 0,1:13:20.27,1:13:23.32,Dialogue,,0,0,0,,Those with personal situations are free to leave.
+Dialogue: 0,1:13:24.23,1:13:27.36,Dialogue,,0,0,0,,We have no right to stop you from doing so.
+Dialogue: 0,1:13:51.64,1:13:52.64,Dialogue,,0,0,0,,This...
+Dialogue: 0,1:13:54.31,1:13:56.31,Dialogue,,0,0,0,,We're not going to die for sure, right?
+Dialogue: 0,1:13:57.35,1:13:58.73,Dialogue,,0,0,0,,Of course not!
+Dialogue: 0,1:14:01.15,1:14:02.27,Dialogue,,0,0,0,,Well,
+Dialogue: 0,1:14:02.27,1:14:04.15,Dialogue,,0,0,0,,then it's much better than wartime!
+Dialogue: 0,1:14:07.32,1:14:09.11,Dialogue,,0,0,0,,Someone has to do it.
+Dialogue: 0,1:14:09.99,1:14:11.95,Dialogue,,0,0,0,,It can't be helped, can it?
+Dialogue: 0,1:14:12.03,1:14:14.33,Dialogue,,0,0,0,,Without us, the ships won't be able to move.
+Dialogue: 0,1:14:14.41,1:14:16.79,Dialogue,,0,0,0,,That's right!
+Dialogue: 0,1:14:16.87,1:14:18.73,Dialogue,,0,0,0,,All right!
+Dialogue: 0,1:14:18.73,1:14:19.58,Dialogue,,0,0,0,,Let's do it!
+Dialogue: 0,1:14:28.88,1:14:30.09,Dialogue,,0,0,0,,Everyone...
+Dialogue: 0,1:14:32.43,1:14:33.72,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,1:14:43.19,1:14:44.90,Dialogue,,0,0,0,,But...
+Dialogue: 0,1:14:44.98,1:14:47.20,Dialogue,,0,0,0,,I still can't believe you're the one who
+Dialogue: 0,1:14:47.20,1:14:48.30,Dialogue,,0,0,0,,planned this type of operation.
+Dialogue: 0,1:14:49.30,1:14:51.78,Dialogue,,0,0,0,,I've encountered Godzilla in real life.
+Dialogue: 0,1:14:51.86,1:14:54.53,Dialogue,,0,0,0,,That's why they gave me the green light.
+Dialogue: 0,1:14:54.62,1:14:58.08,Dialogue,,0,0,0,,They called us in for the same reason, didn't they?
+Dialogue: 0,1:14:59.48,1:15:01.08,Dialogue,,0,0,0,,Do you think it'll return?
+Dialogue: 0,1:15:02.30,1:15:05.58,Dialogue,,0,0,0,,Due to just recently landing in Tōkyō,
+Dialogue: 0,1:15:05.67,1:15:08.67,Dialogue,,0,0,0,,you can see it as an addition to Godzilla's territory.
+Dialogue: 0,1:15:08.75,1:15:09.96,Dialogue,,0,0,0,,Worst case scenario...
+Dialogue: 0,1:15:10.76,1:15:13.80,Dialogue,,0,0,0,,Godzilla appears again within the next ten days.
+Dialogue: 0,1:15:13.88,1:15:15.14,Dialogue,,0,0,0,,That's early!
+Dialogue: 0,1:15:15.22,1:15:15.81,Dialogue,,0,0,0,,Apparently,
+Dialogue: 0,1:15:15.81,1:15:18.14,Dialogue,,0,0,0,,they've placed lots of radition-detecting buoys.
+Dialogue: 0,1:15:18.22,1:15:21.06,Dialogue,,0,0,0,,We can't soley rely on our eyes to detect it.
+Dialogue: 0,1:15:21.14,1:15:23.60,Dialogue,,0,0,0,,First off, if you set a trap for it,
+Dialogue: 0,1:15:23.60,1:15:24.70,Dialogue,,0,0,0,,are you expecting it to come up and say,
+Dialogue: 0,1:15:24.70,1:15:25.56,Dialogue,,0,0,0,,"Oh, it that the case?"
+Dialogue: 0,1:15:26.11,1:15:27.19,Dialogue,,0,0,0,,That's it.
+Dialogue: 0,1:15:27.27,1:15:28.36,Dialogue,,0,0,0,,Hey, that's impossible.
+Dialogue: 0,1:15:28.44,1:15:30.18,Dialogue,,0,0,0,,Please don't make fun of me.
+Dialogue: 0,1:15:30.18,1:15:32.32,Dialogue,,0,0,0,,I'm thinking about it carefully.
+Dialogue: 0,1:15:34.70,1:15:36.30,Dialogue,,0,0,0,,There's an loudspeaker that's used for
+Dialogue: 0,1:15:36.30,1:15:37.58,Dialogue,,0,0,0,,underwater acoustic minesweeping.
+Dialogue: 0,1:15:37.66,1:15:39.08,Dialogue,,0,0,0,,Using that,
+Dialogue: 0,1:15:39.16,1:15:41.54,Dialogue,,0,0,0,,we'll play back the recorded sound of Godzilla
+Dialogue: 0,1:15:41.54,1:15:42.37,Dialogue,,0,0,0,,from his most recent appearance.
+Dialogue: 0,1:15:42.46,1:15:43.54,Dialogue,,0,0,0,,The sound of Godzilla?
+Dialogue: 0,1:15:43.62,1:15:44.50,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,1:15:44.58,1:15:47.31,Dialogue,,0,0,0,,Godzilla will chase after another being because
+Dialogue: 0,1:15:47.31,1:15:48.71,Dialogue,,0,0,0,,it'll feel like it's territory is being invaded.
+Dialogue: 0,1:15:49.25,1:15:50.09,Dialogue,,0,0,0,,At least he should.
+Dialogue: 0,1:15:50.17,1:15:51.59,Dialogue,,0,0,0,,"Should?"
+Dialogue: 0,1:15:51.67,1:15:53.47,Dialogue,,0,0,0,,It's always "should."
+Dialogue: 0,1:15:53.55,1:15:55.14,Dialogue,,0,0,0,,And what's even the point of that...
+Dialogue: 0,1:15:55.14,1:15:56.64,Dialogue,,0,0,0,,levitation-floating-device-thing?
+Dialogue: 0,1:15:56.72,1:15:59.51,Dialogue,,0,0,0,,I don't feel like it's gonna work.
+Dialogue: 0,1:15:59.60,1:16:01.85,Dialogue,,0,0,0,,Then what are you saying I should do?
+Dialogue: 0,1:16:01.93,1:16:02.31,Dialogue,,0,0,0,,Yes, yes!
+Dialogue: 0,1:16:03.14,1:16:05.23,Dialogue,,0,0,0,,How about we use a destroyer to pull it up?
+Dialogue: 0,1:16:05.31,1:16:06.69,Dialogue,,0,0,0,,Don't say stupid things.
+Dialogue: 0,1:16:06.69,1:16:08.44,Dialogue,,0,0,0,,Godzilla weighs around 20,000 tons.
+Dialogue: 0,1:16:08.52,1:16:10.73,Dialogue,,0,0,0,,The thrust of two destroyers just isn't enough.
+Dialogue: 0,1:16:13.86,1:16:17.24,Dialogue,,0,0,0,,In a nutshell, your plan is full of holes.
+Dialogue: 0,1:16:18.07,1:16:19.70,Dialogue,,0,0,0,,If you're going to say those types of things,
+Dialogue: 0,1:16:19.70,1:16:21.95,Dialogue,,0,0,0,,then please provide an alternative plan.
+Dialogue: 0,1:16:24.21,1:16:25.41,Dialogue,,0,0,0,,Noda-san.
+Dialogue: 0,1:16:27.21,1:16:28.49,Dialogue,,0,0,0,,Do you have any connections
+Dialogue: 0,1:16:29.56,1:16:30.59,Dialogue,,0,0,0,,to fighter jets somewhere?
+Dialogue: 0,1:16:31.46,1:16:32.59,Dialogue,,0,0,0,,Fighter jets?
+Dialogue: 0,1:16:32.67,1:16:34.80,Dialogue,,0,0,0,,In the unlikely event it appears on land,
+Dialogue: 0,1:16:34.88,1:16:36.00,Dialogue,,0,0,0,,we can anger it with gunfire
+Dialogue: 0,1:16:36.00,1:16:37.43,Dialogue,,0,0,0,,and lure it back to Sagami Bay.
+Dialogue: 0,1:16:38.05,1:16:39.17,Dialogue,,0,0,0,,After they were disarmed,
+Dialogue: 0,1:16:39.17,1:16:40.57,Dialogue,,0,0,0,,all of them were burned down,
+Dialogue: 0,1:16:40.57,1:16:40.97,Dialogue,,0,0,0,,the Japanese fighter jets.
+Dialogue: 0,1:16:41.60,1:16:43.25,Dialogue,,0,0,0,,Even if there were some left,
+Dialogue: 0,1:16:43.25,1:16:45.31,Dialogue,,0,0,0,,it breathes Heat Rays.
+Dialogue: 0,1:16:45.39,1:16:47.49,Dialogue,,0,0,0,,Guiding it with an aircraft would be
+Dialogue: 0,1:16:47.49,1:16:48.23,Dialogue,,0,0,0,,a very dangerous job.
+Dialogue: 0,1:16:48.31,1:16:50.31,Dialogue,,0,0,0,,I don't care if it's dangerous.
+Dialogue: 0,1:16:50.40,1:16:54.07,Dialogue,,0,0,0,,Fighter jets are more mobile than ships anyways.
+Dialogue: 0,1:16:54.15,1:16:57.07,Dialogue,,0,0,0,,Are you aiming to get shot down on purpose?
+Dialogue: 0,1:16:57.15,1:16:58.84,Dialogue,,0,0,0,,Are you just...
+Dialogue: 0,1:16:58.84,1:17:00.45,Dialogue,,0,0,0,,Desperate?
+Dialogue: 0,1:17:02.32,1:17:02.95,Dialogue,,0,0,0,,Are you drunk?
+Dialogue: 0,1:17:03.54,1:17:06.00,Dialogue,,0,0,0,,You just want to avenge Nori-chan.
+Dialogue: 0,1:17:07.16,1:17:08.25,Dialogue,,0,0,0,,And you've got a problem with that, don't you?
+Dialogue: 0,1:17:08.33,1:17:10.29,Dialogue,,0,0,0,,Now that...
+Dialogue: 0,1:17:12.46,1:17:13.78,Dialogue,,0,0,0,,Why didn't you take Nori-chan as your wife
+Dialogue: 0,1:17:13.78,1:17:16.17,Dialogue,,0,0,0,,before all this happened?
+Dialogue: 0,1:17:16.26,1:17:18.05,Dialogue,,0,0,0,,You knew how she felt about it, didn't you?
+Dialogue: 0,1:17:18.13,1:17:20.89,Dialogue,,0,0,0,,I wanted to do that too!
+Dialogue: 0,1:17:21.97,1:17:23.97,Dialogue,,0,0,0,,So why?
+Dialogue: 0,1:17:26.06,1:17:27.10,Dialogue,,0,0,0,,My...
+Dialogue: 0,1:17:33.82,1:17:36.03,Dialogue,,0,0,0,,war hasn't ended.
+Dialogue: 0,1:18:01.34,1:18:02.97,Dialogue,,0,0,0,,There were fighter jets?
+Dialogue: 0,1:18:03.05,1:18:05.89,Dialogue,,0,0,0,,Yep, but it's a very special one...
+Dialogue: 0,1:18:25.20,1:18:27.60,Dialogue,,0,0,0,,It's a local fighter jet designed
+Dialogue: 0,1:18:27.60,1:18:29.15,Dialogue,,0,0,0,,near the end of the war
+Dialogue: 0,1:18:29.15,1:18:30.25,Dialogue,,0,0,0,,called The Shinden.
+Dialogue: 0,1:18:31.46,1:18:33.96,Dialogue,,0,0,0,,Specially designed for hit-and-run bombing attacks.
+Dialogue: 0,1:18:34.04,1:18:36.05,Dialogue,,0,0,0,,The maximum speed is over 400 knots.
+Dialogue: 0,1:18:36.71,1:18:38.16,Dialogue,,0,0,0,,It has a canard design,
+Dialogue: 0,1:18:38.16,1:18:39.42,Dialogue,,0,0,0,,and it's equipped with four 30mm guns.
+Dialogue: 0,1:18:39.51,1:18:42.18,Dialogue,,0,0,0,,It's an innovative aircraft
+Dialogue: 0,1:18:42.18,1:18:43.75,Dialogue,,0,0,0,,that boasts exceptional weaponary
+Dialogue: 0,1:18:43.75,1:18:45.39,Dialogue,,0,0,0,,and incorporates many new inventions.
+Dialogue: 0,1:18:46.39,1:18:47.87,Dialogue,,0,0,0,,Apparently, only a few prototypes
+Dialogue: 0,1:18:47.87,1:18:49.93,Dialogue,,0,0,0,,were ever actually deployed in combat.
+Dialogue: 0,1:18:50.43,1:18:51.93,Dialogue,,0,0,0,,They were deployed here
+Dialogue: 0,1:18:51.93,1:18:53.89,Dialogue,,0,0,0,,for the final battle on the mainland,
+Dialogue: 0,1:18:53.89,1:18:55.19,Dialogue,,0,0,0,,but they were forgotten about
+Dialogue: 0,1:18:55.19,1:18:56.86,Dialogue,,0,0,0,,in the confusion after the war.
+Dialogue: 0,1:18:57.61,1:19:00.72,Dialogue,,0,0,0,,Since it was left unattended for so long,
+Dialogue: 0,1:19:00.72,1:19:01.57,Dialogue,,0,0,0,,the aircraft often goes rattle-rattle.
+Dialogue: 0,1:19:02.74,1:19:05.16,Dialogue,,0,0,0,,I can't fly it like this...
+Dialogue: 0,1:19:05.24,1:19:06.70,Dialogue,,0,0,0,,That's the problem.
+Dialogue: 0,1:19:06.78,1:19:08.33,Dialogue,,0,0,0,,A good mechanic...
+Dialogue: 0,1:19:08.41,1:19:09.62,Dialogue,,0,0,0,,No...
+Dialogue: 0,1:19:09.62,1:19:11.10,Dialogue,,0,0,0,,A person who can repair this aircraft
+Dialogue: 0,1:19:11.10,1:19:12.33,Dialogue,,0,0,0,,is what we need.
+Dialogue: 0,1:19:14.83,1:19:18.46,Dialogue,,0,0,0,,I have a person in mind.
+Dialogue: 0,1:19:21.09,1:19:25.51,Dialogue,,0,0,0,,Former Ōdo Island Mechanic Tachibana Sōsaku-san?
+Dialogue: 0,1:19:25.59,1:19:26.51,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,1:19:26.60,1:19:29.39,Dialogue,,0,0,0,,Tachibana, Tachibana, Tachibana, Tachibana...
+Dialogue: 0,1:19:30.89,1:19:33.23,Dialogue,,0,0,0,,He currently doesn't have an address registered.
+Dialogue: 0,1:19:33.31,1:19:34.23,Dialogue,,0,0,0,,I see.
+Dialogue: 0,1:19:34.31,1:19:37.44,Dialogue,,0,0,0,,We get tons of requests to look for people every day.
+Dialogue: 0,1:19:37.52,1:19:39.69,Dialogue,,0,0,0,,It'll take a while for us to find him.
+Dialogue: 0,1:19:39.78,1:19:42.61,Dialogue,,0,0,0,,I need to talk to him about some very urgent matters!
+Dialogue: 0,1:19:42.70,1:19:44.18,Dialogue,,0,0,0,,You're in a difficult situation.
+Dialogue: 0,1:19:44.18,1:19:45.57,Dialogue,,0,0,0,,Even if you say that...
+Dialogue: 0,1:19:45.66,1:19:46.53,Onegaishimasu,,0,0,0,,Please!
+Dialogue: 0,1:19:46.88,1:19:47.70,Dialogue,,0,0,0,,Just do it!
+Dialogue: 0,1:19:47.78,1:19:50.12,Dialogue,,0,0,0,,The survival of the country depends on it!
+Dialogue: 0,1:19:50.20,1:19:51.83,Dialogue,,0,0,0,,Even if that's true,
+Dialogue: 0,1:19:51.83,1:19:53.58,Dialogue,,0,0,0,,I can't do what's not possible.
+Dialogue: 0,1:19:53.66,1:19:54.50,Dialogue,,0,0,0,,I'm sorry.
+Dialogue: 0,1:19:54.58,1:19:55.92,Dialogue,,0,0,0,,Well then...
+Dialogue: 0,1:19:56.75,1:19:58.42,Dialogue,,0,0,0,,Do you know which unit Tachibana belonged to
+Dialogue: 0,1:19:58.42,1:20:01.42,Dialogue,,0,0,0,,before he switched over to Ōdo Island?
+Dialogue: 0,1:20:08.89,1:20:11.14,Dialogue,,0,0,0,,I'm doing all that I can...
+Dialogue: 0,1:20:11.22,1:20:15.39,Dialogue,,0,0,0,,But I can't get in touch with Tachibana-san.
+Dialogue: 0,1:20:16.60,1:20:17.68,Dialogue,,0,0,0,,There are many other excellent
+Dialogue: 0,1:20:17.68,1:20:19.32,Dialogue,,0,0,0,,former maintenance personnel.
+Dialogue: 0,1:20:19.40,1:20:21.36,Dialogue,,0,0,0,,Why don't you just try a different one?
+Dialogue: 0,1:20:21.44,1:20:23.11,Dialogue,,0,0,0,,Please give me a little more time.
+Dialogue: 0,1:20:24.82,1:20:27.11,Dialogue,,0,0,0,,Why are you so obsessed with that person?
+Dialogue: 0,1:20:27.20,1:20:29.28,Dialogue,,0,0,0,,There's no telling when Godzilla will return.
+Dialogue: 0,1:20:29.37,1:20:31.29,Dialogue,,0,0,0,,It's no good if it's not Tachibana!
+Dialogue: 0,1:20:32.29,1:20:34.29,Dialogue,,0,0,0,,He's gonna recieve my message soon.
+Dialogue: 0,1:20:35.62,1:20:36.87,Onegaishimasu,,0,0,0,,Please!
+Dialogue: 0,1:21:04.37,1:21:05.70,Dialogue,,0,0,0,,Tachibana...
+Dialogue: 0,1:21:06.70,1:21:08.58,Dialogue,,0,0,0,,Tachibana-san!
+Dialogue: 0,1:21:08.58,1:21:09.24,Dialogue,,0,0,0,,It's you, Tachibana-san!
+Dialogue: 0,1:21:14.04,1:21:16.04,Dialogue,,0,0,0,,What's the meaning of this?
+Dialogue: 0,1:21:19.71,1:21:20.79,Dialogue,,0,0,0,,Ah!
+Dialogue: 0,1:21:23.25,1:21:25.92,Dialogue,,0,0,0,,You're saying the deaths on Ōdo Island
+Dialogue: 0,1:21:25.92,1:21:27.76,Dialogue,,0,0,0,,were all my fault?
+Dialogue: 0,1:21:29.80,1:21:31.43,Dialogue,,0,0,0,,What's up with that?
+Dialogue: 0,1:21:32.18,1:21:33.26,Dialogue,,0,0,0,,Sorry...
+Dialogue: 0,1:21:34.26,1:21:35.87,Dialogue,,0,0,0,,I knew that if I said that,
+Dialogue: 0,1:21:35.87,1:21:39.27,Dialogue,,0,0,0,,you'd get angry and come over here.
+Dialogue: 0,1:21:39.77,1:21:40.81,Dialogue,,0,0,0,,Shame on you!
+Dialogue: 0,1:21:43.65,1:21:45.65,Dialogue,,0,0,0,,That thing that attacked Ginza...
+Dialogue: 0,1:21:46.69,1:21:47.69,Dialogue,,0,0,0,,was...
+Dialogue: 0,1:21:49.41,1:21:50.86,Dialogue,,0,0,0,,Godzilla from Ōdo Island.
+Dialogue: 0,1:21:58.96,1:22:02.88,Dialogue,,0,0,0,,Our fighter jets need to be upgraded.
+Dialogue: 0,1:22:02.96,1:22:04.80,Dialogue,,0,0,0,,That way, I'll be able to defeat it!
+Dialogue: 0,1:22:05.67,1:22:07.97,Dialogue,,0,0,0,,I really needed to meet up with you...
+Dialogue: 0,1:22:07.97,1:22:10.38,Dialogue,,0,0,0,,so I could ask you do do that!
+Dialogue: 0,1:22:10.88,1:22:13.51,Dialogue,,0,0,0,,That's why I sent the fake letters.
+Dialogue: 0,1:22:15.56,1:22:16.85,Dialogue,,0,0,0,,Please forgive me!
+Dialogue: 0,1:22:22.73,1:22:24.11,Dialogue,,0,0,0,,Do whatever you want.
+Dialogue: 0,1:22:25.57,1:22:27.32,Dialogue,,0,0,0,,There's no way I'm gonna help you.
+Dialogue: 0,1:22:28.32,1:22:28.90,Dialogue,,0,0,0,,Tachibana-san!
+Dialogue: 0,1:22:29.12,1:22:31.24,Dialogue,,0,0,0,,Please wait, Tachibana-san!
+Dialogue: 0,1:22:31.78,1:22:32.60,Dialogue,,0,0,0,,Please wait for a second!
+Dialogue: 0,1:22:33.00,1:22:33.95,Dialogue,,0,0,0,,{\i1}Tachibana-san!{\i0}
+Dialogue: 0,1:22:34.03,1:22:36.41,Dialogue,,0,0,0,,There's something I'd like for you to do.
+Dialogue: 0,1:22:36.49,1:22:40.16,Dialogue,,0,0,0,,Something that only {\i1}you{\i0} can do, Tachibana-san.
+Dialogue: 0,1:22:42.08,1:22:44.67,Dialogue,,0,0,0,,I once detonated a mine inside of Godzilla's mouth.
+Dialogue: 0,1:22:44.75,1:22:46.63,Dialogue,,0,0,0,,It was far more effective than the guns on the Takao.
+Dialogue: 0,1:22:46.71,1:22:49.36,Dialogue,,0,0,0,,He's weak to attacks from the inside.
+Dialogue: 0,1:22:49.36,1:22:49.63,Dialogue,,0,0,0,,Do you understand?
+Dialogue: 0,1:22:52.09,1:22:53.22,Dialogue,,0,0,0,,You...
+Dialogue: 0,1:22:54.64,1:22:56.46,Dialogue,,0,0,0,,I'm going to take a fighter jet full of bombs
+Dialogue: 0,1:22:56.46,1:22:57.89,Dialogue,,0,0,0,,and fly it into that thing's mouth.
+Dialogue: 0,1:22:57.97,1:22:59.89,Dialogue,,0,0,0,,That will definently kill it!
+Dialogue: 0,1:23:06.86,1:23:08.03,Dialogue,,0,0,0,,A suicide attack?
+Dialogue: 0,1:23:10.57,1:23:11.84,Dialogue,,0,0,0,,Your war...
+Dialogue: 0,1:23:15.43,1:23:17.33,Dialogue,,0,0,0,,...isn't over either.
+Dialogue: 0,1:23:20.54,1:23:23.67,Dialogue,,0,0,0,,Ah, so you fell down?
+Dialogue: 0,1:23:23.75,1:23:24.58,Dialogue,,0,0,0,,Ow!
+Dialogue: 0,1:23:24.67,1:23:27.38,Dialogue,,0,0,0,,It's swelling up again pretty badly.
+Dialogue: 0,1:23:28.56,1:23:31.38,Dialogue,,0,0,0,,It's a little embarrassing since I was drunk.
+Dialogue: 0,1:23:31.47,1:23:33.51,Dialogue,,0,0,0,,I don't really remember what happened.
+Dialogue: 0,1:23:33.59,1:23:35.20,Dialogue,,0,0,0,,Well, it's no wonder you were so excited after
+Dialogue: 0,1:23:35.20,1:23:36.30,Dialogue,,0,0,0,,finding Tachibana-san, who you were
+Dialogue: 0,1:23:36.30,1:23:38.76,Dialogue,,0,0,0,,very particular about wanting.
+Dialogue: 0,1:23:39.97,1:23:41.98,Dialogue,,0,0,0,,A canard aircraft?
+Dialogue: 0,1:23:43.10,1:23:45.60,Dialogue,,0,0,0,,I heard rumors about it, it actually was built?
+Dialogue: 0,1:23:47.94,1:23:49.07,Dialogue,,0,0,0,,Tachibana-san.
+Dialogue: 0,1:23:49.86,1:23:52.24,Dialogue,,0,0,0,,Everyone, thank you for coming!
+Dialogue: 0,1:23:52.32,1:23:54.32,Dialogue,,0,0,0,,Are you Tachibana-san?
+Dialogue: 0,1:23:57.95,1:23:58.59,Dialogue,,0,0,0,,Is this...
+Dialogue: 0,1:23:59.60,1:24:01.83,Dialogue,,0,0,0,,The legendary local fighter jet Shinden?
+Dialogue: 0,1:24:01.91,1:24:02.87,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,1:24:02.87,1:24:05.25,Dialogue,,0,0,0,,Can you fix it so we can fly it?
+Dialogue: 0,1:24:08.67,1:24:11.00,Dialogue,,0,0,0,,We'll try everything we can.
+Dialogue: 0,1:24:11.51,1:24:12.76,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,1:24:13.92,1:24:14.70,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,1:24:15.96,1:24:16.43,Dialogue,,0,0,0,,Thank you.
+Dialogue: 0,1:24:34.82,1:24:35.95,Dialogue,,0,0,0,,What's wrong?
+Dialogue: 0,1:24:36.66,1:24:38.57,Dialogue,,0,0,0,,If you make a face like that, planner-sama,
+Dialogue: 0,1:24:38.57,1:24:39.53,Dialogue,,0,0,0,,it's bad for morale.
+Dialogue: 0,1:24:40.03,1:24:41.95,Dialogue,,0,0,0,,I know I made this operation, but...
+Dialogue: 0,1:24:42.04,1:24:44.12,Dialogue,,0,0,0,,I started to feel like it would
+Dialogue: 0,1:24:44.12,1:24:46.33,Dialogue,,0,0,0,,take a miracle for the operation to succeed.
+Dialogue: 0,1:24:46.42,1:24:47.75,Dialogue,,0,0,0,,Even so...
+Dialogue: 0,1:24:47.83,1:24:49.14,Dialogue,,0,0,0,,The miracle won't happen
+Dialogue: 0,1:24:49.14,1:24:50.84,Dialogue,,0,0,0,,if you don't do anything.
+Dialogue: 0,1:24:51.40,1:24:52.38,Dialogue,,0,0,0,,That's true, isn't it?
+Dialogue: 0,1:24:53.17,1:24:54.19,Dialogue,,0,0,0,,And look at that.
+Dialogue: 0,1:24:55.16,1:24:55.92,Dialogue,,0,0,0,,They're smiling.
+Dialogue: 0,1:24:57.68,1:24:59.55,Dialogue,,0,0,0,,They aren't idiots.
+Dialogue: 0,1:24:59.64,1:25:01.30,Dialogue,,0,0,0,,They know well that this is a tough operation
+Dialogue: 0,1:25:01.30,1:25:02.93,Dialogue,,0,0,0,,that risks their lives.
+Dialogue: 0,1:25:03.64,1:25:04.60,Dialogue,,0,0,0,,Even so...
+Dialogue: 0,1:25:05.77,1:25:10.31,Dialogue,,0,0,0,,Everyone looks so happy.
+Dialogue: 0,1:25:11.11,1:25:14.03,Dialogue,,0,0,0,,Maybe this time, they can be helpful.
+Dialogue: 0,1:25:15.32,1:25:17.45,Dialogue,,0,0,0,,Be helpful...
+Dialogue: 0,1:25:19.32,1:25:21.70,Dialogue,,0,0,0,,We all survived the war.
+Dialogue: 0,1:25:22.45,1:25:23.25,Dialogue,,0,0,0,,That's why I said,
+Dialogue: 0,1:25:24.53,1:25:25.95,Dialogue,,0,0,0,,"this time."
+Dialogue: 0,1:25:41.14,1:25:42.18,Dialogue,,0,0,0,,Hurry up!
+Dialogue: 0,1:25:45.72,1:25:47.39,Dialogue,,0,0,0,,Please make room.
+Dialogue: 0,1:25:48.23,1:25:50.17,Dialogue,,0,0,0,,1 hour ago,
+Dialogue: 0,1:25:50.17,1:25:52.50,Dialogue,,0,0,0,,off of the East Coast of Hacijō Island
+Dialogue: 0,1:25:52.50,1:25:56.15,Dialogue,,0,0,0,,at 33°10'N 140°01'E,
+Dialogue: 0,1:25:56.23,1:25:27.90,Dialogue,,0,0,0,,It was reported that the installed Geiger counters
+Dialogue: 0,1:25:27.90,1:25:59.78,Dialogue,,0,0,0,,have detected a reaction.
+Dialogue: 0,1:26:00.32,1:26:03.87,Dialogue,,0,0,0,,And then here and here.
+Dialogue: 0,1:26:19.30,1:26:20.93,Dialogue,,0,0,0,,Godzilla's approaching.
+Dialogue: 0,1:26:23.35,1:26:25.43,Dialogue,,0,0,0,,Reverse-calculating from this speed,
+Dialogue: 0,1:26:25.51,1:26:28.82,Dialogue,,0,0,0,,Godzilla will arrive at the trench off the coast
+Dialogue: 0,1:26:28.82,1:26:29.81,Dialogue,,0,0,0,,Sagami Bay at 11:00 in the morning.
+Dialogue: 0,1:26:29.89,1:26:31.44,Dialogue,,0,0,0,,In order to confront it,
+Dialogue: 0,1:26:31.52,1:26:35.23,Dialogue,,0,0,0,,we will depart tomorrow morning at 8:00.
+Dialogue: 0,1:26:37.65,1:26:38.53,Dialogue,,0,0,0,,However...
+Dialogue: 0,1:26:39.11,1:26:41.49,Dialogue,,0,0,0,,Will the device be completed by then?
+Dialogue: 0,1:26:42.91,1:26:44.87,Dialogue,,0,0,0,,Please take us with you.
+Dialogue: 0,1:26:44.95,1:26:47.41,Dialogue,,0,0,0,,The three hours it takes to reach the site are precious.
+Dialogue: 0,1:26:47.49,1:26:49.25,Dialogue,,0,0,0,,As an engineer, I want it to be perfect.
+Dialogue: 0,1:26:49.33,1:26:49.97,Dialogue,,0,0,0,,But...
+Dialogue: 0,1:26:50.62,1:26:52.92,Dialogue,,0,0,0,,You might get stuck in the fight with Godzilla.
+Dialogue: 0,1:26:53.92,1:26:55.75,Dialogue,,0,0,0,,We all came back from the war too.
+Dialogue: 0,1:27:01.88,1:27:02.63,Dialogue,,0,0,0,,Everyone,
+Dialogue: 0,1:27:03.52,1:27:04.53,Dialogue,,0,0,0,,if possible,
+Dialogue: 0,1:27:05.01,1:27:06.51,Dialogue,,0,0,0,,please go home tonight
+Dialogue: 0,1:27:07.30,1:27:08.85,Dialogue,,0,0,0,,and spend time with your families.
+Dialogue: 0,1:27:10.48,1:27:11.89,Dialogue,,0,0,0,,Are you saying to be prepared?
+Dialogue: 0,1:27:17.11,1:27:18.40,Dialogue,,0,0,0,,If you think about it...
+Dialogue: 0,1:27:19.40,1:27:20.18,Dialogue,,0,0,0,,If you think about it,
+Dialogue: 0,1:27:20.18,1:27:23.99,Dialogue,,0,0,0,,this country has wasted too many lives.
+Dialogue: 0,1:27:25.12,1:27:27.20,Dialogue,,0,0,0,,Tanks with vulnerable armor...
+Dialogue: 0,1:27:28.08,1:27:30.38,Dialogue,,0,0,0,,Due to negligance of supplies,
+Dialogue: 0,1:27:30.38,1:27:32.24,Dialogue,,0,0,0,,most deaths in battle
+Dialogue: 0,1:27:32.24,1:27:34.17,Dialogue,,0,0,0,,are from starvation and disease.
+Dialogue: 0,1:27:35.67,1:27:40.59,Dialogue,,0,0,0,,The fighters didn't even have basic escape methods,
+Dialogue: 0,1:27:42.30,1:27:46.34,Dialogue,,0,0,0,,in the end being suicide attacks and gyokusai...
+Dialogue: 0,1:27:42.30,1:27:46.34,TL Notes,,0,0,0,,TL Note: Gyokusai means "suicide" or "honorable death."
+Dialogue: 0,1:27:48.35,1:27:49.97,Dialogue,,0,0,0,,So this time...
+Dialogue: 0,1:27:52.10,1:27:54.29,Dialogue,,0,0,0,,I want to be proud of this civillian-led operation
+Dialogue: 0,1:27:56.64,1:27:59.48,Dialogue,,0,0,0,,for not having a single casualty.
+Dialogue: 0,1:28:01.90,1:28:03.95,Dialogue,,0,0,0,,The battle this time,
+Dialogue: 0,1:28:04.20,1:28:06.28,Dialogue,,0,0,0,,It's not a fight to the death.
+Dialogue: 0,1:28:07.62,1:28:10.12,Dialogue,,0,0,0,,It's a fight to live in the future.
+Dialogue: 0,1:28:14.54,1:28:15.96,Dialogue,,0,0,0,,Let's do it!
+Dialogue: 0,1:28:22.88,1:28:25.58,Dialogue,,0,0,0,,It's finally happening tomorrow!
+Dialogue: 0,1:28:25.58,1:28:26.51,Dialogue,,0,0,0,,I'm trembling with excitement!
+Dialogue: 0,1:28:26.59,1:28:28.14,Dialogue,,0,0,0,,You're not coming with us.
+Dialogue: 0,1:28:30.60,1:28:31.56,Dialogue,,0,0,0,,What do you mean?
+Dialogue: 0,1:28:31.64,1:28:35.02,Dialogue,,0,0,0,,Well, that arm isn't gonna do you any good.
+Dialogue: 0,1:28:35.64,1:28:37.56,Dialogue,,0,0,0,,Shikishima's going too, right?
+Dialogue: 0,1:28:38.15,1:28:39.94,Dialogue,,0,0,0,,Is it because I don't have any war experience?
+Dialogue: 0,1:28:40.02,1:28:42.19,Dialogue,,0,0,0,,Do you really think I'm useless?
+Dialogue: 0,1:28:42.28,1:28:48.16,Dialogue,,0,0,0,,Kid, you're lucky that you didn't go to war.
+Dialogue: 0,1:28:54.83,1:28:56.92,Dialogue,,0,0,0,,I want to protect this country too!
+Dialogue: 0,1:29:00.42,1:29:02.42,Dialogue,,0,0,0,,Why can't I come with you?
+Dialogue: 0,1:29:04.88,1:29:07.88,Dialogue,,0,0,0,,We've been together for a while now!
+Dialogue: 0,1:29:09.51,1:29:10.72,Dialogue,,0,0,0,,Please!
+Dialogue: 0,1:29:11.93,1:29:13.52,Dialogue,,0,0,0,,Please take me with you too!
+Dialogue: 0,1:29:14.22,1:29:16.06,Dialogue,,0,0,0,,I want to go with you too!
+Dialogue: 0,1:29:16.14,1:29:18.73,Dialogue,,0,0,0,,I leave this country to you.
+Dialogue: 0,1:29:18.85,1:29:20.52,Dialogue,,0,0,0,,Captain!
+Dialogue: 0,1:29:20.61,1:29:22.07,Dialogue,,0,0,0,,Noda-san!
+Dialogue: 0,1:29:52.60,1:29:55.52,Dialogue,,0,0,0,,See you, Aki-chan.
+Dialogue: 0,1:30:05.73,1:30:08.86,Dialogue,,0,0,0,,Thank you for everything.
+Dialogue: 0,1:30:22.29,1:30:24.61,Dialogue,,0,0,0,,Akiko.
+Dialogue: 0,1:30:24.61,1:30:26.17,Dialogue,,0,0,0,,Did you have fun at oba-chan's house?
+Dialogue: 0,1:30:26.25,1:30:27.67,Dialogue,,0,0,0,,It was fun.
+Dialogue: 0,1:30:27.76,1:30:29.21,Dialogue,,0,0,0,,I see.
+Dialogue: 0,1:30:29.21,1:30:30.13,Dialogue,,0,0,0,,That's good.
+Dialogue: 0,1:30:34.72,1:30:36.01,Dialogue,,0,0,0,,Are you giving that to me?
+Dialogue: 0,1:30:37.77,1:30:38.85,Dialogue,,0,0,0,,Thanks.
+Dialogue: 0,1:30:44.65,1:30:45.82,Dialogue,,0,0,0,,Akiko.
+Dialogue: 0,1:30:45.90,1:30:46.86,Dialogue,,0,0,0,,Hmm?
+Dialogue: 0,1:30:46.94,1:30:51.07,Dialogue,,0,0,0,,Is this okaa-chan and me and you, Akiko?
+Dialogue: 0,1:30:52.41,1:30:54.57,Dialogue,,0,0,0,,Okaa's in it, too.
+Dialogue: 0,1:30:55.83,1:30:56.79,Dialogue,,0,0,0,,I see.
+Dialogue: 0,1:30:58.41,1:30:59.79,Dialogue,,0,0,0,,You drew it well.
+Dialogue: 0,1:31:10.76,1:31:12.84,Dialogue,,0,0,0,,Why are you making that face?
+Dialogue: 0,1:31:17.60,1:31:19.02,Dialogue,,0,0,0,,What's wrong?
+Dialogue: 0,1:31:19.52,1:31:20.56,Dialogue,,0,0,0,,Akiko.
+Dialogue: 0,1:31:21.56,1:31:23.44,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,1:31:25.48,1:32:29.33,Dialogue,,0,0,0,,Hey, it's okay!
+Dialogue: 0,1:32:29.33,1:31:30.40,Dialogue,,0,0,0,,I'm not going anywhere...
+Dialogue: 0,1:32:46.98,1:32:48.27,Dialogue,,0,0,0,,Tachibana-san.
+Dialogue: 0,1:32:50.23,1:32:51.32,Dialogue,,0,0,0,,Can you deploy it?
+Dialogue: 0,1:32:55.33,1:32:56.28,Dialogue,,0,0,0,,I'll get it ready now.
+Dialogue: 0,1:33:08.42,1:33:09.75,Dialogue,,0,0,0,,The ordered bomb.
+Dialogue: 0,1:33:11.34,1:33:13.15,Dialogue,,0,0,0,,Two machine guns, 140 kilograms,
+Dialogue: 0,1:33:13.15,1:33:15.59,Dialogue,,0,0,0,,120 rounds, 80 kilograms, and...
+Dialogue: 0,1:33:16.09,1:33:17.10,Dialogue,,0,0,0,,One of the main fuel tanks,
+Dialogue: 0,1:33:17.10,1:33:18.47,Dialogue,,0,0,0,,400 kilograms, was removed.
+Dialogue: 0,1:33:19.34,1:33:21.29,Dialogue,,0,0,0,,Instead, this plane was fitted with a No. 25 bomb
+Dialogue: 0,1:33:21.29,1:33:23.85,Dialogue,,0,0,0,,in the nose and a No. 50 bomb in the fuselage.
+Dialogue: 0,1:33:25.60,1:33:28.10,Dialogue,,0,0,0,,Now, I can finally repay my debt.
+Dialogue: 0,1:33:42.62,1:33:43.83,Dialogue,,0,0,0,,It's funny...
+Dialogue: 0,1:33:48.54,1:33:50.54,Dialogue,,0,0,0,,I feel like I want to live.
+Dialogue: 0,1:33:55.34,1:33:57.80,Dialogue,,0,0,0,,Those who died that day felt like that too.
+Dialogue: 0,1:33:59.05,1:34:00.84,Dialogue,,0,0,0,,Everyone wanted to come back alive.
+Dialogue: 0,1:34:02.51,1:34:06.04,Dialogue,,0,0,0,,But their wishes weren't granted.
+Dialogue: 0,1:34:06.04,1:34:07.85,Dialogue,,0,0,0,,They were killed like insects.
+Dialogue: 0,1:34:10.15,1:34:11.23,Dialogue,,0,0,0,,I understand.
+Dialogue: 0,1:34:34.50,1:34:36.88,Dialogue,,0,0,0,,The kid who drew this is named "Akiko."
+Dialogue: 0,1:34:38.88,1:34:40.88,Dialogue,,0,0,0,,I want you to protect her future.
+Dialogue: 0,1:34:45.35,1:34:47.49,Dialogue,,0,0,0,,I'll kill Godzilla no matter what,
+Dialogue: 0,1:34:47.49,1:34:48.89,Dialogue,,0,0,0,,even if it means I have to kill myself.
+Dialogue: 0,1:34:49.89,1:34:51.98,Dialogue,,0,0,0,,It seems like you finally made up your mind.
+Dialogue: 0,1:34:54.31,1:34:56.67,Dialogue,,0,0,0,,All right,
+Dialogue: 0,1:34:56.67,1:34:57.94,Dialogue,,0,0,0,,I'm gonna tell you something important.
+Dialogue: 0,1:34:58.86,1:34:59.86,Dialogue,,0,0,0,,Look.
+Dialogue: 0,1:35:01.20,1:35:03.20,Dialogue,,0,0,0,,This is the bomb's safety device.
+Dialogue: 0,1:35:03.91,1:35:05.70,Dialogue,,0,0,0,,Pull it out right before you plunge into him.
+Dialogue: 0,1:35:05.78,1:35:06.70,Dialogue,,0,0,0,,Okay?
+Dialogue: 0,1:35:08.87,1:35:10.16,Dialogue,,0,0,0,,And...
+Dialogue: 0,1:35:19.46,1:35:21.47,Dialogue,,0,0,0,,Aki-chan.
+Dialogue: 0,1:35:23.84,1:35:26.43,Dialogue,,0,0,0,,What's wrong? Are you lonely?
+Dialogue: 0,1:35:27.56,1:35:28.56,Dialogue,,0,0,0,,Here.
+Dialogue: 0,1:36:01.67,1:36:03.88,Dialogue,,0,0,0,,Otō-chan...
+Dialogue: 0,1:36:05.01,1:36:06.55,Dialogue,,0,0,0,,Hmm? Otō-chan?
+Dialogue: 0,1:36:07.43,1:36:08.72,Dialogue,,0,0,0,,Otō-chan...
+Dialogue: 0,1:36:09.56,1:36:11.52,Dialogue,,0,0,0,,It's okay, it's okay.
+Dialogue: 0,1:36:29.16,1:36:33.66,Dialogue,,0,0,0,,This is Kuroshio 12, 35°03'N, 139°41'E.
+Dialogue: 0,1:36:33.75,1:36:35.46,Dialogue,,0,0,0,,A bunch of deep-sea fish emerging were spotted!
+Dialogue: 0,1:36:54.35,1:36:57.10,Dialogue,,0,0,0,,{\i1}Godzilla spotted in Sagami Bay!{\i0}
+Dialogue: 0,1:36:57.19,1:36:59.64,Dialogue,,0,0,0,,{\i1}Currently, we are trying to use an underwater{\i0}
+Dialogue: 0,1:36:59.64,1:37:03.36,Dialogue,,0,0,0,,{\i1}loudspeaker to guide it to the area of the operation.{\i0}
+Dialogue: 0,1:37:03.44,1:37:05.24,Dialogue,,0,0,0,,{\i1}Advance schedule for each ship!{\i0}
+Dialogue: 0,1:37:06.95,1:37:08.36,Dialogue,,0,0,0,,Let's hurry up and board the ship!
+Dialogue: 0,1:37:08.45,1:37:09.53,Dialogue,,0,0,0,,Let's hurry!
+Dialogue: 0,1:37:12.08,1:37:13.87,Dialogue,,0,0,0,,Looks like Mizushima-kun gave up.
+Dialogue: 0,1:37:13.95,1:37:15.54,Dialogue,,0,0,0,,I feel bad for him, but it can't be helped.
+Dialogue: 0,1:37:15.62,1:37:18.33,Dialogue,,0,0,0,,I actually don't want Shiki-san to fly either.
+Dialogue: 0,1:37:18.42,1:37:21.04,Dialogue,,0,0,0,,Isn't Shiki-san a suicide attack survivor?
+Dialogue: 0,1:37:21.13,1:37:22.09,Dialogue,,0,0,0,,Seems impossible.
+Dialogue: 0,1:37:22.17,1:37:23.60,Dialogue,,0,0,0,,Akiko is here.
+Dialogue: 0,1:37:23.60,1:37:25.30,Dialogue,,0,0,0,,He'll definently come back.
+Dialogue: 0,1:37:35.35,1:37:38.14,Dialogue,,0,0,0,,{\i1}Underwater loudspeaker destroyed.{\i0}
+Dialogue: 0,1:37:38.23,1:37:40.71,Dialogue,,0,0,0,,{\i1}Godzilla has invaded Sagami Bay.{\i0}
+Dialogue: 0,1:37:40.71,1:37:43.57,Dialogue,,0,0,0,,{\i1}Wadatsumi Squadron, set sail immediately.{\i0}
+Dialogue: 0,1:37:44.23,1:37:45.36,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,1:37:46.32,1:37:47.49,Dialogue,,0,0,0,,Over there!
+Dialogue: 0,1:37:47.57,1:37:49.57,Dialogue,,0,0,0,,It's here already?
+Dialogue: 0,1:38:00.58,1:38:02.96,Dialogue,,0,0,0,,Godzilla breaks through the final defense zone!
+Dialogue: 0,1:38:03.04,1:38:04.46,Dialogue,,0,0,0,,Landing is imminent!
+Dialogue: 0,1:38:05.30,1:38:06.13,Dialogue,,0,0,0,,I'm leaving!
+Dialogue: 0,1:39:01.44,1:39:03.48,Dialogue,,0,0,0,,With this, you're going to end it all.
+Dialogue: 0,1:39:04.81,1:39:06.19,Dialogue,,0,0,0,,Shikishima.
+Dialogue: 0,1:39:06.27,1:39:08.53,Dialogue,,0,0,0,,{\i1}Depart from port immediately.{\i0}
+Dialogue: 0,1:39:08.61,1:39:11.97,Dialogue,,0,0,0,,{\i1}Repeat, all ships of the Wadatsumi Squadron{\i0}
+Dialogue: 0,1:39:11.97,1:39:13.36,Dialogue,,0,0,0,,{\i1}are to depart from port immediately.{\i0}
+Dialogue: 0,1:39:19.62,1:39:21.20,Dialogue,,0,0,0,,What should we do?
+Dialogue: 0,1:39:21.20,1:39:22.79,Dialogue,,0,0,0,,The plan's completely falling apart!
+Dialogue: 0,1:39:22.87,1:39:24.96,Dialogue,,0,0,0,,Even so, we'll still set sail.
+Dialogue: 0,1:39:25.04,1:39:27.70,Dialogue,,0,0,0,,The missles must be fired from the coast of Sagami Bay,
+Dialogue: 0,1:39:27.70,1:39:29.67,Dialogue,,0,0,0,,where they'll have the greatest effect.
+Dialogue: 0,1:39:30.17,1:39:33.43,Dialogue,,0,0,0,,All we can do is rely on Shiki-san to lure it.
+Dialogue: 0,1:39:33.51,1:39:34.51,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,1:39:34.59,1:39:36.22,Dialogue,,0,0,0,,Let's do it!
+Dialogue: 0,1:39:51.94,1:39:52.67,Dialogue,,0,0,0,,Noda-san!
+Dialogue: 0,1:39:52.67,1:39:54.11,Dialogue,,0,0,0,,It's from Shikishima-san!
+Dialogue: 0,1:39:55.78,1:39:58.24,Dialogue,,0,0,0,,This is Shikishima, takeoff was a success.
+Dialogue: 0,1:39:58.33,1:40:00.50,Dialogue,,0,0,0,,Now luring Godzilla into the operation area.
+Dialogue: 0,1:40:00.58,1:40:02.62,Dialogue,,0,0,0,,We'll be ready soon too.
+Dialogue: 0,1:40:02.71,1:40:04.00,Dialogue,,0,0,0,,So let's get to the operation area quickly...
+Dialogue: 0,1:40:04.08,1:40:05.57,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,1:40:05.57,1:40:06.88,Dialogue,,0,0,0,,Don't do anything crazy!
+Dialogue: 0,1:40:06.96,1:40:08.35,Dialogue,,0,0,0,,If you leave Akiko all alone,
+Dialogue: 0,1:40:08.35,1:40:09.21,Dialogue,,0,0,0,,I'll never forgive you!
+Dialogue: 0,1:40:12.47,1:40:14.30,Dialogue,,0,0,0,,Can you hear me, Shikishima?
+Dialogue: 0,1:40:15.93,1:40:17.93,Dialogue,,0,0,0,,Damn it, he's ignoring me...
+Dialogue: 0,1:40:41.20,1:40:43.08,Dialogue,,0,0,0,,Telegram!
+Dialogue: 0,1:40:44.04,1:40:45.04,Dialogue,,0,0,0,,Yes...
+Dialogue: 0,1:40:51.75,1:40:52.59,Dialogue,,0,0,0,,Yes?
+Dialogue: 0,1:40:52.67,1:40:54.17,Dialogue,,0,0,0,,Are you Shikishima-san?
+Dialogue: 0,1:40:56.51,1:40:57.34,Dialogue,,0,0,0,,It's a telegram.
+Dialogue: 0,1:40:57.43,1:40:58.39,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,1:42:23.40,1:42:25.43,Dialogue,,0,0,0,,That's a big deal!
+Dialogue: 0,1:42:25.93,1:42:29.35,Dialogue,,0,0,0,,Godzilla's quite pissed off.
+Dialogue: 0,1:42:29.44,1:42:30.52,Dialogue,,0,0,0,,It's in pursuit.
+Dialogue: 0,1:42:31.15,1:42:32.65,Dialogue,,0,0,0,,It's our turn, isn't it?
+Dialogue: 0,1:42:35.86,1:42:37.23,Dialogue,,0,0,0,,All ships, prepare for battle!
+Dialogue: 0,1:42:37.32,1:42:39.86,Dialogue,,0,0,0,,All ships, prepare for battle!
+Dialogue: 0,1:42:42.16,1:42:43.41,Dialogue,,0,0,0,,Freon cylinders, all right!
+Dialogue: 0,1:42:43.49,1:42:45.16,Dialogue,,0,0,0,,46cm shells, all right!
+Dialogue: 0,1:42:45.24,1:42:46.54,Dialogue,,0,0,0,,Floatation device switch, all right!
+Dialogue: 0,1:42:46.62,1:42:48.16,Dialogue,,0,0,0,,Concentration cables, all right!
+Dialogue: 0,1:42:48.25,1:42:50.54,Dialogue,,0,0,0,,All circuits connected!
+Dialogue: 0,1:42:50.62,1:42:53.38,Dialogue,,0,0,0,,Checking power and releasing the safety.
+Dialogue: 0,1:43:09.89,1:43:12.35,Dialogue,,0,0,0,,All right, nice!
+Dialogue: 0,1:43:14.06,1:43:15.86,Dialogue,,0,0,0,,Unit 1, attack as planned.
+Dialogue: 0,1:43:15.94,1:43:18.23,Dialogue,,0,0,0,,As planned!
+Dialogue: 0,1:43:49.31,1:43:51.06,Dialogue,,0,0,0,,Nice!
+Dialogue: 0,1:44:27.64,1:44:28.51,Dialogue,,0,0,0,,That's...
+Dialogue: 0,1:44:29.10,1:44:30.35,Dialogue,,0,0,0,,Godzilla's Heat Ray.
+Dialogue: 0,1:44:33.02,1:44:35.31,Dialogue,,0,0,0,,It's impossible to do this type of thing!
+Dialogue: 0,1:44:35.39,1:44:36.49,Dialogue,,0,0,0,,Captain!
+Dialogue: 0,1:44:36.49,1:44:38.31,Dialogue,,0,0,0,,I recommend evacuating the ship right now!
+Dialogue: 0,1:44:38.40,1:44:39.69,Dialogue,,0,0,0,,No. This is good.
+Dialogue: 0,1:44:39.77,1:44:41.28,Dialogue,,0,0,0,,Please start the operation immediately.
+Dialogue: 0,1:44:41.36,1:44:43.19,Dialogue,,0,0,0,,But when will Heat Ray come again?
+Dialogue: 0,1:44:43.28,1:44:44.40,Dialogue,,0,0,0,,As I told you,
+Dialogue: 0,1:44:44.49,1:44:45.71,Dialogue,,0,0,0,,Once the Heat Ray is used,
+Dialogue: 0,1:44:45.71,1:44:47.49,Dialogue,,0,0,0,,it takes time to regenerate it.
+Dialogue: 0,1:44:48.07,1:44:49.20,Dialogue,,0,0,0,,Now!
+Dialogue: 0,1:44:50.45,1:44:51.66,Dialogue,,0,0,0,,Please make up your mind!
+Dialogue: 0,1:44:57.17,1:44:59.25,Dialogue,,0,0,0,,Operation Wadatsumi begins!
+Dialogue: 0,1:45:17.69,1:45:20.09,Dialogue,,0,0,0,,Start to deploy the 46cm shells, cylinders,
+Dialogue: 0,1:45:20.09,1:45:21.86,Dialogue,,0,0,0,,and floatation devices!
+Dialogue: 0,1:45:47.34,1:45:48.84,Dialogue,,0,0,0,,Shiki-san!
+Dialogue: 0,1:46:14.79,1:46:15.95,Dialogue,,0,0,0,,Crane deployed!
+Dialogue: 0,1:46:16.04,1:46:17.04,Dialogue,,0,0,0,,Copy that!
+Dialogue: 0,1:46:17.87,1:46:19.83,Dialogue,,0,0,0,,Send to Hibiki, maintain course.
+Dialogue: 0,1:46:20.33,1:46:22.63,Dialogue,,0,0,0,,Hibiki, maintain course.
+Dialogue: 0,1:46:22.71,1:46:24.32,Dialogue,,0,0,0,,I don't mind a little damage,
+Dialogue: 0,1:46:24.32,1:46:25.96,Dialogue,,0,0,0,,we're going to maintain this level of speed!
+Dialogue: 0,1:46:30.43,1:46:32.93,Dialogue,,0,0,0,,Hibiki approaching, 4 meters.
+Dialogue: 0,1:46:34.01,1:46:35.10,Dialogue,,0,0,0,,2 meters.
+Dialogue: 0,1:46:35.60,1:46:37.18,Dialogue,,0,0,0,,Brace for impact.
+Dialogue: 0,1:46:37.27,1:46:38.73,Dialogue,,0,0,0,,Brace for impact!
+Dialogue: 0,1:46:53.62,1:46:54.90,Dialogue,,0,0,0,,Cross complete!
+Dialogue: 0,1:46:54.90,1:46:55.62,Dialogue,,0,0,0,,Full speed ahead!
+Dialogue: 0,1:46:55.70,1:46:56.83,Dialogue,,0,0,0,,Full speed ahead!
+Dialogue: 0,1:46:57.84,1:46:58.16,Dialogue,,0,0,0,,Full speed ahead!
+Dialogue: 0,1:47:12.93,1:47:14.35,Dialogue,,0,0,0,,All right...
+Dialogue: 0,1:47:14.35,1:47:15.43,Dialogue,,0,0,0,,All right!
+Dialogue: 0,1:47:15.93,1:47:17.18,Dialogue,,0,0,0,,Chou-san, switch!
+Dialogue: 0,1:47:26.61,1:47:27.95,Dialogue,,0,0,0,,Crap.
+Dialogue: 0,1:47:27.95,1:47:28.90,Dialogue,,0,0,0,,Already?
+Dialogue: 0,1:47:30.11,1:47:31.32,Dialogue,,0,0,0,,Almost...
+Dialogue: 0,1:47:42.08,1:47:43.92,Dialogue,,0,0,0,,Ready...
+Dialogue: 0,1:47:53.51,1:47:54.51,Dialogue,,0,0,0,,Chou-san, now!
+Dialogue: 0,1:47:57.64,1:47:58.64,Dialogue,,0,0,0,,Cylinder!
+Dialogue: 0,1:47:58.64,1:47:59.26,Dialogue,,0,0,0,,All right!
+Dialogue: 0,1:48:15.91,1:48:18.41,Dialogue,,0,0,0,,Depth: 1200.
+Dialogue: 0,1:48:19.41,1:48:20.49,Dialogue,,0,0,0,,1300.
+Dialogue: 0,1:48:21.12,1:48:21.95,Dialogue,,0,0,0,,1400.
+Dialogue: 0,1:48:22.04,1:48:23.16,Dialogue,,0,0,0,,Go!
+Dialogue: 0,1:48:23.25,1:48:24.92,Dialogue,,0,0,0,,Go!
+Dialogue: 0,1:48:26.33,1:48:27.63,Dialogue,,0,0,0,,1500.
+Dialogue: 0,1:48:27.71,1:48:30.09,Dialogue,,0,0,0,,Target depth reached!
+Dialogue: 0,1:48:42.18,1:48:45.02,Dialogue,,0,0,0,,Godzilla has gone silent!
+Dialogue: 0,1:48:45.10,1:48:46.48,Dialogue,,0,0,0,,Did we do it?
+Dialogue: 0,1:48:54.24,1:48:55.86,Dialogue,,0,0,0,,Stubborn bastard!
+Dialogue: 0,1:48:56.45,1:48:57.78,Dialogue,,0,0,0,,Moving to the backup plan.
+Dialogue: 0,1:48:57.87,1:48:59.03,Dialogue,,0,0,0,,Do it.
+Dialogue: 0,1:49:17.51,1:49:19.26,Dialogue,,0,0,0,,Come up here!
+Dialogue: 0,1:49:19.89,1:49:21.81,Dialogue,,0,0,0,,Depth: 1200.
+Dialogue: 0,1:49:22.31,1:49:23.87,Dialogue,,0,0,0,,1100!
+Dialogue: 0,1:49:23.87,1:49:24.31,Dialogue,,0,0,0,,1000!
+Dialogue: 0,1:49:32.86,1:49:34.19,Dialogue,,0,0,0,,The cables have stopped!
+Dialogue: 0,1:49:34.78,1:49:36.90,Dialogue,,0,0,0,,They stopped at a depth of 803!
+Dialogue: 0,1:49:38.49,1:49:39.86,Dialogue,,0,0,0,,Why?
+Dialogue: 0,1:49:39.86,1:49:40.32,Dialogue,,0,0,0,,Why did they stop?
+Dialogue: 0,1:49:45.04,1:49:46.46,Dialogue,,0,0,0,,He chewed them all apart.
+Dialogue: 0,1:49:49.67,1:49:50.50,Dialogue,,0,0,0,,To Hibiki!
+Dialogue: 0,1:49:50.50,1:49:52.09,Dialogue,,0,0,0,,We'll pull from all directions to lift up Godzilla.
+Dialogue: 0,1:49:52.17,1:49:53.75,Dialogue,,0,0,0,,Full speed ahead at 90 degrees!
+Dialogue: 0,1:49:53.84,1:49:56.42,Dialogue,,0,0,0,,But the thrust of 2 ships isn't enough.
+Dialogue: 0,1:49:57.01,1:49:58.55,Dialogue,,0,0,0,,There's no other options!
+Dialogue: 0,1:49:58.63,1:50:00.01,Dialogue,,0,0,0,,Do everything you can!
+Dialogue: 0,1:50:00.64,1:50:01.76,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,1:50:18.36,1:50:19.93,Dialogue,,0,0,0,,If this continues,
+Dialogue: 0,1:50:19.93,1:50:21.74,Dialogue,,0,0,0,,the crane won't be able to hold it anymore!
+Dialogue: 0,1:50:21.82,1:50:23.24,Dialogue,,0,0,0,,It's no good!
+Dialogue: 0,1:50:45.51,1:50:50.29,Dialogue,,0,0,0,,{\i1}This is the Yokohama Tugboat company's Fujimaru.{\i0}
+Dialogue: 0,1:50:50.29,1:50:52.35,Dialogue,,0,0,0,,{\i1}We'll do our best to help out.{\i0}
+Dialogue: 0,1:50:52.90,1:50:53.90,Dialogue,,0,0,0,,That voice...
+Dialogue: 0,1:50:54.73,1:50:56.77,Dialogue,,0,0,0,,{\i1}It's Mizushima.{\i0}
+Dialogue: 0,1:50:56.77,1:50:57.53,Dialogue,,0,0,0,,{\i1}Are you the captain?{\i0}
+Dialogue: 0,1:50:58.65,1:51:00.82,Dialogue,,0,0,0,,Kid! It's you?
+Dialogue: 0,1:51:01.74,1:51:02.61,Dialogue,,0,0,0,,Yes!
+Dialogue: 0,1:51:02.70,1:51:06.49,Dialogue,,0,0,0,,{\i1}This is Koeimaru, another ship from Tōyō Kisen.{\i0}
+Dialogue: 0,1:51:06.58,1:51:08.63,Dialogue,,0,0,0,,{\i1}We, the Nikkōmaru from Yokohama Tugboat Co.,{\i0}
+Dialogue: 0,1:51:08.63,1:51:10.21,Dialogue,,0,0,0,,{\i1}will cooperate.{\i0}
+Dialogue: 0,1:51:10.21,1:51:12.00,Dialogue,,0,0,0,,{\i1}Shiokazemaru will assist you.{\i0}
+Dialogue: 0,1:51:12.08,1:51:13.37,Dialogue,,0,0,0,,{\i1}Tetsuyūmaru.{\i0}
+Dialogue: 0,1:51:13.37,1:51:14.29,Dialogue,,0,0,0,,{\i1}Nanamimaru.{\i0}
+Dialogue: 0,1:51:14.29,1:51:14.59,Dialogue,,0,0,0,,{\i1}Minamimaru.{\i0}
+Dialogue: 0,1:51:14.67,1:51:15.96,Dialogue,,0,0,0,,{\i1}Kisshōmaru.{\i0}
+Dialogue: 0,1:51:15.93,1:51:16.87,Dialogue,,0,0,0,,{\i1}Junseimaru.{\i0}
+Dialogue: 0,1:51:17.49,1:51:18.13,Dialogue,,0,0,0,,{\i1}Heimitsumaru.{\i0}
+Dialogue: 0,1:51:18.13,1:51:19.60,Dialogue,,0,0,0,,{\i1}Tenyūmaru.{\i0}
+Dialogue: 0,1:51:19.60,1:51:20.33,Dialogue,,0,0,0,,{\i1}Kaiōmaru.{\i0}
+Dialogue: 0,1:51:20.33,1:51:20.63,Dialogue,,0,0,0,,{\i1}Yūga.{\i0}
+Dialogue: 0,1:51:21.01,1:51:22.30,Dialogue,,0,0,0,,{\i1}Chōkamaru.{\i0}
+Dialogue: 0,1:51:21.55,1:51:23.21,Dialogue,,0,0,0,,{\i1}Jūseimaru.{\i0}
+Dialogue: 0,1:51:23.21,1:51:23.51,Dialogue,,0,0,0,,{\i1}Taramaru.{\i0}
+Dialogue: 0,1:51:23.51,1:51:23.76,Dialogue,,0,0,0,,{\i1}Yasagamaru.{\i0}
+Dialogue: 0,1:51:23.84,1:51:26.89,Dialogue,,0,0,0,,Please stop calling me "useless!"
+Dialogue: 0,1:51:28.77,1:51:30.02,Dialogue,,0,0,0,,All right!
+Dialogue: 0,1:51:30.10,1:51:31.98,Dialogue,,0,0,0,,You don't say.
+Dialogue: 0,1:51:32.06,1:51:35.06,Dialogue,,0,0,0,,I'm both surprised and impressed with him.
+Dialogue: 0,1:51:35.15,1:51:36.73,Dialogue,,0,0,0,,Get the tugboats!
+Dialogue: 0,1:51:36.82,1:51:38.78,Dialogue,,0,0,0,,All the ships will pull up Godzilla!
+Dialogue: 0,1:51:38.86,1:51:40.65,Dialogue,,0,0,0,,Get the tugboats!
+Dialogue: 0,1:51:40.74,1:51:42.70,Dialogue,,0,0,0,,Get the tugboats!
+Dialogue: 0,1:52:07.30,1:52:10.22,Dialogue,,0,0,0,,The depth has started increasing!
+Dialogue: 0,1:52:11.64,1:52:14.73,Dialogue,,0,0,0,,Come up here, come up here!
+Dialogue: 0,1:52:15.23,1:52:17.77,Dialogue,,0,0,0,,Depth: 700.
+Dialogue: 0,1:52:18.40,1:52:20.40,Dialogue,,0,0,0,,Raise, raise, raise...
+Dialogue: 0,1:52:51.39,1:52:52.93,Dialogue,,0,0,0,,It's not damaged enough!
+Dialogue: 0,1:52:53.89,1:52:56.06,Dialogue,,0,0,0,,All ships take evasive action!
+Dialogue: 0,1:53:46.90,1:53:48.53,Dialogue,,0,0,0,,What's he going to do?
+Dialogue: 0,1:53:48.61,1:53:49.70,Dialogue,,0,0,0,,No way!
+Dialogue: 0,1:53:53.54,1:53:54.41,Dialogue,,0,0,0,,That can't be!
+Dialogue: 0,1:53:54.49,1:53:55.24,Dialogue,,0,0,0,,It's no good!
+Dialogue: 0,1:53:55.85,1:53:57.33,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,1:54:24.44,1:54:25.44,Dialogue,,0,0,0,,Shikishima...
+Dialogue: 0,1:54:40.79,1:54:42.25,Dialogue,,0,0,0,,No, that!
+Dialogue: 0,1:54:47.13,1:54:48.26,Dialogue,,0,0,0,,I see...
+Dialogue: 0,1:54:49.97,1:54:51.47,Dialogue,,0,0,0,,I see.
+Dialogue: 0,1:54:54.14,1:54:57.60,Dialogue,,0,0,0,,The crew member escaped safely.
+Dialogue: 0,1:55:06.07,1:55:08.65,Dreamy Dialogue,,0,0,0,,This seat serves as an escape device.
+Dialogue: 0,1:55:09.82,1:55:11.70,Dreamy Dialogue,,0,0,0,,Pull that lever to activate it.
+Dialogue: 0,1:55:15.41,1:55:16.54,Dreamy Dialogue,,0,0,0,,Live.
+Dialogue: 0,1:55:19.04,1:55:20.37,Dialogue,,0,0,0,,Tachibana-san.
+Dialogue: 0,1:56:51.05,1:56:52.13,Dialogue,,0,0,0,,Shikishima!
+Dialogue: 0,1:56:57.64,1:56:58.76,Dialogue,,0,0,0,,You did it!
+Dialogue: 0,1:56:59.68,1:57:00.89,Dialogue,,0,0,0,,You did it!
+Dialogue: 0,1:57:02.97,1:57:04.23,Dialogue,,0,0,0,,Kid!
+Dialogue: 0,1:57:08.27,1:57:09.11,Dialogue,,0,0,0,,Sumiko-san!
+Dialogue: 0,1:57:09.19,1:57:10.36,Dialogue,,0,0,0,,Kōichi-san!
+Dialogue: 0,1:57:11.32,1:57:12.53,Dialogue,,0,0,0,,Kōichi-san...
+Dialogue: 0,1:57:12.61,1:57:13.82,Dialogue,,0,0,0,,Akiko...
+Dialogue: 0,1:57:20.33,1:57:21.28,Dialogue,,0,0,0,,Eh?
+Dialogue: 0,1:58:02.99,1:58:04.74,Dialogue,,0,0,0,,Kou-san, is your war...
+Dialogue: 0,1:58:06.96,1:58:08.29,Dialogue,,0,0,0,,Over?
